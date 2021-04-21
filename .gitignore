@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ZIP File
+*.zip
+
 # C extensions
 *.so
 
@@ -127,3 +130,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Speech
+21100130/
+21100170/
+21100320/
+21100197/
+21100297/
