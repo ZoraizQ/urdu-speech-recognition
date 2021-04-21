@@ -1,0 +1,5693 @@
+<oov> <oov>_S
+آ A_A_S
+آؤ A_A_B O_O_E
+آؤٹ A_A_B U_U_I T_E
+آؤں A_A_B U_U_N_E
+آئی A_A_B I_I1_E
+آئیز A_A_B I_I1_I Z_E
+آئین A_A_B I_I1_I N_E
+آئیندہ A_A_B I_I N_I D_D_I A_A_E
+آئیوڈین A_A_B I_I1_I O_O_I D_I I_I1_I N_E
+آئیں A_A_B A_Y_N_E
+آئیے A_A_B I_I1_I J_I A_Y_E
+آئے A_A_B A_Y_E
+آباد A_A_B B_I A_A_I D_D_E
+آباواجداد A_A_B B_I A_A_I O_O_I A_I D_Z_I D_D_I A_A_I D_D_E
+آبدوزیں A_A_B B_I D_D_I O_O_I Z_I A_Y_N_E
+آبرو A_A_B B_I R_I U_U_E
+آبشار A_A_B B_I S_H_I A_A_I R_E
+آبیانہ A_A_B B_I J_I A_A_I N_I A_A_E
+آتا A_A_B T_D_I A_A_E
+آتشبازی A_A_B T_D_I I_I S_H_I B_I A_A_I Z_I I_I1_E
+آتشزدگی A_A_B T_D_I I_I S_H_I Z_I A_I D_D_I G_I I_I1_E
+آتشیں A_A_B T_D_I I_I S_H_I I_I_N_E
+آتی A_A_B T_D_I I_I1_E
+آج A_A_B D_Z_E
+آخرالزمان A_A_B X_I I_I R_I U_I Z_I Z_I A_I M_I A_A_I N_E
+آخری A_A_B X_I R_I I_I1_E
+آدمی A_A_B D_D_I M_I I_I1_E
+آدھ A_A_B D_D_H_E
+آدھا A_A_B D_D_H_I A_A_E
+آدھی A_A_B D_D_H_I I_I1_E
+آدھے A_A_B D_D_H_I A_Y_E
+آر A_A_B R_E
+آرتھو A_A_B R_I T_D_H_I O_O_E
+آرتھوپیڈک A_A_B R_I T_D_H_I O_O_I P_I A_E1_I D_I I_I K_E
+آرزو A_A_B R_I Z_I U_U_E
+آرزوئیں A_A_B R_I Z_I U_U_I A_Y_N_E
+آرٹلری A_A_B R_I T_I I_I L_I R_I I_I1_E
+آرڈیننس A_A_B R_I D_I I_I1_I N_I I_I N_I S_E
+آرکائیوز A_A_B R_I K_I A_A_I I_I1_I V_I Z_E
+آرگنائزنگ A_A_B R_I G_I A_I N_I A_A_I I_I Z_I I_I N_G_E
+آرگنائزیشن A_A_B R_I G_I N_I A_A_I I_I Z_I A_Y_I S_H_I A_I N_E
+آزاد A_A_B Z_I A_A_I D_D_E
+آزادی A_A_B Z_I A_A_I D_D_I I_I1_E
+آزمائیں A_A_B Z_I M_I A_A_I A_Y_N_E
+آسان A_A_B S_I A_A_I N_E
+آسرا A_A_B S_I R_I A_A_E
+آسمان A_A_B S_I M_I A_A_I N_E
+آسٹریلوی A_A_B S_I T_I A_I R_I A_Y_I L_I V_I I_I1_E
+آسیہ A_A_B S_I J_I A_A_E
+آشرم A_A_B S_H_I R_I A_I M_E
+آشنا A_A_B S_H_I N_I A_A_E
+آشوب A_A_B S_H_I O_O_I B_E
+آشیانہ A_A_B S_H_I J_I A_A_I N_I A_A_E
+آشیرباد A_A_B S_H_I I_I1_I R_I B_I A_A_I D_D_E
+آغا A_A_B G_G_I A_A_E
+آغاز A_A_B G_G_I A_A_I Z_E
+آغوش A_A_B G_G_I O_O_I S_H_E
+آف A_A_B F_E
+آفریدی A_A_B F_I R_I I_I1_I D_D_I I_I1_E
+آفرین A_A_B F_I R_I I_I1_I N_E
+آفس A_A_B F_I I_I S_E
+آفیشلز A_A_B F_I I_I1_I S_H_I A_I L_I Z_E
+آقا A_A_B Q_I A_A_E
+آقاؤں A_A_B Q_I A_A_I O_O_N_E
+آلود A_A_B L_I U_U_I D_D_E
+آلودگی A_A_B L_I U_U_I D_D_I G_I I_I1_E
+آلوچہ A_A_B L_I U_U_I T_S1_I A_A_E
+آماجگاہ A_A_B M_I A_A_I D_Z_I G_I A_A_E
+آمدنی A_A_B M_I D_D_I A_I N_I I_I1_E
+آمدورفت A_A_B M_I D_D_I O_O_I R_I A_I F_I T_D_E
+آمیزش A_A_B M_I A_Y_I Z_I I_I S_H_E
+آمیزے A_A_B M_I A_Y_I Z_I A_Y_E
+آن A_A_B N_E
+آندھیاں A_A_B N_I D_D_H_I I_I J_I A_A_N_E
+آنسو A_A_B N_I S_I U_U_E
+آنسوؤں A_A_B N_I S_I U_U_I O_O_N_E
+آنکھ A_A_B N_I K_H_E
+آنکھو A_A_B N_I K_H_I O_O_E
+آنکھوں A_A_B N_I K_H_I O_O_N_E
+آنکھیں A_A_B N_I K_H_I A_Y_N_E
+آنگن A_A_B N_G_I G_I A_I N_E
+آنے A_A_B N_I A_Y_E
+آواز A_A_B V_I A_A_I Z_E
+آوازیں A_A_B V_I A_A_I Z_I A_Y_N_E
+آویزاں A_A_B V_I A_Y_I Z_I A_A_N_E
+آٹھ A_A_B T_H_E
+آٹھواں A_A_B T_H_I V_I A_A_N_E
+آٹھوں A_A_B T_H_I O_O_N_E
+آٹھویں A_A_B T_H_I V_I A_Y_N_E
+آپ A_A_B P_E
+آپریشن A_A_B P_I R_I A_Y_I S_H_I A_I N_E
+آڑ A_A_B R_R_E
+آڑو A_A_B R_R_I O_O_E
+آڑھا A_A_B R_R_H_I A_A_E
+آڑھتی A_A_B R_R_H_I T_D_I I_I1_E
+آڑے A_A_B R_R_I A_Y_E
+آکر A_A_B K_I A_I R_E
+آکسیجن A_A_B K_I S_I I_I1_I D_Z_I A_I N_E
+آگ A_A_B G_E
+آگاہی A_A_B G_I A_A_I H_I I_I1_E
+آگے A_A_B G_I A_Y_E
+آہستہ A_A_B H_I I_I S_I T_D_I A_A_E
+آیئں A_A_B A_Y_N_E
+آیا A_A_B J_I A_A_E
+آیوڈین A_A_B J_I O_O_I D_I I_I1_I N_E
+اؤٹ U_U_B A_I T_E
+اب A_B B_E
+ابتدائی I_B B_I T_D_I I_I D_D_I A_A_I I_I1_E
+ابجد A_B B_I D_Z_I A_I D_D_E
+ابرار I_B B_I R_I A_A_I R_E
+ابزرور A_B B_I Z_I R_I O_O_I R_E
+ابصار A_B B_I S_I A_A_I R_E
+ابلاغ I_B B_I L_I A_A_I G_G_E
+ابو A_B B_I U_U_E
+ابواب A_B B_I V_I A_A_I B_E
+ابڑو A_B B_I R_R_I U_U_E
+ابھار U_B B_H_I A_A_I R_E
+ابھر U_B B_H_I A_I R_E
+ابھرا U_B B_H_I R_I A_A_E
+ابھری U_B B_H_I R_I I_I1_E
+ابھریں U_B B_H_I R_I A_Y_N_E
+ابھرے U_B B_H_I R_I A_Y_E
+اتحاد I_B T_D_I T_D_I I_I H_I A_A_I D_D_E
+اتفاق I_B T_D_I T_D_I I_I F_I A_A_I Q_E
+اتھارٹی A_B T_D_H_I A_A_I R_I I_I T_I I_I1_E
+اتھل U_B T_D_H_I A_I L_E
+اتھلیٹس A_B T_D_H_I L_I I_I1_I T_I S_E
+اتھلیٹکس A_B T_D_H_I L_I I_I1_I T_I I_I K_I S_E
+اثاثوں A_B S_I A_A_I S_I O_O_N_E
+اثر A_B S_I A_I R_E
+اثرورسوخ A_B S_I A_I R_I O_O_I R_I U_I S_I U_U_I X_E
+اثنا A_B S_I N_I A_A_E
+اجازت I_B D_Z_I A_A_I Z_I A_I T_D_E
+اجاڑ U_B D_Z_I A_A_I R_R_E
+اجاگر U_B D_Z_I A_A_I G_I A_I R_E
+اجتماعات I_B D_Z_I T_D_I I_I M_I A_A_I Y_I A_A_I T_D_E
+اجتماعی I_B D_Z_I T_D_I I_I M_I A_A_I I_I1_E
+اجر A_B D_Z_I R_E
+اجرا U_B D_Z_I R_I A_A_E
+اجرت U_B D_Z_I R_I A_I T_D_E
+اجزا A_B D_Z_I Z_I A_A_E
+اجسام A_B D_Z_I S_I A_A_I M_E
+اجلاس I_B D_Z_I L_I A_A_I S_E
+اجناس A_B D_Z_I N_I A_A_I S_E
+اجنبیوں A_B D_Z_I N_I A_I B_I J_I O_O_N_E
+اجڑی U_B D_Z_I R_R_I I_I1_E
+اجڑے U_B D_Z_I R_R_I A_Y_E
+احتجاج A_Y_B H_I T_D_I A_Y_I D_Z_I A_A_I D_Z_E
+احترام I_B H_I T_D_I A_Y_I R_I A_A_I M_E
+احساس A_Y_B H_I S_I A_A_I S_E
+احساں I_B H_I S_I A_A_N_E
+احسن A_B H_I S_I A_I N_E
+احمد A_B H_I M_I A_I D_D_E
+احوال I_B H_I V_I A_A_I L_E
+احیا I_B H_I J_I A_A_E
+اخبار A_B X_I B_I A_A_I R_E
+اخبارنویسوں A_B X_I B_I A_A_I R_I N_I A_I V_I I_I1_I S_I O_O_N_E
+اختر A_B X_I T_D_I A_I R_E
+اختیار I_B X_I T_D_I I_I J_I A_A_I R_E
+اخراج I_B X_I R_I A_A_I D_Z_E
+اخراجات A_B X_I R_I A_A_I D_Z_I A_A_I T_D_E
+اخروٹ A_B X_I R_I O_O_I T_E
+اخلاقی A_B X_I L_I A_A_I Q_I I_I1_E
+اخوان I_B X_I V_I A_A_I N_E
+اخوندزادہ A_B X_I V_I I_I N_I D_D_I Z_I A_A_I D_D_I A_A_E
+اخوّت U_B X_I U_U_I V_I A_I T_D_E
+ادائیگی A_B D_D_I A_A_I I_I1_I G_I I_I1_E
+ادائیگیوں A_B D_D_I A_A_I I_I1_I G_I I_I1_I O_O_N_E
+اداروں I_B D_D_I A_A_I R_I O_O_N_E
+ادارے I_B D_D_I A_A_I R_I A_Y_E
+اداس U_B D_D_I A_A_I S_E
+اداکاراؤں A_B D_D_I A_A_I K_I A_A_I R_I A_A_I O_O_N_E
+اداکارائیں A_B D_D_I A_A_I K_I A_A_I R_I A_A_I A_Y_N_E
+ادب A_B D_D_I A_I B_E
+ادغام I_B D_D_I G_G_I A_A_I M_E
+ادویات A_B D_D_I V_I I_I1_I A_A_I T_D_E
+ادھار U_B D_D_H_I A_A_I R_E
+ادھم U_B D_D_H_I A_I M_E
+ادھورا A_B D_D_H_I U_U_I R_I A_A_E
+ادھیڑ U_B D_D_H_I A_Y_I R_R_E
+ادھیڑنے U_B D_D_H_I A_Y_I R_R_I N_I A_Y_E
+ادیبوں A_B D_D_I I_I1_I B_I O_O_N_E
+ارب A_B R_I A_I B_E
+ارتعاش I_B R_I T_D_I I_I A_A_I S_H_E
+ارجمند A_B R_I D_Z_I M_I A_I N_I D_D_E
+ارزاں A_B R_I Z_I A_A_N_E
+ارسال I_B R_I S_I A_A_I L_E
+ارشاد I_B R_I S_H_I A_A_I D_D_E
+ارشد A_B R_I S_H_I A_I D_D_E
+ارمغان A_B R_I M_I U_I G_G_I A_A_I N_E
+ارکان A_B R_I K_I A_A_I N_E
+ارینجڈ A_B R_I A_Y_I N_I D_Z_I D_E
+اریگیشن A_B R_I I_I1_I G_I A_Y_I S_H_I A_I N_E
+از A_B Z_E
+ازالہ A_B Z_I A_A_I L_I A_A_E
+ازاں A_B Z_I A_A_N_E
+ازبک U_B Z_I B_I A_I K_E
+ازخود A_B Z_I X_I U_I D_D_E
+ازدواجی I_B Z_I D_D_I I_I V_I A_A_I D_Z_I I_I1_E
+ازسرنو A_B Z_I S_I A_I R_I A_Y_I N_I O_E
+اس A_B S_E
+اسبغول I_B S_I S_I A_I B_I G_G_I O_O_I L_E
+استاد U_B S_I T_D_I A_A_I D_D_E
+استحصالی I_B S_I T_D_I I_I H_I S_I A_A_I L_I I_I1_E
+استحقاق I_B S_I T_D_I I_I H_I Q_I A_A_I Q_E
+استعفے I_B S_I T_D_I I_I F_I A_Y_E
+استعمال I_B S_I T_D_I A_Y_I M_I A_A_I L_E
+استغاثہ I_B S_I T_D_I I_I G_G_I A_A_I S_I A_A_E
+استغراق I_B S_I T_D_I I_I G_G_I R_I A_A_I Q_E
+استغفار I_B S_I T_D_I I_I G_G_I F_I A_A_I R_E
+استغنا I_B S_I T_D_I I_I G_G_I N_I A_A_E
+استفادے I_B S_I T_D_I A_Y_I F_I A_A_I D_D_I A_Y_E
+استفسار I_B S_I T_D_I I_I F_I S_I A_A_I R_E
+استفہامیہ I_B S_I T_D_I I_I F_I H_I A_A_I M_I I_I J_I A_A_E
+استقلال I_B S_I T_D_I A_Y_I Q_I L_I A_A_I L_E
+استھان A_B S_I T_D_H_I A_A_I N_E
+اسجد A_B S_I D_Z_I A_I D_D_E
+اسرائیلی I_B S_I R_I A_A_I I_I1_I L_I I_I1_E
+اسسٹنٹ A_B S_I I_I S_I T_I A_I N_I T_E
+اسقاط I_B S_I Q_I A_A_I T_D_E
+اسلامی I_B S_I L_I A_A_I M_I I_I1_E
+اسلحہ A_B S_I L_I A_Y_I H_I A_A_E
+اسلم I_B S_I L_I A_I M_E
+اسلوب U_B S_I L_I U_U_I B_E
+اسمبلی A_B S_I A_I M_I B_I L_I I_I1_E
+اسود A_B S_I V_I A_I D_D_E
+اسٹورز I_B S_I T_I O_O_I R_I Z_E
+اسکواڈ I_B S_I K_I U_I V_I A_A_I D_E
+اسہال I_B S_I H_I A_A_I L_E
+اسی U_B S_I I_I1_E
+اسے A_B S_I A_Y_E
+اشارہ I_B S_H_I A_A_I R_I A_A_E
+اشاعت I_B S_H_I A_A_I A_I T_D_E
+اشتعال I_B S_H_I T_D_I I_I A_A_I L_E
+اشجار A_B S_H_I D_Z_I A_A_I R_E
+اشخاص A_B S_H_I X_I A_A_I S_E
+اشد A_B S_H_I H_I A_I D_D_E
+اشرف A_B S_H_I R_I A_I F_E
+اشعار A_B S_H_I A_A_I R_E
+اشفاق A_B S_H_I F_I A_A_I Q_E
+اشیا A_B S_H_I J_I A_A_E
+اصحاب A_B S_I H_I A_A_I B_E
+اصغر A_B S_I G_G_I A_I R_E
+اصل A_B S_I L_E
+اصلاحات I_B S_I L_I A_A_I H_I A_A_I T_D_E
+اضافہ I_B Z_I A_A_I F_I A_A_E
+اضافے I_B Z_I A_A_I F_I A_Y_E
+اضلاع I_B Z_I L_I A_A_E
+اطالوی I_B T_D_I A_A_I L_I V_I I_I1_E
+اطلاعات I_B T_D_I T_D_I I_I L_I A_A_I A_A_I T_D_E
+اظہار I_B Z_I H_I A_A_I R_E
+اعادہ I_B A_A_I D_D_I A_A_E
+اعانت A_Y_B A_A_I N_I A_I T_D_E
+اعتبار A_Y_B T_D_I I_I B_I A_A_I R_E
+اعتراف A_Y_B T_D_I I_I R_I A_A_I F_E
+اعتماد A_Y_B T_D_I I_I M_I A_A_I D_D_E
+اعدادوشمار A_B D_D_I A_A_I D_D_I O_O_I S_H_I U_I M_I A_A_I R_E
+اعزاز A_Y_B Z_I A_A_I Z_E
+اعزہ A_B I_I Z_I Z_I A_A_E
+اعظم A_A_B Z_I A_I M_E
+اعلامیے I_B L_I A_A_I M_I I_I1_I A_Y_E
+اعلان A_Y_B L_I A_A_I N_E
+اغراض A_B G_G_I R_I A_A_I Z_E
+اغوا I_B G_G_I V_I A_A_E
+اغیار A_B G_G_I J_I A_A_I R_E
+افادہ I_B F_I A_A_I D_D_I A_A_E
+افتادہ U_B F_I T_D_I A_A_I D_D_I A_A_E
+افراد A_B F_I R_I A_A_I D_D_E
+افراط I_B F_I R_I A_A_I T_D_E
+افزائش A_B F_I Z_I A_A_I I_I S_H_E
+افزودگی A_B F_I Z_I U_U_I D_D_I A_I G_I I_I1_E
+افسانے A_B F_I S_I A_A_I N_I A_Y_E
+افسران A_B F_I S_I A_I R_I A_A_I N_E
+افسردہ A_B F_I S_I U_I R_I D_D_I A_A_E
+افسوس A_B F_I S_I O_O_I S_E
+افسوسناک A_B F_I S_I O_O_I S_I N_I A_A_I K_E
+افشا I_B F_I S_H_I A_A_E
+افضل A_B F_I Z_I A_I L_E
+افغان A_B F_I G_G_I A_A_I N_E
+افق U_B F_I U_I Q_E
+افلاس I_B F_I L_I A_A_I S_E
+افواج A_B F_I V_I A_A_I D_Z_E
+افورڈ A_B F_I O_O_I R_I D_E
+افکار U_B F_I K_I A_A_I R_E
+افگن A_B F_I G_I A_I N_E
+افیم A_B F_I I_I1_I M_E
+افیون A_B F_I J_I U_U_I N_E
+افیکٹ I_B F_I A_E1_I K_I T_E
+اقبال I_B Q_I B_I A_A_I L_E
+اقتصادی I_B Q_I T_D_I I_I S_I A_A_I D_D_I I_I1_E
+اقدامات I_B Q_I D_D_I A_A_I M_I A_A_I T_D_E
+اقرار I_B Q_I R_I A_A_I R_E
+اقربا A_B Q_I R_I A_I B_I A_A_E
+اقلیتوں A_B Q_I L_I I_I1_I J_I A_I T_D_I O_O_N_E
+اقوام A_B Q_I V_I A_A_I M_E
+الاؤنس A_B L_I A_A_I U_U_I N_I S_E
+البتہ A_B L_I B_I A_I T_D_I T_D_I A_A_E
+الجھ U_B L_I A_I D_Z_H_E
+الجھا U_B L_I D_Z_H_I A_A_E
+الجھاؤ U_B L_I D_Z_H_I A_A_I O_O_E
+الجھن U_B L_I D_Z_H_I A_I N_E
+الجھی U_B L_I D_Z_H_I I_I1_E
+الجھیں U_B L_I D_Z_H_I A_Y_N_E
+الجھے U_B L_I D_Z_H_I A_Y_E
+الحاج A_B L_I H_I A_A_I D_Z_E
+الحاق I_B L_I H_I A_A_I Q_E
+الزام I_B L_I Z_I A_A_I M_E
+السی A_B L_I S_I I_I1_E
+الفاظ A_B L_I F_I A_A_I Z_E
+الفت U_B L_I F_I A_I T_D_E
+اللہ A_A_B L_I L_I A_I H_E
+المیوں A_B L_I M_I I_I J_I J_I O_O_N_E
+الوداع A_B L_I V_I I_I D_D_I A_A_E
+الہیات I_B L_I A_I H_I J_I A_A_I T_D_E
+الیون A_B L_I A_E1_I V_I A_I N_E
+الیکشن I_B L_I A_E1_I K_I S_H_I A_I N_E
+الیکڑانکس I_B L_I A_E1_I K_I T_I I_I R_I A_A_I N_I I_I K_I S_E
+امجد A_B M_I D_Z_I A_I D_D_E
+امداد I_B M_I D_D_I A_A_I D_D_E
+امراض A_B M_I R_I A_A_I Z_E
+امرتا A_B M_I R_I I_I T_D_I A_A_E
+امرتسری A_B M_I R_I A_I T_D_I S_I A_I R_I I_I1_E
+امرود A_B M_I R_I U_U_I D_D_E
+امروہی A_B M_I R_I O_O_I H_I I_I1_E
+امریکی A_B M_I R_I I_I1_I K_I I_I1_E
+امن A_B M_I A_I N_E
+امور U_B M_I U_U_I R_E
+امپائر A_Y_B M_I P_I A_A_I A_Y_I R_E
+امیج I_B M_I A_E1_I D_Z_E
+امیدوار U_B M_I I_I1_I D_D_I V_I A_A_I R_E
+امیگریشن I_B M_I I_I1_I G_I I_I R_I A_Y_I S_H_I A_I N_E
+ان A_B N_E
+انار A_B N_I A_A_I R_E
+اناسیواں U_B N_I A_A_I S_I I_I1_I V_I A_A_N_E
+اناڑی A_B N_I A_A_I R_R_I I_I1_E
+انتخابات I_B N_I T_D_I I_I X_I A_A_I B_I A_A_I T_D_E
+انتقال I_B N_I T_D_I I_I Q_I A_A_I L_E
+انتھک A_B N_I T_D_H_I A_I K_E
+انتہاؤں I_B N_I T_D_I I_I H_I A_A_I O_O_N_E
+انتہائی I_I1_B N_I T_D_I A_E_H_I H_I A_A_I I_I1_E
+انجام A_B N_I D_Z_I A_A_I M_E
+انجری I_B N_I D_Z_I R_I I_I1_E
+انجمن A_B N_I D_Z_I U_I M_I A_I N_E
+انجنیئر I_B N_I D_Z_I I_I N_I I_I1_I A_I R_E
+انجکشن I_B N_I D_Z_I I_I K_I S_H_I A_I N_E
+انحصار I_B N_I H_I I_I S_I A_A_I R_E
+انحطاط I_B N_I H_I A_Y_I T_D_I A_A_I T_D_E
+انخلا I_B N_I X_I I_I L_I A_A_E
+انداز A_B N_I D_D_I A_A_I Z_E
+اندھادھند A_B N_I D_D_H_I A_A_I D_D_H_I U_I N_I D_D_E
+اندھیروں A_B N_I D_D_H_I A_Y_I R_I O_O_N_E
+اندھیرے A_B N_I D_D_H_I A_Y_I R_I A_Y_E
+اندھے A_B N_I D_D_H_I A_Y_E
+انسان I_B N_I S_I A_A_I N_E
+انسانیت I_B N_I S_I A_A_I N_I I_I1_I J_I A_I T_D_E
+انستھیزیا I_B N_I S_I T_D_H_I I_I1_I Z_I I_I J_I A_A_E
+انسولیشن I_B N_I S_I O_O_I L_I A_Y_I S_H_I A_I N_E
+انسولین I_B N_I S_I O_O_I L_I I_I1_I N_E
+انسٹھویں I_B N_I S_I A_I T_H_I V_I A_Y_N_E
+انسیکٹی I_B N_I S_I A_E1_I K_I T_I I_I1_E
+انشائیہ I_B N_I S_H_I A_A_I I_I J_I A_A_E
+انشااللہ I_B N_I S_H_I A_A_I A_I L_I L_I A_A_E
+انشورنس I_B N_I S_H_I O_O_I R_I I_I N_I S_E
+انضباطی I_B N_I Z_I A_Y_I B_I A_A_I T_D_I I_I1_E
+انضمام I_B N_I Z_I I_I M_I A_A_I M_E
+انظباتی I_B N_I Z_I I_I B_I A_A_I T_D_I I_I1_E
+انعقاد I_B N_I A_Y_I Q_I A_A_I D_D_E
+انفارمیشن I_B N_I F_I A_A_I R_I M_I A_Y_I S_H_I A_I N_E
+انفرادی I_B N_I F_I I_I R_I A_A_I D_D_I I_I1_E
+انفلوئنزا I_B N_I F_I I_I L_I U_U_I I_I N_I Z_I A_A_E
+انفورسمنٹ I_B N_I F_I O_O_I R_I S_I M_I A_I N_I T_E
+انفیکشن I_B N_I F_I A_E1_I K_I S_H_I A_I N_E
+انقلاب I_B N_I Q_I I_I L_I A_A_I B_E
+اننگز I_B N_I I_I N_G_I Z_E
+انوالومنٹ I_B N_I V_I A_A_I L_I V_I M_I A_I N_I T_E
+انور A_B N_I V_I A_I R_E
+انوسٹمنٹ I_B N_I V_I A_I S_I T_I M_I A_I N_I T_E
+انوکھی A_B N_I O_O_I K_H_I I_I1_E
+انوکھے A_B N_I O_O_I K_H_I A_Y_E
+انٹر I_B N_I T_I A_I R_E
+انٹرفیس I_B N_I T_I A_I R_I F_I A_Y_I S_E
+انٹرمیڈیٹ I_B N_I T_I A_I R_I M_I I_I1_I D_I J_I A_I T_E
+انٹلیکچوئل I_B N_I T_I L_I A_E1_I K_I T_S1_I U_U_I I_I L_E
+انٹیلجنس I_B N_I T_I A_E1_I L_I D_Z_I A_I N_I S_E
+انٹیلیجینس I_B N_I T_I A_E1_I L_I I_I1_I D_Z_I A_E1_I N_I S_E
+انڈسٹری I_B N_I D_I A_I S_I T_I R_I I_I1_E
+انکشاف I_B N_I K_I I_I S_H_I A_A_I F_E
+انکلوژر I_B N_I K_I A_I L_I O_O_I Z_Z_I A_I R_E
+انگریزوں A_B N_G_I R_I A_Y_I Z_I O_O_N_E
+انگریزی A_B N_G_I R_I A_Y_I Z_I I_I1_E
+انگشت A_B N_G_I G_I A_I S_H_I T_D_E
+انگلش I_B N_G_I L_I I_I S_H_E
+انگلی U_B N_G_I L_I I_I1_E
+انگور A_B N_G_I G_I U_U_I R_E
+انگوٹھا A_B N_G_I G_I U_U_I T_H_I A_A_E
+انگوٹھی A_B N_G_I G_I U_U_I T_H_I I_I1_E
+انگوٹھیاں A_B N_G_I G_I U_U_I T_H_I I_I J_I A_A_N_E
+انگوٹھے A_B N_G_I G_I U_U_I T_H_I A_Y_E
+انگیخت A_B N_G_I G_I A_Y_I X_I T_D_E
+انہونی A_B N_I H_I O_O_I N_I I_I1_E
+انہوں U_B N_I H_I O_O_N_E
+انہی A_B N_I H_I I_I1_E
+انہیں U_B N_I H_I A_Y_N_E
+انیس U_B N_I N_I I_I1_I S_E
+انیق A_B N_I I_I1_I Q_E
+اوئے O_O_B A_Y_E
+اواخر A_B V_I A_A_I X_I I_I R_E
+اوباش O_O_B B_I A_A_I S_H_E
+اوج O_B D_Z_E
+اوجھل O_O_B D_Z_H_I A_I L_E
+اوجھڑی O_O_B D_Z_H_I R_R_I I_I1_E
+اودھم U_U_B D_D_H_I A_I M_E
+اور O_B R_E
+اورنگ O_O_B R_I A_I N_G_E
+اوزار O_B Z_I A_A_I R_E
+اوس O_O_B S_E
+اوسط O_B S_I A_I T_D_E
+اوصاف O_B S_I A_A_I F_E
+اوقات O_B Q_I A_A_I T_D_E
+اول A_B V_I V_I A_I L_E
+اولاد O_B L_I A_A_I D_D_I A_E
+اولولعزم U_U_B L_I U_U_I L_I A_I Z_I M_E
+اولڈ O_O_B L_I D_E
+اولی O_O_B L_I I_I1_E
+اولین A_B V_I V_I A_I L_I I_I1_I N_E
+اومیگا O_O_B M_I A_Y_I G_I A_A_E
+اونس O_B N_I S_E
+اونچی U_U_B N_I T_S1_I I_I1_E
+اونی O_O_B N_I I_I1_E
+اونے O_B N_I A_Y_E
+اوور O_O_B V_I A_I R_E
+اوورلوڈنگ O_O_B V_I A_I R_I L_I O_O_I D_I I_I N_G_E
+اوورہیڈ O_O_B V_I A_I R_I H_I A_E1_I D_E
+اوپر U_U_B P_I A_I R_E
+اوچھے O_O_B T_S_H_I A_Y_E
+اوڈ O_O_B D_E
+اوڈھو O_O_B D_H_I O_O_E
+اوڑھ O_O_B R_R_H_E
+اوڑھا O_O_B R_R_H_I A_A_E
+اوڑھنا O_O_B R_R_H_I N_I A_A_E
+اوڑھے O_O_B R_R_H_I A_Y_E
+اوکاڑوی O_O_B K_I A_A_I R_R_I V_I I_I1_E
+اوکھا O_O_B K_H_I A_A_E
+اوہام O_B H_I A_A_I M_E
+اوہو O_O_B H_I O_O_E
+اویئرنس O_B I_I1_I A_I R_I A_I N_I S_E
+اویسی U_B V_I A_E1_I S_I I_I1_E
+اُدھر U_B D_D_H_I A_I R_E
+اُمید U_B M_I I_I1_I D_D_E
+اُٹھا U_B T_H_I A_A_E
+اُٹھاؤں U_B T_H_I A_A_I U_U_N_E
+اُٹھانے U_B T_H_I A_A_I N_I A_Y_E
+اُٹھایا U_B T_H_I A_A_I J_I A_A_E
+اُٹھو U_B T_H_I O_O_E
+اٹھ U_B T_H_E
+اٹھا U_B T_H_I A_A_E
+اٹھاؤ U_B T_H_I A_A_I O_O_E
+اٹھائیس A_B T_I T_H_I A_A_I I_I1_I S_E
+اٹھائیں K_H_B A_A_I A_Y_N_E
+اٹھائے U_B T_H_I A_A_I A_Y_E
+اٹھارہ A_B T_I T_H_I A_A_I R_I A_A_E
+اٹھاسی A_B T_I T_H_I A_A_I S_I I_I1_E
+اٹھاون A_B T_H_I A_A_I V_I A_I N_E
+اٹھایا U_B T_H_I A_A_I J_I A_A_E
+اٹھتر A_B T_H_I A_I T_D_I T_D_I A_I R_E
+اٹھنے U_B T_H_I N_I A_Y_E
+اٹھوا U_B T_H_I V_I A_A_E
+اٹھی U_B T_H_I I_I1_E
+اٹھیں U_B T_H_I A_Y_N_E
+اٹھے U_B T_H_I A_Y_E
+اپروچ A_B P_I R_I O_O_I T_S1_E
+اپنا A_B P_I N_I A_A_E
+اپنائیں A_B P_I N_I A_A_I A_Y_N_E
+اپنی A_A_B P_I N_I I_I1_E
+اپنے A_B P_I N_I A_Y_E
+اپوزیشن A_B P_I O_O_I Z_I I_I1_I S_H_I A_I N_E
+اپھارہ A_B P_H_I A_A_I R_I A_A_E
+اپیلیں A_B P_I I_I1_I L_I A_Y_N_E
+اچانک A_B T_S1_I A_A_I N_I A_I K_E
+اچاٹ U_B T_S1_I A_A_I T_E
+اچنبھے A_B T_S1_I A_I M_I B_H_I A_Y_E
+اچک U_B T_S1_I A_I K_E
+اچھا U_B T_S_H_I T_S_H_I A_A_E
+اچھائی A_B T_S1_I T_S_H_I A_A_I I_I1_E
+اچھال U_B T_S_H_I A_A_I L_E
+اچھل U_B T_S_H_I A_I L_E
+اچھلی U_B T_S_H_I L_I I_I1_E
+اچھی A_B T_S1_I T_S_H_I I_I1_E
+اچھے A_B T_S_H_I T_S_H_I A_Y_E
+اچیومنٹ A_B T_S1_I I_I1_I V_I M_I A_I N_I T_E
+اڈوں A_B D_I D_I O_O_N_E
+اڈے A_B D_I D_I A_Y_E
+اڑا U_B R_R_I A_A_E
+اڑائیں U_B R_R_I A_A_I A_Y_N_E
+اڑائے U_B R_R_I A_A_I A_Y_E
+اڑانے U_B R_R_I A_A_I N_I A_Y_E
+اڑایا A_B R_R_I A_A_I J_I A_A_E
+اڑتالیس A_B R_R_I T_D_I A_A_I L_I I_I1_I S_E
+اڑسٹھ A_B R_R_I S_I A_I T_H_E
+اڑنے U_B R_R_I N_I A_Y_E
+اڑوں U_B R_R_I U_U_N_E
+اڑھائی A_B R_R_H_I A_A_I I_I1_E
+اڑیں U_B R_R_I A_Y_N_E
+اژدھا A_B Z_Z_I D_D_H_I A_A_E
+اژدھام A_B Z_Z_I D_D_H_I A_A_I M_E
+اکثریت A_B K_I S_I A_I R_I I_I1_I J_I A_I T_D_E
+اکرم A_B K_I R_I A_I M_E
+اکٹھی I_B K_I A_I T_H_I I_I1_E
+اکھاڑ U_B K_H_I A_A_I R_R_E
+اکھنڈ A_B K_H_I A_I N_I D_E
+اکھڑ U_B K_H_I A_I R_R_E
+اکھڑنا U_B K_H_I A_I R_R_I N_I A_A_E
+اکیسویں A_B K_I I_I1_I S_I V_I A_Y_N_E
+اگائے U_B G_I A_A_I A_Y_E
+اگر A_B G_I A_I R_E
+اگرچہ A_B G_I A_I R_I T_S1_I A_Y_E
+اگلا A_B G_I L_I A_A_E
+اگلی U_B G_I L_I I_I1_E
+اگلے U_B G_I L_I A_Y_E
+اگنے U_B G_I N_I A_Y_E
+اہل A_E1_B H_I L_E
+اہلخانہ A_B H_I L_I A_Y_I X_I A_A_I N_I A_A_E
+اہلسنت A_B H_I L_I I_I S_I U_I N_I N_I A_I T_D_E
+اہلکار A_B H_I A_I L_I K_I A_A_I R_E
+اہلیہ A_E_H_B H_I L_I I_I1_I A_A_E
+اہم A_B H_I A_I M_E
+ای I_I1_S
+ایئر A_Y_B A_I R_E
+ایام A_B J_I J_I A_A_I M_E
+ایتھرنیٹ A_E1_B T_D_H_I A_I R_I N_I A_Y_I T_E
+ایتھلیٹ A_E1_B T_D_H_I L_I I_I1_I T_E
+ایثار I_I1_B S_I A_A_I R_E
+ایجاد I_I1_B D_Z_I A_A_I D_D_E
+ایجنسی A_Y_B D_Z_I A_I N_I S_I I_I1_E
+ایجنسیز A_E1_B D_Z_I I_I N_I S_I I_I1_I Z_E
+ایجنسیوں A_Y_B D_Z_I A_I N_I S_I I_I1_I O_O_N_E
+ایجوکیشن A_E1_B D_Z_I U_U_I K_I A_Y_I S_H_I A_I N_E
+ایرانی I_I1_B R_I A_A_I N_I I_I1_E
+ایرو A_E1_B R_I O_O_E
+ایری A_E1_B R_I I_I1_E
+ایریا A_Y_B R_I I_I J_I A_A_E
+ایز I_I1_B Z_E
+ایس A_E1_B S_E
+ایسا A_E1_B S_I A_A_E
+ایسڈ A_Y_B S_I I_I D_E
+ایسی A_E1_B S_I I_I1_E
+ایسے A_E1_B S_I A_Y_E
+ایشز A_E1_B S_H_I I_I Z_E
+ایشو I_I1_B S_H_I U_U_E
+ایشوز I_I1_B S_H_I S_H_I U_U_I Z_E
+ایشیائی A_Y_B S_H_I I_I J_I A_A_I I_I1_E
+ایشیائیوں A_Y_B S_H_I J_I A_A_I I_I1_I O_O_N_E
+ایضا A_E1_B Z_I A_I N_E
+ایف A_Y_B F_E
+ایفا I_I1_B F_I A_A_E
+ایفروایشین A_E1_B F_I R_I O_O_I A_Y_I S_H_I I_I J_I A_I N_E
+ایفکٹ I_I1_B F_I K_I T_E
+ایقان I_I1_B Q_I A_A_I N_E
+ایل A_E1_B L_E
+ایلوویرا A_E1_B L_I O_O_I V_I A_Y_I R_I A_A_E
+ایلویٹ A_E1_B L_I V_I A_Y_I T_E
+ایلچی A_Y_B L_I T_S1_I I_I1_E
+ایلیمنٹری A_E1_B L_I I_I1_I M_I A_I N_I T_I A_I R_I I_I1_E
+ایلیٹ I_I1_B L_I I_I1_I T_E
+ایم A_E1_B M_E
+ایمبولینس A_E1_B M_I B_I O_O_I L_I A_E1_I N_I S_E
+ایمبیسی A_E1_B M_I B_I A_E1_I S_I I_I1_E
+ایمرجنسی A_E1_B M_I A_I R_I D_Z_I A_I N_I S_I I_I1_E
+این A_E1_B N_E
+ایندھن I_I1_B N_I D_D_H_I A_I N_E
+اینٹھن A_E1_B N_I T_H_I A_I N_E
+اینڈ A_E1_B N_I D_E
+اینگرو A_E1_B N_G_I R_I O_O_E
+اینگزائٹی A_E1_B N_G_I Z_I A_A_I I_I T_I I_I1_E
+اینگلو A_E1_B N_G_I L_I O_O_E
+ایوارڈ A_Y_B V_I A_A_I R_I D_E
+ایوان A_E1_B V_I A_A_I N_E
+ایوبی A_E1_B J_I U_U_I B_I I_I1_E
+ایوننگ A_E1_B V_I I_I N_I I_I N_G_E
+ایونٹ I_I1_B V_I A_I N_I T_E
+ایونیو A_E1_B V_I A_I N_I J_I U_U_E
+ایچ A_Y_B T_S1_E
+ایڈجسٹ A_E1_B D_I D_Z_I A_I S_I T_E
+ایڈریس A_E1_B D_I R_I A_E1_I S_E
+ایڈز A_Y_B D_I Z_E
+ایڈن I_I1_B D_I A_I N_E
+ایڈوائزری A_E1_B D_I V_I A_A_I I_I Z_I I_I R_I I_I1_E
+ایڈوانسڈ A_E1_B D_I V_I A_A_I N_I S_I D_E
+ایڈورٹائزنگ A_E1_B D_I V_I A_I R_I T_I A_A_I I_I Z_I I_I N_G_E
+ایڈونچر A_E1_B D_I V_I A_I N_I T_S1_I A_I R_E
+ایڈووکیٹ A_E1_B D_I V_I U_U_I K_I A_Y_I T_E
+ایڈڈ A_E1_B D_I I_I D_E
+ایڈہاک A_E1_B D_I H_I A_A_I K_E
+ایڈیشنل A_E1_B D_I I_I1_I S_H_I N_I A_I L_E
+ایڑی A_Y_B R_R_I I_I1_E
+ایک A_Y_B K_E
+ایکسچینج A_E1_B K_I S_I T_S1_I A_Y_I N_I D_Z_E
+ایکسیئن A_E1_B K_I S_I I_I1_I A_I N_E
+ایکسیڈنٹ A_E1_B K_I S_I I_I1_I D_I A_I N_I T_E
+ایکویٹی A_E1_B K_I O_O_I J_I I_I T_I I_I1_E
+ایگزامینر A_E1_B G_I Z_I A_A_I M_I I_I1_I N_I A_I R_E
+ایگزٹ A_E1_B G_I Z_I I_I T_E
+ایگزیکٹو A_E1_B G_I Z_I A_E1_I K_I I_I T_I I_I V_E
+ایگلز I_I1_B G_I A_I L_I Z_E
+ایں A_E_N_S
+ایہام I_I1_B H_I A_A_I M_E
+اے A_Y_S
+بآسانی B_B A_I A_A_I S_I A_A_I N_I I_I1_E
+با B_B A_A_E
+باآسانی B_B A_A_I A_A_I S_I A_A_I N_I I_I1_E
+باؤلر B_B A_I U_U_I L_I A_I R_E
+باؤنڈری B_B A_A_I U_U_I N_I D_I R_I I_I1_E
+بائیس B_B A_A_I I_I1_I S_E
+بائیوس B_B A_A_I I_I1_I O_O_I S_E
+بائیولوجیکل B_B A_A_I I_I1_I O_O_I L_I O_O_I D_Z_I I_I1_I K_I A_I L_E
+بائیں B_B A_A_I I_I_N_E
+بااثر B_B A_A_I A_I S_I A_I R_E
+باادب B_B A_A_I A_I D_D_I A_I B_E
+بااصول B_B A_A_I U_I S_I U_U_I L_E
+بااللہ B_B I_I L_I L_I A_A_I H_E
+باب B_B A_A_I B_E
+بات B_B A_A_I T_D_E
+باتھو B_B A_A_I T_D_H_I U_U_E
+باجرہ B_B A_A_I D_Z_I R_I A_A_E
+باجوہ B_B A_A_I D_Z_I V_I A_A_E
+باخبر B_B A_A_I X_I A_I B_I A_I R_E
+باد B_B A_A_I D_D_E
+بادشاہ B_B A_A_I D_D_I S_H_I A_A_E
+باذوق B_B A_A_I Z_I O_O_I Q_E
+بار B_B A_A_I R_E
+باران B_B A_A_I R_I A_A_I N_E
+بارش B_B A_A_I R_I I_I S_H_E
+بارونق B_B A_A_I R_I O_I N_I A_I Q_E
+بارہواں B_B A_A_I R_I A_I H_I V_I A_A_N_E
+باریش B_B A_A_I R_I I_I1_I S_H_E
+بارے B_B A_A_I R_I A_Y_E
+بازو B_B A_A_I Z_I U_U_E
+بازوؤں B_B A_A_I Z_I U_U_I O_O_N_E
+بازیاب B_B A_A_I Z_I J_I A_A_I B_E
+بازیچہ B_B A_A_I Z_I I_I1_I T_S1_I A_A_E
+باشعور B_B A_A_I S_H_I U_I Y_I U_U_I R_E
+باشندوں B_B A_A_I S_H_I I_I N_I D_D_I O_O_N_E
+باعث B_B A_A_I I_I S_E
+باغ B_B A_A_I G_G_E
+باغبانی B_B A_A_I G_G_I B_I A_A_I N_I I_I1_E
+باغوں B_B A_A_I G_G_I O_O_N_E
+باغیانہ B_B A_A_I G_G_I J_I A_A_I N_I A_A_E
+باغیوں B_B A_A_I G_G_I I_I1_I O_O_N_E
+باغیچہ B_B A_A_I G_G_I I_I1_I T_S1_I A_A_E
+بافتوں B_B A_A_I F_I T_D_I O_O_N_E
+باقر B_B A_A_I Q_I I_I R_E
+باقی B_B A_A_I Q_I I_I1_E
+بالاخر B_B I_I L_I A_A_I X_I I_I R_E
+بالخصوص B_B I_I L_I X_I U_I S_I U_U_I S_E
+بالغ B_B A_A_I L_I I_I G_G_E
+بالغان B_B A_A_I L_I I_I G_G_I A_A_I N_E
+بالغوں B_B A_A_I L_I I_I G_G_I O_O_N_E
+بالواسطہ B_B I_I L_I V_I A_A_I S_I I_I T_D_I A_A_E
+بالکل B_B I_I L_I K_I U_I L_E
+بام B_B A_A_I M_E
+بانجھ B_B A_A_I N_I D_Z_H_E
+باندھ B_B A_A_I N_I D_D_H_E
+باندھنے B_B A_A_I N_I D_D_H_I N_I A_Y_E
+باندھیں B_B A_A_I N_I D_D_H_I A_Y_N_E
+بانسری B_B A_A_I N_I S_I R_I I_I1_E
+بانو B_B A_A_I N_I O_O_E
+بانگ B_B A_A_I N_G_E
+بانہیں B_B A_A_N_I H_I A_Y_N_E
+باوجود B_B A_A_I V_I A_I D_Z_I U_U_I D_D_E
+باورچی B_B A_A_I V_I A_I R_I T_S1_I I_I1_E
+باولنگ B_B A_A_I O_O_I L_I I_I N_G_E
+باچھ B_B A_A_I T_S_H_E
+باڈی B_B A_A_I D_I I_I1_E
+باڑھ B_B A_A_I R_R_H_E
+باڑہ B_B A_A_I R_R_I A_A_E
+باگ B_B A_A_I G_E
+باہر B_B A_A_I H_I A_I R_E
+بتاؤں B_B A_I T_D_I A_I U_U_N_E
+بتایا B_B A_I T_D_I A_A_I J_I A_A_E
+بتدریج B_B A_I T_D_I A_I D_D_I R_I I_I1_I D_Z_E
+بجاآوری B_B A_I D_Z_I A_A_I A_A_I V_I R_I I_I1_E
+بجائیں B_B A_I D_Z_I A_A_I A_Y_N_E
+بجائے B_B A_I D_Z_I A_A_I A_Y_E
+بجز B_B A_I D_Z_I U_I Z_E
+بجلی B_B I_I D_Z_I L_I I_I1_E
+بجنوری B_B I_I D_Z_I N_I O_I R_I I_I1_E
+بجٹ B_B A_I D_Z_I A_I T_E
+بجھائی B_B U_I D_Z_H_I A_A_I I_I1_E
+بجھانے B_B U_I D_Z_H_I A_A_I N_I A_Y_E
+بجھنے B_B U_I D_Z_H_I N_I A_Y_E
+بجھوا B_B U_I D_Z_H_I V_I A_A_E
+بجھی B_B U_I D_Z_H_I I_I1_E
+بجیں B_B A_I D_Z_I A_Y_N_E
+بجے B_B A_I D_Z_I A_Y_E
+بحث B_B A_I H_I S_E
+بحثتا B_B A_I H_I I_I S_I T_D_I A_I N_E
+بحثوں B_B A_I H_I S_I O_O_N_E
+بحثیں B_B A_I H_I S_I A_Y_N_E
+بحران B_B U_I H_I R_I A_A_I N_E
+بحرانی B_B O_O_H_I H_I R_I A_A_I N_I I_I1_E
+بحیثیت B_B A_I H_I A_E1_I S_I I_I J_I J_I A_I T_D_E
+بحیرہ B_B A_I H_I A_E1_I R_I A_A_E
+بخاری B_B U_I X_I A_A_I R_I I_I1_E
+بخدمت B_B A_I X_I I_I D_D_I M_I A_I T_D_E
+بخش B_B A_I X_I S_H_E
+بخشش B_B A_I X_I S_H_I I_I S_H_E
+بخشو B_B A_I X_I S_H_I O_O_E
+بخشی B_B A_I X_I S_H_I I_I1_E
+بخشیں B_B A_I X_I S_H_I A_Y_N_E
+بخشے B_B A_I X_I S_H_I A_Y_E
+بخوبی B_B A_I X_I U_U_I B_I I_I1_E
+بخود B_B A_I X_I U_I D_D_E
+بخیر B_B A_I X_I A_E1_I R_E
+بد B_B A_I D_D_E
+بدائع B_B A_I D_D_I A_A_I A_Y_E
+بداخلاقی B_B A_I D_D_I I_I X_I L_I A_A_I Q_I I_I1_E
+بدحالی B_B A_I D_D_I H_I A_A_I L_I I_I1_E
+بدروح B_B A_I D_D_I R_I U_U_E
+بدسلوکی B_B A_I D_D_I S_I U_I L_I U_U_I K_I I_I1_E
+بدشگونی B_B A_I D_D_I S_H_I A_I G_I U_U_I N_I I_I1_E
+بدصورت B_B A_I D_D_I S_I U_U_I R_I A_I T_D_E
+بدظن B_B A_I D_D_I Z_I A_I N_E
+بدقسمتی B_B A_I D_D_I Q_I I_I S_I M_I A_I T_D_I I_I1_E
+بدل B_B A_I D_D_I A_I L_E
+بدلو B_B A_I D_D_I L_I O_O_E
+بدلیں B_B A_I D_D_I L_I A_Y_N_E
+بدلے B_B A_I D_D_I L_I A_Y_E
+بدمزگی B_B A_I D_D_I M_I A_I Z_I G_I I_I1_E
+بدچلنی B_B A_I D_D_I T_S1_I A_I L_I A_I N_I I_I1_E
+بدھ B_B A_I D_D_H_E
+بدھا B_B A_I D_D_H_I D_D_H_I A_A_E
+بدہضمی B_B A_I D_D_I H_I A_I Z_I M_I I_I1_E
+براؤزر B_B A_I R_I A_A_I O_O_I Z_I A_I R_E
+برابر B_B A_I R_I A_A_I B_I A_I R_E
+براعظم B_B A_I R_I R_I A_Y_I A_A_I Z_I A_I M_E
+براوو B_B A_I R_I A_A_I V_I O_O_E
+براڈ B_B A_I R_I A_A_I D_E
+براں B_B A_I R_I A_A_N_E
+براہمن B_B A_I R_I A_A_I H_I M_I A_I N_E
+برتن B_B A_I R_I T_D_I A_I N_E
+برج B_B A_I R_I D_Z_E
+برخلاف B_B A_I R_I X_I I_I L_I A_A_I F_E
+بردار B_B A_I R_I D_D_I A_A_I R_E
+برداشت B_B A_I R_I D_D_I A_A_I S_H_I T_D_E
+برس B_B A_I R_I S_E
+برساتا B_B A_I R_I S_I A_A_I T_D_I A_A_E
+برسراقتدار B_B A_I R_I S_I A_I R_I A_Y_I I_I Q_I T_D_I I_I D_D_I A_A_I R_E
+برسنے B_B A_I R_I S_I N_I A_Y_E
+برسوں B_B A_I R_I S_I O_O_N_E
+برش B_B U_I R_I S_H_E
+برطانوی B_B A_I R_I T_D_I A_A_I N_I V_I I_I1_E
+برطرفی B_B A_I R_I T_D_I A_I R_I F_I I_I1_E
+برعظیم B_B A_I R_I R_I A_Y_I A_I Z_I I_I1_I M_E
+برعکس B_B A_I R_I A_I K_I S_E
+برفباری B_B A_I R_I A_I F_I B_I A_A_I R_I I_I1_E
+برقرار B_B A_I R_I Q_I A_I R_I A_A_I R_E
+بروری B_B A_I R_I O_I R_I I_I1_E
+بروز B_B U_I R_I U_U_I Z_E
+بروکلی B_B A_I R_I O_I K_I A_I L_I I_I1_E
+بروے B_B A_I R_I U_U_I A_Y_E
+برڈ B_B A_I R_I D_E
+برہان B_B U_I R_I H_I A_A_I N_E
+بری B_B A_I R_I I_I1_E
+بریتھلائزر B_B A_I R_I T_D_H_I T_D_H_I L_I A_A_I I_I Z_I A_I R_E
+بریفنگ B_B R_I I_I1_I F_I I_I N_G_E
+بریگیڈیر B_B R_I I_I G_I A_E1_I D_I I_I A_I R_E
+بزدل B_B U_I Z_I D_D_I I_I L_E
+بزرگ B_B U_I Z_I U_I R_I G_E
+بزرگوار B_B A_I Z_I U_I R_I G_I V_I A_A_I R_E
+بزنس B_B I_I Z_I N_I A_I S_E
+بزور B_B A_I Z_I O_O_I R_E
+بس B_B A_I S_E
+بسا B_B A_I S_I A_A_E
+بسائیں B_B A_I S_I A_A_I A_Y_N_E
+بستر B_B I_I S_I T_D_I A_I R_E
+بسر B_B A_I S_I A_I R_E
+بسوں B_B A_I S_I O_O_N_E
+بسیار B_B I_I S_I J_I A_A_I R_E
+بسیں B_B A_I S_I A_Y_N_E
+بش B_B U_I S_H_E
+بشاش B_B A_I S_H_I S_H_I A_A_I S_H_E
+بشمول B_B A_I S_H_I U_I M_I U_U_I L_E
+بشیر B_B A_I S_H_I I_I1_I R_E
+بطخوں B_B A_I T_D_I T_D_I A_I X_I O_O_N_E
+بظاہر B_B A_I Z_I A_A_I H_I I_I R_E
+بعد B_B A_A_I D_D_E
+بعدازاں B_B A_A_I D_D_I A_I Z_I A_A_N_E
+بعض B_B A_A_I Z_E
+بعنوان B_B A_I U_I N_I V_I A_A_I N_E
+بعینہ B_B I_I Y_I A_E1_I N_I I_I H_E
+بغاوت B_B A_I G_G_I A_A_I V_I A_I T_D_E
+بغدادی B_B A_I G_G_I D_D_I A_A_I D_D_I I_I1_E
+بغض B_B U_I G_G_I Z_E
+بغلگیر B_B A_I G_G_I A_I L_I G_I I_I1_I R_E
+بغور B_B A_I G_G_I O_I R_E
+بغیر B_B A_I G_G_I A_E1_I R_E
+بفرزون B_B A_I F_I A_I R_I Z_I O_O_I N_E
+بقایا B_B A_I Q_I A_A_I J_I A_A_E
+بقایاجات B_B A_I Q_I A_A_I J_I A_A_I D_Z_I A_A_I T_D_E
+بقعہ B_B U_I Q_I A_A_E
+بقول B_B A_I Q_I O_I L_E
+بقیہ B_B A_I Q_I I_I1_I J_I A_A_E
+بل B_B I_I L_E
+بلا B_B U_I L_I A_A_E
+بلاخوف B_B I_I L_I A_A_I X_I O_I F_E
+بلاسوچے B_B I_I L_I A_A_I S_I O_O_I T_S1_I A_Y_E
+بلبل B_B U_I L_I B_I U_I L_E
+بلدیاتی B_B A_I L_I D_D_I I_I J_I A_A_I T_D_I I_I1_E
+بلغم B_B A_I L_I G_G_I A_I M_E
+بلند B_B A_I L_I A_I N_I D_D_E
+بلور B_B I_I L_I U_U_I R_E
+بلوغت B_B A_I L_I U_U_I G_G_I A_I T_D_E
+بلونگڑے B_B A_I L_I U_U_I N_G_I R_R_I A_Y_E
+بلوچ B_B A_I L_I O_O_I T_S1_E
+بلوچوں B_B A_I L_I O_O_I T_S1_I O_O_N_E
+بلوچی B_B A_I L_I O_O_I T_S1_I I_I1_E
+بلوں B_B A_I L_I O_O_N_E
+بلڈ B_B I_I L_I D_E
+بلڈنگ B_B I_I L_I D_I I_I N_G_E
+بلڈوز B_B U_I L_I D_I O_O_I Z_E
+بلڈوزر B_B A_I L_I D_I O_O_I Z_I A_I R_E
+بلڈوزروں B_B I_I L_I D_I O_O_I Z_I R_I O_O_N_E
+بلکہ B_B A_I L_I K_I A_Y_E
+بلگرامی B_B I_I L_I G_I I_I R_I A_A_I M_I I_I1_E
+بلی B_B I_I L_I I_I1_E
+بلین B_B I_I L_I I_I J_I A_I N_E
+بلیچ B_B A_I L_I I_I1_I T_S1_E
+بم B_B A_I M_E
+بن B_B A_I N_E
+بنا B_B A_I N_I A_A_E
+بناؤں B_B A_I N_I A_A_I U_U_N_E
+بنائی B_B A_I N_I A_A_I I_I1_E
+بنائیں B_B A_I N_I A_A_I A_Y_N_E
+بنائے B_B A_I N_I A_A_I A_Y_E
+بنانا B_B A_I N_I A_A_I N_I A_A_E
+بنانے B_B A_I N_I A_A_I N_I A_Y_E
+بنایا B_B A_I N_I A_A_I J_I A_A_E
+بند B_B A_I N_I D_D_E
+بندوق B_B A_I N_I D_D_I U_U_I Q_E
+بنفشی B_B A_I N_I A_I F_I S_H_I I_I1_E
+بنوری B_B A_I N_I O_O_I R_I I_I1_E
+بنولہ B_B I_I N_I O_I L_I A_A_E
+بنگالی B_B A_I N_G_I G_I A_A_I L_I I_I1_E
+بنگلہ B_B A_I N_G_I L_I A_A_E
+بنگلے B_B A_I N_G_I L_I A_Y_E
+بنیادی B_B U_I N_I J_I A_A_I D_D_I I_I1_E
+بنیں B_B A_I N_I A_Y_N_E
+بنے B_B A_I N_I A_Y_E
+بو B_B O_O_E
+بوئنگ B_B O_O_I I_I N_G_E
+بوئی B_B O_O_I I_I1_E
+بوئیں B_B O_O_I A_Y_N_E
+بوئے B_B O_O_I A_Y_E
+بوائز B_B U_I V_I A_A_I I_I Z_E
+بوائے B_B U_U_I A_A_I A_Y_E
+بوبی B_B O_I B_I I_I1_E
+بوجوہ B_B A_I V_I U_I D_Z_I U_U_E
+بوجھ B_B O_O_I D_Z_H_E
+بوجھو B_B U_U_I D_Z_H_I O_O_E
+بوجہ B_B O_I D_Z_I A_A_E
+بودلہ B_B O_O_I D_D_I L_I A_A_E
+بورڈ B_B O_O_I R_I D_E
+بورڈر B_B O_I R_I D_I A_I R_E
+بوریت B_B O_O_I R_I J_I A_I T_D_E
+بوس B_B O_I S_E
+بوسن B_B O_O_I S_I A_I N_E
+بوسنیائی B_B O_I S_I N_I I_I J_I A_A_I I_I1_E
+بوقت B_B A_I V_I A_I Q_I T_D_E
+بولروں B_B O_O_I L_I R_I O_O_N_E
+بولنگ B_B O_O_I L_I I_I N_G_E
+بولنے B_B O_O_I L_I N_I A_Y_E
+بولو B_B O_O_I L_I O_O_E
+بولوں B_B O_O_I L_I O_O_N_E
+بولیں B_B O_O_I L_I A_Y_N_E
+بولے B_B O_O_I L_I A_Y_E
+بوم B_B U_U_I M_E
+بونس B_B O_O_I N_I A_I S_E
+بونوں B_B O_I N_I O_O_N_E
+بوچھاڑ B_B O_I T_S_H_I A_A_I R_R_E
+بوڑھا B_B U_U_I R_R_H_I A_A_E
+بوڑھوں B_B U_U_I R_R_H_I O_O_N_E
+بوڑھی B_B U_U_I R_R_H_I I_I1_E
+بوڑھے B_B U_U_I R_R_H_I A_Y_E
+بوکھلاہٹ B_B O_I K_H_I L_I A_A_I H_I A_I T_E
+بوگس B_B O_O_I G_I A_I S_E
+بویا B_B O_O_I J_I A_A_E
+بَلّا B_B I_I L_I A_A_E
+بُدھو B_B U_I D_D_I D_D_H_I U_U_E
+بُدھی B_B A_I D_D_H_I I_I1_E
+بٹورتا B_B A_I T_I O_O_I R_I T_D_I A_A_E
+بٹھا B_B I_I T_H_I A_A_E
+بپھر B_B I_I P_H_I A_I R_E
+بپھرے B_B I_I P_H_I R_I A_Y_E
+بچاؤ B_B A_I T_S1_I A_A_I O_O_E
+بچائیں B_B A_I T_S1_I A_A_I A_Y_N_E
+بچار B_B I_I T_S1_I A_A_I R_E
+بچایا B_B A_I T_S1_I A_A_I J_I A_A_E
+بچنے B_B A_I T_S1_I N_I A_Y_E
+بچوں B_B A_I T_S1_I T_S1_I O_O_N_E
+بچّو B_B A_I T_S1_I O_O_E
+بچّی B_B A_I T_S1_I T_S1_I I_I1_E
+بچھ B_B I_I T_S_H_E
+بچھا B_B I_I T_S_H_I A_A_E
+بچھائیں B_B I_I T_S_H_I A_A_I A_Y_N_E
+بچھانے B_B I_I T_S_H_I A_A_I N_I A_Y_E
+بچھو B_B I_I T_S_H_I T_S_H_I U_U_E
+بچھونا B_B I_I T_S_H_I O_O_I N_I A_A_E
+بچھڑ B_B I_I T_S_H_I A_I R_R_E
+بچھڑا B_B I_I T_S_H_I R_R_I A_A_E
+بچھڑوں B_B I_I T_S_H_I R_R_I O_O_N_E
+بچھڑی B_B I_I T_S_H_I R_R_I I_I1_E
+بچھڑے B_B I_I T_S_H_I R_R_I A_Y_E
+بچھی B_B I_I T_S_H_I I_I1_E
+بچھے B_B I_I T_S_H_I T_S_H_I A_Y_E
+بچہ B_B A_I T_S1_I T_S1_I A_A_E
+بچی B_B A_I T_S1_I I_I1_E
+بچیاں B_B A_I T_S1_I T_S1_I I_I J_I A_A_N_E
+بچیوں B_B A_I T_S1_I T_S1_I I_I1_I O_O_N_E
+بچیں B_B A_I T_S1_I A_Y_N_E
+بچے B_B A_I T_S1_I A_Y_E
+بڈھا B_B U_I D_I D_H_I A_A_E
+بڈھے B_B U_I D_I D_H_I A_Y_E
+بڑ B_B A_I R_R_E
+بڑا B_B A_I R_R_I A_A_E
+بڑوں B_B A_I R_R_I O_O_N_E
+بڑھ B_B A_I R_R_H_E
+بڑھئی B_B A_I R_R_H_I A_I I_I1_E
+بڑھا B_B A_I R_R_H_I A_A_E
+بڑھائیں B_B A_I R_R_H_I A_A_I A_Y_N_E
+بڑھائے B_B A_I R_R_H_I A_A_I A_Y_E
+بڑھانے B_B A_I R_R_H_I A_A_I N_I A_Y_E
+بڑھاوا B_B A_I R_R_H_I A_A_I V_I A_A_E
+بڑھاوں B_B A_I R_R_I H_I A_A_I U_U_N_E
+بڑھاپے B_B U_I R_R_H_I A_A_I P_I A_Y_E
+بڑھایا B_B A_I R_R_H_I A_A_I J_I A_A_E
+بڑھوتری B_B A_I R_R_H_I O_I T_D_I R_I I_I1_E
+بڑھیا B_B A_I R_R_H_I J_I A_A_E
+بڑھیں B_B A_I R_R_H_I A_Y_N_E
+بڑی B_B A_I R_R_I I_I1_E
+بڑے B_B A_I R_R_I A_Y_E
+بکھر B_B A_I K_I K_H_I A_I R_E
+بکھری B_B I_I K_H_I R_I I_I1_E
+بکھرے B_B I_I K_H_I R_I A_Y_E
+بکھیر B_B A_I K_H_I A_Y_I R_E
+بکھیرنے B_B A_I K_H_I A_Y_I R_I N_I A_Y_E
+بگ B_B A_I G_E
+بگاڑنے B_B I_I G_I A_A_I R_R_I N_I A_Y_E
+بگٹی B_B U_I G_I T_I I_I1_E
+بگڑ B_B I_I G_I A_I R_R_E
+بگڑیں B_B A_I G_I R_R_I A_Y_N_E
+بگھار B_B A_I G_H_I A_A_I R_E
+بگھی B_B A_I G_I G_H_I I_I1_E
+بھئی B_H_B A_I I_I1_E
+بھاؤ B_H_B A_A_I O_O_E
+بھائی B_H_B A_A_I I_I1_E
+بھائیوں B_H_B A_A_I I_I J_I O_O_N_E
+بھابی B_H_B A_A_I B_I I_I1_E
+بھارتی B_H_B A_A_I R_I T_D_I I_I1_E
+بھاری B_H_B A_A_I R_I I_I1_E
+بھاشا B_H_B A_A_I S_H_I A_A_E
+بھال B_H_B A_A_I L_E
+بھانجے B_H_B A_A_I N_I D_Z_I A_Y_E
+بھانپ B_H_B A_A_I M_I P_E
+بھاوج B_H_B A_A_I V_I A_I D_Z_E
+بھاڑ B_H_B A_A_I R_R_E
+بھاگ B_H_B A_A_I G_E
+بھجن B_H_B A_I D_Z_I A_I N_E
+بھجوا B_H_B I_I D_Z_I V_I A_A_E
+بھجوائیں B_H_B I_I D_Z_I V_I A_A_I A_Y_N_E
+بھدی B_H_B A_I D_D_I D_D_I I_I1_E
+بھر B_H_B A_I R_E
+بھربھری B_H_B U_I R_I B_H_I U_I R_I I_I1_E
+بھرتا B_H_B A_I R_I T_D_I A_A_E
+بھروسہ B_H_B A_I R_I O_O_I S_I A_A_E
+بھرٹ B_H_B A_I R_I A_I T_E
+بھری B_H_B A_I R_I I_I1_E
+بھرے B_H_B A_I R_I A_Y_E
+بھسم B_H_B A_I S_I A_I M_E
+بھلا B_H_B A_I L_I A_A_E
+بھلایا B_H_B U_I L_I A_A_I J_I A_A_E
+بھنا B_H_B U_I N_I A_A_E
+بھنوؤں B_H_B A_I N_I V_I O_O_N_E
+بھنڈی B_H_B I_I N_I D_I I_I1_E
+بھنگڑا B_H_B A_I N_G_I R_R_I A_A_E
+بھنگڑے B_H_B A_I N_G_I R_R_I A_Y_E
+بھوت B_H_B U_U_I T_D_E
+بھوجپوری B_H_B O_O_I D_Z_I P_I U_U_I R_I I_I1_E
+بھورا B_H_B U_U_I R_I A_A_E
+بھورے B_H_B O_O_I R_I A_Y_E
+بھوسہ B_H_B U_U_I S_I A_A_E
+بھوسے B_H_B U_U_I S_I A_Y_E
+بھول B_H_B U_U_I L_E
+بھولا B_H_B O_O_I L_I A_A_E
+بھولنا B_H_B U_U_I L_I N_I A_A_E
+بھولو B_H_B U_U_I L_I O_O_E
+بھولیں B_H_B U_U_I L_I A_Y_N_E
+بھولیے B_H_B U_U_I L_I J_I A_Y_E
+بھومی B_H_B U_U_I M_I I_I1_E
+بھون B_H_B U_U_I N_E
+بھونچال B_H_B O_I N_I T_S1_I A_A_I L_E
+بھونڈی B_H_B O_O_I N_I D_I I_I1_E
+بھٹو B_H_B U_I T_I T_I O_O_E
+بھڑ B_H_B A_I R_R_E
+بھڑاس B_H_B A_I R_R_I A_A_I S_E
+بھڑوں B_H_B A_I R_R_I U_U_N_E
+بھڑک B_H_B A_I R_R_I A_I K_E
+بھگت B_H_B U_I G_I A_I T_D_E
+بھگدڑ B_H_B A_I G_I D_D_I A_I R_R_E
+بھگو B_H_B I_I G_I O_O_E
+بھگوئیں B_H_B I_I G_I O_O_I A_Y_N_E
+بھگوڑوں B_H_B A_I G_I O_O_I R_R_I O_O_N_E
+بھی B_H_B I_I1_E
+بھیانک B_H_B A_I J_I A_A_I N_I A_I K_E
+بھیج B_H_B A_Y_I D_Z_E
+بھیجا B_H_B A_Y_I D_Z_I A_A_E
+بھیجنے B_H_B A_Y_I D_Z_I N_I A_Y_E
+بھیجوں B_H_B A_Y_I D_Z_I U_U_N_E
+بھیجی B_H_B A_Y_I D_Z_I I_I1_E
+بھیجیں B_H_B A_Y_I D_Z_I A_Y_N_E
+بھیجے B_H_B A_Y_I D_Z_I A_Y_E
+بھید B_H_B A_Y_I D_D_E
+بھیرویں B_H_B A_Y_I R_I V_I I_I_N_E
+بھیس B_H_B A_Y_I S_E
+بھیل B_H_B I_I1_I L_E
+بھیم B_H_B I_I1_I M_E
+بھینس B_H_B A_E1_I N_I S_E
+بھینسیں B_H_B A_E1_I N_I S_I A_Y_N_E
+بھینٹ B_H_B I_I1_I N_I T_E
+بھینگا B_H_B A_E1_I N_G_I G_I A_A_E
+بھیڑ B_H_B A_Y_I R_R_E
+بھیڑوں B_H_B A_Y_I R_R_I O_O_N_E
+بھیڑیا B_H_B A_Y_I R_R_I I_I J_I A_A_E
+بھیڑیں B_H_B A_Y_I R_R_I A_Y_N_E
+بھیڑیے B_H_B A_Y_I R_R_I I_I1_I A_Y_E
+بھیگی B_H_B I_I1_I G_I I_I1_E
+بہ B_B A_Y_H_E
+بہاؤ B_B A_I H_I A_A_I O_O_E
+بہائیں B_B A_I H_I A_A_I A_Y_N_E
+بہبود B_B I_I H_I B_I U_U_I D_D_E
+بہت B_B A_I H_I O_O_I T_D_E
+بہتر B_B A_E_H_I H_I T_D_I A_I R_E
+بہتری B_B A_Y_H_I H_I T_D_I A_I R_I I_I1_E
+بہترین B_B A_Y_H_I H_I T_D_I A_I R_I I_I1_I N_E
+بہرحال B_B A_I H_I A_I R_I H_I A_A_I L_E
+بہن B_B A_I H_I A_I N_E
+بہنوئی B_B A_E_H_I H_I N_I O_O_I I_I1_E
+بہو B_B A_I H_I O_O_E
+بہی B_B A_E_H_I H_I I_I1_E
+بی B_B I_I1_E
+بیان B_B A_I J_I A_A_I N_E
+بیباک B_B A_Y_I B_I A_A_I K_E
+بیج B_B A_E1_I D_Z_E
+بیجوں B_B I_I1_I D_Z_I O_O_N_E
+بیخ B_B A_Y_I X_E
+بیدار B_B A_Y_I D_D_I A_A_I R_E
+بیداری B_B A_E1_I D_D_I A_A_I R_I I_I1_E
+بیراج B_B A_E1_I R_I A_A_I D_Z_E
+بیرونی B_B A_Y_I R_I U_U_I N_I I_I1_E
+بیزار B_B A_Y_I Z_I A_A_I R_E
+بیس B_B A_Y_I S_E
+بیساکھی B_B A_Y_I S_I A_A_I K_H_I I_I1_E
+بیسمنٹ B_B A_Y_I S_I M_I A_I N_I T_E
+بیسن B_B A_Y_I S_I A_I N_E
+بیسویں B_B I_I1_I S_I V_I A_Y_N_E
+بیسٹ B_B A_E1_I S_I T_E
+بیشتر B_B A_Y_I S_H_I T_D_I A_I R_E
+بیضوی B_B A_E1_I Z_I V_I I_I1_E
+بیضے B_B A_E1_I Z_I A_Y_E
+بیعانہ B_B A_Y_I A_A_I N_I A_A_E
+بیعت B_B A_E1_I A_I T_D_E
+بیف B_B I_I1_I F_E
+بیل B_B A_Y_I L_E
+بیلدار B_B A_Y_I L_I D_D_I A_A_I R_E
+بیلز B_B A_Y_I L_I Z_E
+بیلوں B_B A_Y_I L_I O_O_N_E
+بیلٹ B_B A_E1_I L_I T_E
+بیلچہ B_B A_Y_I L_I T_S1_I A_A_E
+بیلچے B_B A_Y_I L_I T_S1_I A_Y_E
+بیماری B_B I_I1_I M_I A_A_I R_I I_I1_E
+بینات B_B A_I J_I J_I I_I N_I A_A_I T_D_E
+بینظیر B_B A_Y_I N_I A_I Z_I I_I1_I R_E
+بینچ B_B A_E1_I N_I T_S1_E
+بینک B_B A_E1_I N_I K_E
+بینگن B_B A_E1_I N_G_I G_I A_I N_E
+بیورو B_B I_I1_I O_O_I R_I O_O_E
+بیوروکریسی B_B I_I J_I U_U_I R_I O_O_I K_I A_I R_I A_Y_I S_I I_I1_E
+بیوروکریٹس B_B A_E1_I O_O_I R_I O_O_I K_I A_I R_I A_Y_I T_I S_E
+بیوپار B_B A_Y_I O_O_I P_I A_A_I R_E
+بیوگان B_B A_E1_I V_I G_I A_A_I N_E
+بیوہ B_B A_Y_I V_I A_A_E
+بیوی B_B I_I1_I V_I I_I1_E
+بیویوں B_B I_I1_I V_I I_I1_I O_O_N_E
+بیٹھ B_B A_E1_I T_H_E
+بیٹھا B_B A_E1_I T_H_I A_A_E
+بیٹھتے B_B A_Y_I T_H_I T_D_I A_Y_E
+بیٹھنے B_B A_E1_I T_H_I N_I A_Y_E
+بیٹھو B_B A_E1_I T_H_I O_O_E
+بیٹھوں B_B A_E1_I T_H_I O_O_N_E
+بیٹھک B_B A_E1_I T_H_I A_I K_E
+بیٹھی B_B A_E1_I T_H_I I_I1_E
+بیٹھیں B_B A_E1_I T_H_I A_Y_N_E
+بیٹھے B_B A_E1_I T_H_I A_Y_E
+بیچ B_B A_Y_I T_S1_E
+بیچارے B_B A_Y_I T_S1_I A_A_I R_I A_Y_E
+بیچلر B_B A_E1_I T_S1_I A_I L_I A_I R_E
+بیچنے B_B A_Y_I T_S1_I N_I A_Y_E
+بیچوں B_B A_Y_I T_S1_I O_O_N_E
+بیچیں B_B A_Y_I T_S1_I A_Y_N_E
+بیچے B_B A_Y_I T_S1_I A_Y_E
+بیڈ B_B A_E1_I D_E
+بیڈروم B_B A_E1_I D_I R_I U_U_I M_E
+بیڑا B_B A_Y_I R_R_I A_A_E
+بیڑیاں B_B A_Y_I R_R_I I_I J_I A_A_N_E
+بیڑے B_B A_Y_I R_R_I A_Y_E
+بیک B_B A_E1_I K_E
+بیگ B_B A_E1_I G_E
+بیگج B_B A_E1_I G_I I_I D_Z_E
+بیگز B_B A_E1_I G_I Z_E
+بیگم B_B A_E1_I G_I A_I M_E
+بیہوش B_B A_Y_I H_I O_O_I S_H_E
+بے B_B A_Y_E
+بےاختیار B_B A_Y_I I_I X_I T_D_I I_I J_I A_A_I R_E
+بےجا B_B A_Y_I D_Z_I A_A_E
+بےحرمتی B_B A_Y_I H_I U_I R_I M_I A_I T_D_I I_I1_E
+بےعزتی B_B A_Y_I I_I Z_I Z_I A_I T_D_I I_I1_E
+بےقصور B_B A_Y_I Q_I U_I S_I U_U_I R_E
+بےمعنی B_B A_Y_I M_I A_I Y_I N_I I_I1_E
+بےہودہ B_B A_Y_I H_I U_U_I D_D_I A_A_E
+تابش T_D_B A_A_I B_I I_I S_H_E
+تابعین T_D_B A_A_I B_I I_I I_I1_I N_E
+تاثر T_D_B A_I A_I S_I S_I U_I R_E
+تاثرات T_D_B A_A_I S_I S_I U_I R_I A_A_I T_D_E
+تاجدار T_D_B A_A_I D_Z_I D_D_I A_A_I R_E
+تاجر T_D_B A_A_I D_Z_I I_I R_E
+تاجروں T_D_B A_A_I D_Z_I I_I R_I O_O_N_E
+تاجور T_D_B A_A_I D_Z_I V_I A_I R_E
+تاخیر T_D_B A_A_I X_I I_I1_I R_E
+تارڑ T_D_B A_A_I R_I A_I R_R_E
+تاریخ T_D_B A_A_I R_I I_I1_I X_E
+تاریخوں T_D_B A_A_I R_I I_I1_I X_I O_O_N_E
+تاریخی T_D_B A_A_I R_I I_I1_I X_I I_I1_E
+تامل T_D_B A_I A_I M_I M_I U_I L_E
+تباہی T_D_B A_I B_I A_A_I H_I I_I1_E
+تبدیل T_D_B A_I B_I D_D_I I_I1_I L_E
+تبدیلی T_D_B A_I B_I D_D_I I_I1_I L_I I_I1_E
+تبدیلیاں T_D_B A_I B_I D_D_I I_I1_I L_I I_I J_I A_A_N_E
+تبدیلیوں T_D_B A_I B_I D_D_I I_I1_I L_I I_I1_I O_O_N_E
+تبسم T_D_B A_I B_I A_I S_I S_I U_I M_E
+تبصرہ T_D_B A_I B_I S_I I_I R_I A_A_E
+تبلیغ T_D_B A_I B_I L_I I_I1_I G_G_E
+تبلیغی T_D_B A_I B_I L_I I_I1_I G_G_I I_I1_E
+تجارت T_D_B I_I D_Z_I A_A_I R_I A_I T_D_E
+تجربات T_D_B A_I D_Z_I R_I I_I B_I A_A_I T_D_E
+تجربہ T_D_B A_I D_Z_I A_I R_I B_I A_A_E
+تجرد T_D_B A_I D_Z_I A_I R_I R_I U_I D_D_E
+تجزیوں T_D_B A_I D_Z_I Z_I I_I1_I O_O_N_E
+تجزیہ T_D_B A_I D_Z_I Z_I I_I J_I A_A_E
+تجزیے T_D_B A_I D_Z_I Z_I I_I1_I A_Y_E
+تجوری T_D_B A_I D_Z_I O_O_I R_I I_I1_E
+تجوریاں T_D_B I_I D_Z_I O_O_I R_I I_I J_I A_A_N_E
+تجویز T_D_B A_I D_Z_I V_I I_I1_I Z_E
+تجہیز T_D_B A_I D_Z_I H_I I_I1_I Z_E
+تحائف T_D_B A_I H_I A_A_I I_I F_E
+تحریر T_D_B A_I H_I R_I I_I1_I R_E
+تحریروں T_D_B A_I H_I R_I I_I1_I R_I O_O_N_E
+تحریک T_D_B A_I H_I R_I I_I1_I K_E
+تحصیل T_D_B A_I H_I S_I I_I1_I L_E
+تحصیلدار T_D_B A_I H_I S_I I_I1_I L_I D_D_I A_A_I R_E
+تحصیلوں T_D_B A_I H_I S_I I_I1_I L_I O_O_N_E
+تحفتا T_D_B U_I H_I F_I A_I T_D_I A_I N_E
+تحفظ T_D_B A_I H_I A_I F_I F_I U_I Z_E
+تحفوں T_D_B O_O_H_I H_I F_I O_O_N_E
+تحفہ T_D_B U_I H_I F_I A_A_E
+تحفے T_D_B O_O_H_I H_I F_I A_Y_E
+تحقیق T_D_B A_I H_I Q_I I_I1_I Q_E
+تحقیقات T_D_B A_I H_I Q_I I_I1_I Q_I A_A_I T_D_E
+تحویل T_D_B A_I H_I V_I I_I1_I L_E
+تحیر T_D_B A_I H_I A_I J_I U_I R_E
+تخریب T_D_B A_I X_I R_I I_I1_I B_E
+تخفیف T_D_B A_I X_I F_I I_I1_I F_E
+تخلص T_D_B A_I X_I A_I L_I L_I U_I S_E
+تخلیق T_D_B A_I X_I L_I I_I1_I Q_E
+تخم T_D_B U_I X_I M_E
+تخیّل T_D_B A_I X_I A_I J_I J_I U_I L_E
+تدابیر T_D_B A_I D_D_I A_A_I B_I I_I1_I R_E
+تدریس T_D_B A_I D_D_I R_I I_I1_I S_E
+تدفین T_D_B A_I D_D_I F_I I_I1_I N_E
+تذبذب T_D_B A_I Z_I A_I B_I Z_I U_I B_E
+تذلیل T_D_B A_I Z_I L_I I_I1_I L_E
+تراجم T_D_B A_I R_I A_A_I D_Z_I I_I M_E
+تراشوں T_D_B A_I R_I A_A_I S_H_I O_O_N_E
+تربیتی T_D_B A_I R_I B_I I_I1_I T_D_I I_I1_E
+ترجمان T_D_B A_I R_I D_Z_I U_I M_I A_A_I N_E
+ترجمانی T_D_B A_I R_I D_Z_I U_I M_I A_A_I N_I I_I1_E
+ترجیح T_D_B A_I R_I D_Z_I I_I1_I H_E
+ترجیحات T_D_B A_I R_I D_Z_I I_I1_I H_I A_A_I T_D_E
+ترشول T_D_B I_I R_I S_H_I U_U_I L_E
+ترغیب T_D_B A_I R_I G_G_I I_I1_I B_E
+ترقی T_D_B A_I R_I A_I Q_I Q_I I_I1_E
+ترقیات T_D_B A_I R_I A_I Q_I J_I I_I J_I A_A_I T_D_E
+ترقیوں T_D_B A_I R_I A_I Q_I Q_I I_I1_I O_O_N_E
+ترمذی T_D_B I_I R_I M_I I_I Z_I I_I1_E
+ترمیم T_D_B A_I R_I M_I I_I1_I M_E
+ترن T_D_B A_I R_I U_I N_E
+ترویج T_D_B A_I R_I V_I I_I1_I D_Z_E
+ترچھا T_D_B I_I R_I T_S_H_I A_A_E
+ترچھی T_D_B I_I R_I T_S_H_I I_I1_E
+تزئین T_D_B A_I Z_I I_I1_I N_E
+تساہل T_D_B A_I S_I A_A_I H_I U_I L_E
+تسخیر T_D_B A_I S_I X_I I_I1_I R_E
+تسلسل T_D_B A_I S_I A_I L_I S_I U_I L_E
+تسلیم T_D_B A_I S_I L_I I_I1_I M_E
+تشبیہ T_D_B A_I S_H_I B_I I_I1_E
+تشبیہات T_D_B A_I S_H_I B_I I_I1_I H_I A_A_I T_D_E
+تشبیہیں T_D_B A_I S_H_I B_I I_I1_I H_I A_Y_N_E
+تشخص T_D_B A_I S_H_I A_I X_I X_I U_I S_E
+تشخیص T_D_B A_I S_H_I X_I I_I1_I S_E
+تشدد T_D_B A_I S_H_I A_I D_D_I D_D_I U_I D_D_E
+تشریف T_D_B A_I S_H_I R_I I_I1_I F_E
+تشنج T_D_B A_I S_H_I A_I N_I N_I U_I D_Z_E
+تشویش T_D_B A_I S_H_I V_I I_I1_I S_H_E
+تشہیر T_D_B A_I S_H_I H_I I_I1_I R_E
+تشیع T_D_B A_I S_H_I A_I J_I J_I O_O_E
+تصحیح T_D_B A_I S_I H_I I_I1_E
+تصدق T_D_B A_I S_I A_I D_D_I D_D_I U_I Q_E
+تصدیق T_D_B A_I S_I D_D_I I_I1_I Q_E
+تصفیہ T_D_B A_I S_I F_I I_I J_I A_A_E
+تصفیے T_D_B A_I S_I F_I I_I1_I A_Y_E
+تصور T_D_B A_I S_I O_I V_I U_I R_E
+تصورات T_D_B A_I S_I A_I V_I V_I U_I R_I A_A_I T_D_E
+تصوف T_D_B A_I S_I A_I V_I V_I U_I F_E
+تصویر T_D_B A_I S_I V_I I_I1_I R_E
+تصویریں T_D_B A_I S_I V_I I_I1_I R_I A_Y_N_E
+تضحیک T_D_B A_I Z_I H_I I_I1_I K_E
+تعارف T_D_B A_I A_A_I R_I U_I F_E
+تعاقب T_D_B A_I A_A_I Q_I U_I B_E
+تعالی T_D_B A_I A_A_I L_I A_A_E
+تعاون T_D_B A_I A_A_I V_I U_I N_E
+تعجب T_D_B A_I A_I D_Z_I D_Z_I U_I B_E
+تعداد T_D_B A_I D_D_I A_A_I D_D_E
+تعریفیں T_D_B A_A_I R_I I_I1_I F_I A_Y_N_E
+تعفن T_D_B A_I A_I F_I F_I U_I N_E
+تعلق T_D_B A_I A_I L_I L_I U_I Q_E
+تعلقوں T_D_B A_I A_I L_I L_I Q_I O_O_N_E
+تعلیم T_D_B A_A_I L_I I_I1_I M_E
+تعمیر T_D_B A_I Y_I M_I I_I1_I R_E
+تعوذ T_D_B A_I A_I V_I V_I U_I Z_E
+تعیشات T_D_B A_I Y_I J_I J_I U_I S_H_I A_A_I T_D_E
+تعین T_D_B A_I Y_I J_I J_I U_I N_E
+تعینات T_D_B A_A_I A_Y_I N_I A_A_I T_D_E
+تغافل T_D_B A_I G_G_I A_A_I F_I U_I L_E
+تغلق T_D_B U_I G_G_I L_I A_I Q_E
+تغیر T_D_B A_I G_G_I A_E1_I J_I U_I R_E
+تفاعل T_D_B A_I F_I A_A_I U_I L_E
+تفاوت T_D_B A_I F_I A_A_I V_I U_I T_D_E
+تفتیش T_D_B A_I F_I T_D_I I_I1_I S_H_E
+تفتیشی T_D_B A_I F_I T_D_I I_I1_I S_H_I I_I1_E
+تفرقہ T_D_B A_I F_I R_I I_I Q_I A_A_E
+تفریحی T_D_B A_I F_I R_I I_I1_I H_I I_I1_E
+تفنن T_D_B A_I F_I A_I N_I N_I U_I N_E
+تفویض T_D_B A_I F_I V_I I_I1_I Z_E
+تفہیم T_D_B A_I F_I H_I I_I1_I M_E
+تقاضوں T_D_B A_I Q_I A_A_I Z_I O_O_N_E
+تقدس T_D_B A_I Q_I A_I D_D_I D_D_I U_I S_E
+تقدیر T_D_B A_I Q_I D_D_I I_I1_I R_E
+تقرری T_D_B A_I Q_I A_I R_I R_I U_I R_I I_I1_E
+تقریباً T_D_B A_I Q_I R_I I_I1_I B_I A_I N_E
+تقسیم T_D_B A_I Q_I S_I I_I1_I M_E
+تقلیل T_D_B A_I Q_I L_I I_I1_I L_E
+تقویت T_D_B A_I Q_I V_I I_I J_I A_I T_D_E
+تلاش T_D_B A_I L_I A_A_I S_H_E
+تلخ T_D_B A_I L_I X_E
+تلخی T_D_B A_I L_I X_I I_I1_E
+تلخیاں T_D_B A_I L_I X_I I_I J_I A_A_N_E
+تلخیوں T_D_B A_I L_I X_I I_I1_I O_O_N_E
+تلمیحات T_D_B A_I L_I M_I I_I1_I H_I A_A_I T_D_E
+تلور T_D_B I_I L_I O_I R_E
+تلوں T_D_B A_I L_I O_O_N_E
+تلے T_D_B A_I L_I A_Y_E
+تم T_D_B U_I M_E
+تماشائیوں T_D_B A_I M_I A_A_I S_H_I A_A_I I_I1_I O_O_N_E
+تمام T_D_B A_I M_I A_A_I M_E
+تمحیص T_D_B A_I M_I H_I I_I1_I S_E
+تمسخر T_D_B A_I M_I A_I S_I X_I U_I R_E
+تمغوں T_D_B A_I M_I G_G_I O_O_N_E
+تمغہ T_D_B A_I M_I G_G_I A_A_E
+تمغے T_D_B A_I M_I G_G_I A_Y_E
+تمناؤں T_D_B A_I M_I A_I N_I N_I A_A_I O_O_N_E
+تمہارے T_D_B U_I M_I H_I A_A_I R_I A_Y_E
+تمہیں T_D_B U_I M_I H_I A_Y_N_E
+تناؤ T_D_B A_I N_I A_A_I O_O_E
+تنازع T_D_B A_I N_I A_A_I Z_I O_O_E
+تنازعے T_D_B A_I N_I A_A_I Z_I A_I A_Y_E
+تناسب T_D_B A_I N_I A_A_I S_I U_I B_E
+تناول T_D_B A_I N_I A_A_I V_I U_I L_E
+تنخواہ T_D_B A_I N_I X_I O_O_I A_A_E
+تندہی T_D_B A_I N_I D_D_I I_I H_I I_I1_E
+تنزلی T_D_B A_I N_I A_I Z_I Z_I U_I L_I I_I1_E
+تنسیخ T_D_B A_I N_I S_I I_I1_I X_E
+تنظیم T_D_B A_I N_I Z_I I_I1_I M_E
+تنفس T_D_B A_I N_I A_I F_I F_I U_I S_E
+تنقید T_D_B A_I N_I Q_I I_I1_I D_D_E
+تنقیص T_D_B A_I N_I Q_I I_I1_I S_E
+تنوع T_D_B A_I N_I A_I V_I V_I O_O_E
+تنولی T_D_B A_I N_I O_I L_I I_I1_E
+تنگ T_D_B A_I N_G_E
+تنگدستی T_D_B A_I N_G_I D_D_I A_I S_I T_D_I I_I1_E
+تنہا T_D_B A_I N_I H_I A_A_E
+تو T_D_B O_O_E
+توازن T_D_B A_I V_I A_A_I Z_I U_I N_E
+توجہ T_D_B A_I V_I A_I D_Z_I D_Z_I O_O_E
+توجیہ T_D_B O_I D_Z_I I_I1_E
+توسیع T_D_B O_I S_I I_I1_E
+توسیعی T_D_B O_I S_I I_I1_I I_I1_E
+توصیف T_D_B O_I S_I I_I1_I F_E
+توضیح T_D_B O_I Z_I I_I1_E
+توضیحات T_D_B O_I Z_I I_I1_I H_I A_A_I T_D_E
+توفیق T_D_B O_I F_I I_I1_I Q_E
+توقع T_D_B A_I V_I A_I Q_I Q_I O_O_E
+توقعات T_D_B A_I V_I A_I Q_I Q_I U_I A_A_I T_D_E
+توقف T_D_B A_I V_I A_I Q_I Q_I U_I F_E
+تولید T_D_B O_I L_I I_I1_I D_D_E
+تولیدی T_D_B O_I L_I I_I1_I D_D_I I_I1_E
+تولیے T_D_B O_O_I L_I J_I A_Y_E
+توڑیں T_D_B O_O_I R_R_I A_Y_N_E
+توہم T_D_B A_I V_I A_I H_I H_I U_I M_E
+توہین T_D_B O_I H_I I_I1_I N_E
+تک T_D_B A_I K_E
+تکلف T_D_B A_I K_I A_I L_I L_I U_I F_E
+تکلم T_D_B A_I K_I A_I L_I L_I U_I M_E
+تکمیل T_D_B A_I K_I M_I I_I1_I L_E
+تھا T_D_H_B A_A_E
+تھائی T_D_H_B A_A_I I_I1_E
+تھام T_D_H_B A_A_I M_E
+تھانہ T_D_H_B A_A_I N_I A_A_E
+تھانیدار T_D_H_B A_A_I N_I A_Y_I D_D_I A_A_I R_E
+تھر T_D_H_B A_I R_E
+تھری T_D_H_B I_I R_I I_I1_E
+تھریپیس T_D_H_B A_I R_I A_Y_I P_I A_Y_I S_E
+تھل T_D_H_B A_I L_E
+تھم T_D_H_B A_I M_E
+تھنوں T_D_H_B A_I N_I O_O_N_E
+تھنک T_D_H_B A_I N_I A_I K_E
+تھو T_D_H_B U_U_E
+تھوتھا T_D_H_B O_O_I T_D_H_I A_A_E
+تھوڑا T_D_H_B O_O_I R_R_I A_A_E
+تھوڑی T_D_H_B O_O_I R_R_I I_I1_E
+تھوڑے T_D_H_B O_O_I R_R_I A_Y_E
+تھوہر T_D_H_B O_O_I H_I A_I R_E
+تھڑے T_D_H_B A_I R_R_I A_Y_E
+تھک T_D_H_B A_I K_E
+تھی T_D_H_B I_I1_E
+تھیری T_D_H_B A_Y_I R_I I_I1_E
+تھیسس T_D_H_B I_I1_I S_I I_I S_E
+تھیلی T_D_H_B A_E1_I L_I I_I1_E
+تھیم T_D_H_B I_I1_I M_E
+تھینکس T_D_H_B A_E1_I N_I K_I S_E
+تھیوا T_D_H_B A_Y_I V_I A_A_E
+تھیوری T_D_H_B I_I J_I U_U_I R_I I_I1_E
+تھیٹر T_D_H_B A_Y_I T_I A_I R_E
+تھیں T_D_H_B I_I_N_E
+تھے T_D_H_B A_Y_E
+تہتر T_D_B I_I H_I A_I T_D_I T_D_I A_I R_E
+تہذیب T_D_B A_E_H_I H_I Z_I I_I1_I B_E
+تہذیبی T_D_B A_E_H_I H_I Z_I I_I1_I B_I I_I1_E
+تہمت T_D_B O_O_H_I H_I M_I A_I T_D_E
+تہوار T_D_B A_E_H_I H_I V_I A_A_I R_E
+تہیں T_D_B A_E_H_I H_I A_Y_N_E
+تہیہ T_D_B A_I H_I A_Y_I J_I J_I A_A_E
+تیار T_D_B A_I J_I J_I A_A_I R_E
+تیاریاں T_D_B A_E1_I J_I A_A_I R_I I_I J_I A_A_N_E
+تیاگ T_D_B I_I J_I A_A_I G_E
+تیروں T_D_B A_E1_I R_I O_O_N_E
+تیرگی T_D_B I_I1_I R_I G_I I_I1_E
+تیری T_D_B A_Y_I R_I I_I1_E
+تیرے T_D_B A_Y_I R_I A_Y_E
+تیز T_D_B A_Y_I Z_E
+تیزرفتار T_D_B A_Y_I Z_I R_I A_I F_I T_D_I A_A_I R_E
+تیزگام T_D_B A_Y_I Z_I G_I A_A_I M_E
+تیزی T_D_B A_Y_I Z_I I_I1_E
+تیسر T_D_B A_I J_I A_I S_I S_I U_I R_E
+تیسرے T_D_B I_I1_I S_I R_I A_Y_E
+تیقن T_D_B A_I J_I A_I Q_I Q_I U_I N_E
+تین T_D_B I_I1_I N_E
+ثاقب S_B A_A_I Q_I I_I B_E
+ثریا S_B U_I R_I A_I J_I J_I A_A_E
+ثقافت S_B A_I Q_I A_A_I F_I A_I T_D_E
+ثقل S_B I_I Q_I L_E
+ثلث S_B U_I L_I U_I S_E
+ثمر S_B A_I M_I A_I R_E
+جئے D_Z_B A_I A_Y_E
+جا D_Z_B A_A_E
+جاؤ D_Z_B A_A_I O_O_E
+جاؤں D_Z_B A_A_I U_U_N_E
+جائزہ D_Z_B A_A_I I_I Z_I A_A_E
+جائیداد D_Z_B A_A_I A_Y_I D_D_I A_A_I D_D_E
+جائیں D_Z_B A_A_I A_Y_N_E
+جائے D_Z_B A_A_I A_Y_E
+جاتا D_Z_B A_A_I T_D_I A_A_E
+جاتی D_Z_B A_A_I T_D_I I_I1_E
+جادوئی D_Z_B A_A_I D_D_I U_U_I I_I1_E
+جادوگر D_Z_B A_A_I D_D_I U_U_I G_I A_I R_E
+جارج D_Z_B A_A_I R_I D_Z_E
+جارحیت D_Z_B A_A_I R_I A_Y_I H_I I_I J_I J_I A_I T_D_E
+جاری D_Z_B A_A_I R_I I_I1_E
+جاسوسی D_Z_B A_A_I S_I U_U_I S_I I_I1_E
+جال D_Z_B A_A_I L_E
+جالندھری D_Z_B A_A_I L_I A_I N_I D_D_H_I R_I I_I1_E
+جامعہ D_Z_B A_A_I M_I A_Y_I A_A_E
+جان D_Z_B A_A_I N_E
+جانا D_Z_B A_A_I N_I A_A_E
+جانب D_Z_B A_A_I N_I I_I B_E
+جانبدار D_Z_B A_A_I N_I I_I B_I D_D_I A_A_I R_E
+جانوں D_Z_B A_A_I N_I O_O_N_E
+جانے D_Z_B A_A_I N_I A_Y_E
+جاوید D_Z_B A_A_I V_I A_Y_I D_D_E
+جاگزیں D_Z_B A_A_I G_I U_I Z_I I_I_N_E
+جاگنگ D_Z_B A_A_I G_I I_I N_G_E
+جاگیرداروں D_Z_B A_A_I G_I I_I1_I R_I D_D_I A_A_I R_I O_O_N_E
+جایا D_Z_B A_A_I J_I A_A_E
+جب D_Z_B A_I B_E
+جبری D_Z_B A_I B_I R_I I_I1_E
+جبڑا D_Z_B A_I B_I R_R_I A_A_E
+جبڑوں D_Z_B A_I B_I R_R_I O_O_N_E
+جبڑے D_Z_B A_I B_I R_R_I A_Y_E
+جبیں D_Z_B A_I B_I I_I_N_E
+جتنی D_Z_B A_I T_D_I N_I I_I1_E
+جج D_Z_B A_I D_Z_E
+ججوں D_Z_B A_I D_Z_I O_O_N_E
+جدا D_Z_B U_I D_D_I A_A_E
+جداگانہ D_Z_B U_I D_D_I A_A_I G_I A_A_I N_I A_A_E
+جدوجہد D_Z_B I_I D_D_I O_O_I D_Z_I A_I H_I D_D_E
+جدول D_Z_B A_I D_D_I V_I A_I L_E
+جدون D_Z_B A_I D_D_I U_U_I N_E
+جدید D_Z_B A_I D_D_I I_I1_I D_D_E
+جذبات D_Z_B A_I Z_I B_I A_A_I T_D_E
+جرم D_Z_B U_I R_I M_E
+جرنیل D_Z_B A_I R_I N_I A_E1_I L_E
+جرگہ D_Z_B I_I R_I G_I A_A_E
+جزو D_Z_B U_I Z_I V_E
+جس D_Z_B I_I S_E
+جست D_Z_B I_I S_I T_D_E
+جستجو D_Z_B U_I S_I T_D_I U_I D_Z_I U_U_E
+جسم D_Z_B I_I S_I M_E
+جسٹس D_Z_B A_I S_I T_I I_I S_E
+جشن D_Z_B A_I S_H_I N_E
+جعفری D_Z_B A_A_I F_I R_I I_I1_E
+جعل D_Z_B A_I A_I L_E
+جعلسازی D_Z_B A_A_I L_I S_I A_A_I Z_I I_I1_E
+جعلی D_Z_B A_A_I L_I I_I1_E
+جغرافیائی D_Z_B U_I G_G_I R_I A_A_I F_I I_I J_I A_A_I I_I1_E
+جل D_Z_B A_I L_E
+جلالہ D_Z_B A_I L_I A_A_I L_I U_I H_I U_E
+جلد D_Z_B A_I L_I D_D_E
+جلدازجلد D_Z_B A_I L_I D_D_I A_I Z_I D_Z_I A_I L_I D_D_E
+جلدی D_Z_B A_I L_I D_D_I I_I1_E
+جلسوں D_Z_B A_I L_I S_I O_O_N_E
+جلسہ D_Z_B A_I L_I S_I A_A_E
+جلسے D_Z_B A_I L_I S_I A_Y_E
+جلو D_Z_B A_I L_I V_E
+جلوس D_Z_B A_I L_I V_I I_I S_E
+جلوسوں D_Z_B A_I L_I V_I A_I S_I O_O_N_E
+جلووں D_Z_B A_I L_I V_I O_O_N_E
+جماعت D_Z_B A_I M_I A_A_I A_I T_D_E
+جمخانہ D_Z_B I_I M_I X_I A_A_I N_I A_A_E
+جمشید D_Z_B A_I M_I S_H_I A_Y_I D_D_E
+جمعہ D_Z_B U_I M_I A_A_E
+جمگھٹا D_Z_B A_I M_I G_H_I A_I T_I A_A_E
+جمہوریت D_Z_B A_I M_I H_I U_U_I R_I I_I J_I A_I T_D_E
+جمیعت D_Z_B A_I M_I I_I1_I A_I T_D_E
+جن D_Z_B A_I N_E
+جناب D_Z_B A_I N_I A_A_I B_E
+جنرک D_Z_B A_I N_I R_I I_I K_E
+جنریشن D_Z_B A_I N_I R_I A_Y_I S_H_I A_I N_E
+جنم D_Z_B A_I N_I A_I M_E
+جنوبی D_Z_B U_I N_I U_U_I B_I I_I1_E
+جنگ D_Z_B A_I N_G_E
+جنگجو D_Z_B A_I N_G_I D_Z_I U_U_E
+جنگجوؤں D_Z_B A_I N_G_I D_Z_I U_U_I O_O_N_E
+جنگجویانہ D_Z_B A_I N_G_I D_Z_I U_U_I J_I A_A_I N_I A_A_E
+جنگلوں D_Z_B A_I N_G_I L_I O_O_N_E
+جنگوں D_Z_B A_I N_G_I G_I O_O_N_E
+جنگی D_Z_B A_I N_G_I G_I I_I1_E
+جو D_Z_B O_O_E
+جوئیں D_Z_B U_U_I A_Y_N_E
+جوئیہ D_Z_B U_U_I I_I J_I A_A_E
+جوائنٹ D_Z_B U_U_I A_A_I I_I N_I T_E
+جواب D_Z_B A_I V_I A_A_I B_E
+جوار D_Z_B A_I V_I A_A_I R_E
+جوبلی D_Z_B U_U_I B_I L_I I_I1_E
+جوجوبا D_Z_B O_I D_Z_I U_U_I B_I A_A_E
+جور D_Z_B O_I R_E
+جوزی D_Z_B O_O_I Z_I I_I1_E
+جوس D_Z_B U_U_I S_E
+جوش D_Z_B O_O_I S_H_E
+جوق D_Z_B O_I Q_E
+جولانی D_Z_B O_O_I L_I A_A_I N_I I_I1_E
+جون D_Z_B U_U_I N_E
+جونا D_Z_B O_O_I N_I A_A_E
+جونہی D_Z_B U_U_N_I H_I I_I1_E
+جونیئر D_Z_B U_U_I N_I I_I1_I A_I R_E
+جونیجو D_Z_B O_O_I N_I A_Y_I D_Z_I O_O_E
+جوڈیشری D_Z_B O_O_I D_I I_I1_I S_H_I R_I I_I1_E
+جوڈیشل D_Z_B U_U_I D_I I_I1_I S_H_I A_I L_E
+جوڑ D_Z_B O_O_I R_R_E
+جوڑا D_Z_B O_O_I R_R_I A_A_E
+جوڑیاں D_Z_B O_O_I R_R_I I_I J_I A_A_N_E
+جوڑیں D_Z_B O_O_I R_R_I A_Y_N_E
+جوڑے D_Z_B O_O_I R_R_I A_Y_E
+جوکھوں D_Z_B O_O_I K_H_I O_O_N_E
+جوگی D_Z_B O_O_I G_I I_I1_E
+جوں D_Z_B U_U_N_E
+جوہر D_Z_B O_I H_I A_I R_E
+جوہری D_Z_B O_O_I H_I R_I I_I1_E
+جوہی D_Z_B U_U_I H_I I_I1_E
+جویا D_Z_B O_O_I J_I A_A_E
+جوے D_Z_B U_U_I A_Y_E
+جَلد D_Z_B A_I L_I D_D_E
+جچتا D_Z_B A_I T_S1_I T_D_I A_A_E
+جچیں D_Z_B A_I T_S1_I A_Y_N_E
+جچے D_Z_B A_I T_S1_I A_Y_E
+جڑ D_Z_B A_I R_R_E
+جڑواں D_Z_B U_I R_R_I V_I A_A_N_E
+جڑوں D_Z_B A_I R_R_I O_O_N_E
+جڑی D_Z_B A_I R_R_I I_I1_E
+جڑیں D_Z_B A_I R_R_I A_Y_N_E
+جکڑن D_Z_B A_I K_I R_R_I A_I N_E
+جکھرانی D_Z_B A_I K_H_I R_I A_A_I N_I I_I1_E
+جگ D_Z_B A_I G_E
+جگر D_Z_B I_I G_I A_I R_E
+جگہ D_Z_B A_I G_I A_A_E
+جگہوں D_Z_B A_I G_I A_I H_I O_O_N_E
+جھائیاں D_Z_H_B A_A_I I_I J_I A_A_N_E
+جھالر D_Z_H_B A_A_I L_I A_I R_E
+جھانکنے D_Z_H_B A_A_N_I K_I N_I A_Y_E
+جھاڑو D_Z_H_B A_A_I R_R_I O_O_E
+جھاڑیوں D_Z_H_B A_A_I R_R_I I_I1_I O_O_N_E
+جھاگ D_Z_H_B A_A_I G_E
+جھجک D_Z_H_B I_I D_Z_I A_I K_E
+جھجھک D_Z_B I_I D_Z_I A_I K_E
+جھرنے D_Z_H_B A_I R_I N_I A_Y_E
+جھریاں D_Z_H_B A_I R_I J_I A_A_N_E
+جھریوں D_Z_H_B A_I R_I I_I1_I O_O_N_E
+جھلس D_Z_H_B U_I L_I A_I S_E
+جھلک D_Z_H_B A_I L_I A_I K_E
+جھلی D_Z_H_B A_I L_I I_I1_E
+جھم D_Z_H_B A_I M_E
+جھمکے D_Z_H_B A_I M_I K_I A_Y_E
+جھنجھلاہٹ D_Z_H_B U_I N_I D_Z_H_I L_I A_A_I H_I A_I T_E
+جھنجھوڑ D_Z_H_B A_I N_I D_Z_H_I O_O_I R_R_E
+جھنڈ D_Z_H_B U_I N_I D_E
+جھنڈے D_Z_H_B A_I N_I D_I A_Y_E
+جھنگوی D_Z_H_B A_I N_G_I V_I I_I1_E
+جھولوں D_Z_H_B U_U_I L_I O_O_N_E
+جھولی D_Z_H_B O_O_I L_I I_I1_E
+جھولے D_Z_H_B U_U_I L_I A_Y_E
+جھوم D_Z_H_B U_U_I M_E
+جھونپڑی D_Z_H_B O_O_I M_I P_I A_I R_R_I I_I1_E
+جھونکوں D_Z_H_B O_O_N_I K_I O_O_N_E
+جھونکے D_Z_H_B O_O_I N_I K_I A_Y_E
+جھوٹ D_Z_H_B U_U_I T_E
+جھٹکے D_Z_H_B A_I T_I K_I A_Y_E
+جھڑپ D_Z_H_B A_I R_R_I A_I P_E
+جھڑک D_Z_H_B I_I R_R_I A_I K_E
+جھکاؤ D_Z_H_B U_I K_I A_A_I O_O_E
+جھگڑا D_Z_H_B A_I G_I R_R_I A_A_E
+جھگڑالو D_Z_H_B A_I G_I R_R_I A_A_I L_I U_U_E
+جھگڑوں D_Z_H_B A_I G_I R_R_I O_O_N_E
+جھگڑے D_Z_H_B A_I G_I R_R_I A_Y_E
+جھگی D_Z_H_B U_I G_I G_I I_I1_E
+جھیل D_Z_H_B A_Y_I L_E
+جھیلوں D_Z_H_B A_Y_I L_I O_O_N_E
+جھیلیں D_Z_H_B A_Y_I L_I A_Y_N_E
+جھیلے D_Z_H_B A_Y_I L_I A_Y_E
+جھینگے D_Z_H_B I_I1_I N_G_I G_I A_Y_E
+جہاد D_Z_B I_I H_I A_A_I D_D_E
+جہانگیر D_Z_B A_I H_I A_A_I N_G_I G_I I_I1_I R_E
+جہاں D_Z_B A_I H_I A_A_N_E
+جہتیں D_Z_B A_Y_I H_I T_D_I A_Y_N_E
+جہد D_Z_B I_I H_I D_D_E
+جہل D_Z_B A_I H_I L_E
+جی D_Z_B I_I1_E
+جیب D_Z_B A_Y_I B_E
+جید D_Z_B A_E1_I J_I A_I D_D_E
+جیز D_Z_B A_E1_I Z_E
+جیسا D_Z_B A_E1_I S_I A_A_E
+جیسی D_Z_B A_E1_I S_I I_I1_E
+جیسے D_Z_B A_E1_I S_I A_Y_E
+جیش D_Z_B A_E1_I S_H_E
+جیل D_Z_B A_Y_I L_E
+جیلانی D_Z_B I_I1_I L_I A_A_I N_I I_I1_E
+جیم D_Z_B I_I1_I M_E
+جین D_Z_B A_Y_I N_E
+جینوئن D_Z_B A_E1_I N_I U_U_I I_I N_E
+جیو D_Z_B I_I1_I O_O_E
+جیوئش D_Z_B I_I J_I U_U_I I_I S_H_E
+جیوری D_Z_B I_I J_I U_U_I R_I I_I1_E
+جیولری D_Z_B I_I J_I U_U_I L_I R_I I_I1_E
+جیومیٹری D_Z_B I_I1_I O_O_I M_I A_E1_I T_I R_I I_I1_E
+جیون D_Z_B I_I1_I V_I A_I N_E
+جیٹ D_Z_B A_E1_I T_E
+جیگوار D_Z_B A_E1_I G_I U_U_I A_I R_E
+جے D_Z_B A_E1_E
+حائل H_B A_A_I A_Y_I L_E
+حاجی H_B A_A_I D_Z_I I_I1_E
+حادثاتی H_B A_A_I D_D_I S_I A_A_I T_D_I I_I1_E
+حادثے H_B A_A_I D_D_I I_I S_I A_Y_E
+حاشیے H_B A_A_I S_H_I I_I1_I A_Y_E
+حاصل H_B A_A_I S_I I_I L_E
+حاضری H_B A_A_I Z_I I_I R_I I_I1_E
+حافظ H_B A_A_I F_I I_I Z_E
+حافظے H_B A_A_I F_I Z_I A_Y_E
+حال H_B A_A_I L_E
+حالات H_B A_A_I L_I A_A_I T_D_E
+حالانکہ H_B A_A_I L_I A_A_N_I K_I A_Y_E
+حامد H_B A_A_I M_I I_I D_D_E
+حامل H_B A_A_I M_I I_I L_E
+حاوی H_B A_A_I V_I I_I1_E
+حب H_B I_I B_E
+حبس H_B A_I B_I S_E
+حبشی H_B A_I B_I S_H_I I_I1_E
+حبیب H_B A_I B_I I_I1_I B_E
+حج H_B A_I D_Z_E
+حجاج H_B U_I D_Z_I D_Z_I A_A_I D_Z_E
+حجت H_B U_I D_Z_I D_Z_I A_I T_D_E
+حد H_B A_I D_D_E
+حدود H_B U_I D_D_I U_U_I D_D_E
+حدیث H_B A_I D_D_I I_I1_I S_E
+حرفوں H_B A_I R_I F_I O_O_N_E
+حروں H_B U_I R_I R_I O_O_N_E
+حریت H_B U_I R_I R_I I_I1_I J_I A_I T_D_E
+حریفوں H_B A_I R_I I_I1_I F_I O_O_N_E
+حزب H_B I_I Z_I B_E
+حزن H_B U_I Z_I N_E
+حزیں H_B A_I Z_I I_I_N_E
+حسن H_B A_I S_I A_I N_E
+حسین H_B A_I S_I I_I1_I N_E
+حسینی H_B U_I S_I A_E1_I N_I I_I1_E
+حسیں H_B I_I S_I A_Y_N_E
+حشر H_B A_I S_H_I R_E
+حصص H_B I_I S_I A_I S_E
+حصول H_B U_I S_I U_U_I L_E
+حصوں H_B I_I S_I S_I O_O_N_E
+حصہ H_B I_I S_I S_I A_A_E
+حصے H_B I_I S_I S_I A_Y_E
+حضرات H_B A_I Z_I R_I A_A_I T_D_E
+حضرت H_B A_I Z_I R_I A_I T_D_E
+حضور H_B U_I Z_I U_U_I R_E
+حفاظ H_B U_I F_I F_I A_A_I Z_E
+حفاظت H_B I_I F_I A_A_I Z_I A_I T_D_E
+حفظ H_B I_I F_I Z_E
+حفیظ H_B A_I F_I I_I1_I Z_E
+حق H_B A_I Q_E
+حقوق H_B U_I Q_I U_U_I Q_E
+حقیقت H_B A_I Q_I I_I1_I Q_I A_I T_D_E
+حلف H_B A_I L_I F_E
+حلقہ H_B A_I L_I Q_I A_A_E
+حلیہ H_B U_I L_I J_I A_A_E
+حمایت H_B I_I M_I A_A_I J_I A_I T_D_E
+حمل H_B A_I M_I L_E
+حملوں H_B A_I M_I L_I O_O_N_E
+حملہ H_B A_I M_I L_I A_A_E
+حملے H_B A_I M_I L_I A_Y_E
+حنیف H_B A_I N_I I_I1_I F_E
+حوصلہ H_B O_I S_I A_I L_I A_A_E
+حوصلے H_B O_O_I S_I L_I A_Y_E
+حوض H_B O_I Z_E
+حویلی H_B A_I V_I A_Y_I L_I I_I1_E
+حکمراں H_B U_I K_I M_I R_I A_A_N_E
+حکومت H_B U_I K_I U_U_I M_I A_I T_D_E
+حیات H_B A_I J_I A_A_I T_D_E
+حیثیت H_B A_E1_I S_I I_I J_I A_I T_D_E
+حیدر H_B A_E1_I D_D_I A_I R_E
+حیران H_B A_E1_I R_I A_A_I N_E
+حیراں H_B A_E1_I R_I A_A_N_E
+حیرت H_B A_E1_I R_I A_I T_D_E
+حیف H_B A_E1_I F_E
+خاتمے X_B A_A_I T_D_I I_I M_I A_Y_E
+خاتون X_B A_A_I T_D_I U_U_I N_E
+خادم X_B A_A_I D_D_I I_I M_E
+خارجہ X_B A_A_I R_I I_I D_Z_I A_A_E
+خازن X_B A_A_I Z_I I_I N_E
+خاص X_B A_A_I S_E
+خاصی X_B A_A_I S_I I_I1_E
+خاصے X_B A_A_I S_I A_Y_E
+خاطر X_B A_A_I T_D_I I_I R_E
+خاقان X_B A_A_I Q_I A_A_I N_E
+خالد X_B A_A_I L_I I_I D_D_E
+خام X_B A_A_I M_E
+خاموش X_B A_A_I M_I O_O_I S_H_E
+خاموشی X_B A_A_I M_I O_O_I S_H_I I_I1_E
+خان X_B A_A_I N_E
+خاندان X_B A_A_I N_I D_D_I A_A_I N_E
+خانقاہوں X_B A_A_I N_I Q_I A_A_I H_I O_O_N_E
+خانگی X_B A_A_I N_G_I G_I I_I1_E
+خاوند X_B A_A_I V_I A_I N_I D_D_E
+خاں X_B A_A_N_E
+خبر X_B A_I B_I A_I R_E
+خبروں X_B A_I B_I R_I O_O_N_E
+خبریں X_B A_I B_I R_I A_Y_N_E
+ختم X_B A_I T_D_I M_E
+خداؤں X_B U_I D_D_I A_A_I O_O_N_E
+خدانخواستہ X_B U_I D_D_I A_A_I N_I A_I X_I A_A_I S_I T_D_I A_A_E
+خدشہ X_B A_I D_D_I S_H_I A_A_E
+خدشے X_B A_I D_D_I S_H_I A_Y_E
+خدمات X_B I_I D_D_I M_I A_A_I T_D_E
+خدوخال X_B A_I D_D_I O_O_I X_I A_A_I L_E
+خروش X_B U_I R_I U_U_I S_H_E
+خرچ X_B A_I R_I T_S1_E
+خرید X_B A_I R_I I_I1_I D_D_E
+خریدوفروخت X_B A_I R_I I_I1_I D_D_I O_O_I F_I A_I R_I O_O_I X_I T_D_E
+خریدیں X_B A_I R_I I_I1_I D_D_I A_Y_N_E
+خریدے X_B A_I R_I I_I1_I D_D_I A_Y_E
+خزانہ X_B A_I Z_I A_A_I N_I A_A_E
+خزاں X_B I_I Z_I A_A_N_E
+خسارے X_B A_I S_I A_A_I R_I A_Y_E
+خسرو X_B U_I S_I R_I O_E
+خشت X_B I_I S_H_I T_D_E
+خشخاش X_B A_I S_H_I X_I A_A_I S_H_E
+خشوع X_B U_I S_H_I U_U_E
+خشونت X_B U_I S_H_I U_U_I N_I A_I T_D_E
+خصال X_B I_I S_I A_A_I L_E
+خصوصا X_B U_I S_I U_U_I S_I A_I N_E
+خصوصی X_B U_I S_I U_U_I S_I I_I1_E
+خضر X_B I_I Z_I R_E
+خضوع X_B U_I Z_I U_U_E
+خفت X_B I_I F_I F_I A_I T_D_E
+خفگی X_B A_I F_I A_I G_I I_I1_E
+خفیف X_B A_I F_I I_I1_I F_E
+خفیہ X_B U_I F_I J_I A_A_E
+خلائی X_B A_I L_I A_A_I I_I1_E
+خلاف X_B I_I L_I A_A_I F_E
+خلجی X_B I_I L_I D_Z_I I_I1_E
+خلق X_B U_I L_I Q_E
+خلل X_B A_I L_I A_I L_E
+خلیفہ X_B A_I L_I I_I1_I F_I A_A_E
+خلیل X_B A_I L_I I_I1_I L_E
+خلیے X_B A_I L_I J_I A_Y_E
+خم X_B A_I M_E
+خمار X_B U_I M_I A_A_I R_E
+خنازیر X_B I_I N_I A_A_I Z_I I_I1_I R_E
+خوابیدہ X_B A_A_I B_I I_I1_I D_D_I A_A_E
+خواتین X_B A_I V_I A_A_I T_D_I I_I1_I N_E
+خواجہ X_B A_A_I D_Z_I A_A_E
+خوار X_B A_I A_I R_E
+خوارزمی X_B U_I V_I A_A_I R_I Z_I A_I M_I I_I1_E
+خواری X_B O_O_I A_A_I R_I I_I1_E
+خواستگار X_B U_I A_A_I S_I T_D_I G_I A_A_I R_E
+خواص X_B V_I A_A_I S_E
+خوان X_B O_I V_I A_A_I N_E
+خواہ X_B A_A_E
+خواہاں X_B A_A_I H_I A_A_N_E
+خواہش X_B A_A_I H_I I_I S_H_E
+خواہشمند X_B A_A_I H_I I_I S_H_I M_I A_I N_I D_D_E
+خوبصورت X_B U_U_I B_I S_I U_U_I R_I A_I T_D_E
+خود X_B U_I D_D_E
+خودرو X_B U_I D_D_I R_I O_E
+خودسر X_B U_I D_D_I S_I A_I R_E
+خودسوزی X_B U_I D_D_I S_I O_O_I Z_I I_I1_E
+خودکشیوں X_B U_I D_D_I K_I U_I S_H_I J_I O_O_N_E
+خوراک X_B U_I R_I A_A_I K_E
+خورشید X_B U_I R_I S_H_I I_I1_I D_D_E
+خوشبو X_B U_I S_H_I B_I U_U_E
+خوشبوؤں X_B U_I S_H_I B_I U_U_I O_O_N_E
+خوشبوئیں X_B U_I S_H_I B_I U_U_I A_Y_N_E
+خوشحالی X_B U_I S_H_I H_I A_A_I L_I I_I1_E
+خوشخبری X_B U_I S_H_I X_I A_I B_I A_I R_I I_I1_E
+خوشنودی X_B U_I S_H_I N_I U_U_I D_D_I I_I1_E
+خوشگوار X_B U_I S_H_I G_I A_I V_I A_A_I R_E
+خوشہ X_B O_O_I S_H_I A_A_E
+خوشی X_B U_I S_H_I I_I1_E
+خوشیاں X_B U_I S_H_I J_I A_A_N_E
+خوشیوں X_B U_I S_H_I I_I1_I O_O_N_E
+خوض X_B O_I Z_E
+خوف X_B O_I F_E
+خوفزدہ X_B O_I F_I Z_I A_I D_D_I A_A_E
+خوفناک X_B O_O_I F_I N_I A_A_I K_E
+خوفوں X_B O_I F_I O_O_N_E
+خول X_B O_I L_E
+خون X_B U_U_I N_E
+خوگر X_B U_U_I G_I A_I R_E
+خویش X_B O_I A_Y_I S_H_E
+خُو X_B U_U_E
+خچر X_B A_I T_S1_I T_S1_I A_I R_E
+خیال X_B A_I J_I A_A_I L_E
+خیام X_B A_I J_I A_A_I M_E
+خیر X_B A_E1_I R_E
+خیرالعمل X_B A_E1_I R_I U_I L_I A_I M_I A_I L_E
+خیرخواہ X_B A_E1_I R_I X_I A_A_E
+خیرہ X_B I_I1_I R_I A_A_E
+خیز X_B A_Y_I Z_E
+خیل X_B A_E1_I L_E
+خیلوی X_B A_Y_I L_I V_I I_I1_E
+خیمے X_B A_E1_I M_I A_Y_E
+داؤ D_D_B A_A_I O_O_E
+داؤد D_D_B A_A_I U_U_I D_D_E
+داؤدی D_D_B A_I U_U_I D_D_I I_I1_E
+دائِیں D_D_B A_A_I I_I_N_E
+دائیں D_D_B A_A_I A_Y_N_E
+داخل D_D_B A_A_I X_I I_I L_E
+داخلوں D_D_B A_A_I X_I L_I O_O_N_E
+دارالحکومت D_D_B A_A_I R_I U_I L_I H_I U_I K_I U_U_I M_I A_I T_D_E
+دارلخلافہ D_D_B A_A_I R_I U_I L_I X_I I_I L_I A_A_I F_I A_I H_E
+دارومدار D_D_B A_A_I R_I O_O_I M_I A_I D_D_I A_A_I R_E
+داستان D_D_B A_A_I S_I T_D_I A_A_I N_E
+داغ D_D_B A_A_I G_G_E
+داغدار D_D_B A_A_I G_G_I D_D_I A_A_I R_E
+داغنے D_D_B A_A_I G_G_I N_I A_Y_E
+داغے D_D_B A_A_I G_G_I A_Y_E
+دانش D_D_B A_A_I N_I I_I S_H_E
+دانشو D_D_B A_A_I N_I I_I S_H_I O_O_E
+دانشور D_D_B A_A_I N_I I_I S_H_I V_I A_I R_E
+داڑھ D_D_B A_A_I R_R_H_I I_E
+داڑھی D_D_B A_A_I R_R_H_I I_I1_E
+دب D_D_B A_I B_E
+دباؤ D_D_B A_I B_I A_A_I O_O_E
+دبائیں D_D_B A_I B_I A_A_I A_Y_N_E
+دبائے D_D_B A_I B_I A_A_I A_Y_E
+دبایا D_D_B A_I B_I A_A_I J_I A_A_E
+دبوچ D_D_B A_I B_I O_O_I T_S1_E
+دبیز D_D_B A_I B_I I_I1_I Z_E
+دختر D_D_B U_I X_I T_D_I A_I R_E
+دخل D_D_B A_I X_I L_E
+در D_D_B A_I R_E
+درآمدات D_D_B A_I R_I A_I A_A_I M_I D_D_I A_A_I T_D_E
+دراوڑی D_D_B A_I R_I A_A_I V_I I_I R_R_I I_I1_E
+دراڑیں D_D_B A_I R_I A_A_I R_R_I A_Y_N_E
+درج D_D_B A_I R_I D_Z_E
+درجن D_D_B A_I R_I D_Z_I A_I N_E
+درجوں D_D_B A_I R_I D_Z_I O_O_N_E
+درجے D_D_B A_I R_I D_Z_I A_Y_E
+درخت D_D_B A_I R_I A_I X_I T_D_E
+درخشاں D_D_B A_I R_I A_I X_I S_H_I A_A_N_E
+درخواست D_D_B A_I R_I X_I A_A_I S_I T_D_E
+درخور D_D_B A_I R_I X_I O_O_I R_E
+درد D_D_B A_I R_I D_D_E
+درس D_D_B A_I R_I S_E
+درست D_D_B U_I R_I U_I S_I T_D_E
+درستگی D_D_B A_I R_I U_I S_I T_D_I A_I G_I I_I1_E
+درسگاہ D_D_B A_I R_I S_I G_I A_A_E
+درسگاہوں D_D_B A_I R_I A_I S_I G_I A_A_I H_I O_O_N_E
+درمیان D_D_B A_I R_I M_I I_I J_I A_A_I N_E
+درود D_D_B U_I R_I U_U_I D_D_E
+درہم D_D_B I_I R_I H_I A_I M_E
+دریاؤں D_D_B A_I R_I J_I A_A_I O_O_N_E
+دریافت D_D_B A_I R_I J_I A_A_I F_I T_D_E
+دریغ D_D_B A_I R_I A_Y_I G_G_E
+دریچوں D_D_B A_I R_I I_I1_I T_S1_I O_O_N_E
+دریچے D_D_B A_I R_I I_I1_I T_S1_I A_Y_E
+دریں D_D_B A_I R_I I_I_N_E
+دس D_D_B A_I S_E
+دستاویزات D_D_B A_I S_I T_D_I A_A_I V_I A_Y_I Z_I A_A_I T_D_E
+دستاویزی D_D_B A_I S_I T_D_I A_A_I V_I I_I1_I Z_I I_I1_E
+دسویں D_D_B A_I S_I V_I A_Y_N_E
+دشت D_D_B A_I S_H_I T_D_E
+دشمن D_D_B U_I S_H_I M_I A_I N_E
+دشوار D_D_B U_I S_H_I V_I A_A_I R_E
+دعا D_D_B U_I A_A_E
+دعاؤں D_D_B U_I A_A_I O_O_N_E
+دعائیں D_D_B U_I A_A_I A_Y_N_E
+دعائیہ D_D_B U_I A_A_I I_I1_I J_I A_A_E
+دعاگو D_D_B U_I A_A_I G_I O_O_E
+دعوؤں D_D_B A_A_I V_I O_O_N_E
+دغا D_D_B A_I G_G_I A_A_E
+دفاع D_D_B I_I F_I A_A_E
+دفتر D_D_B A_I F_I T_D_I A_I R_E
+دفن D_D_B A_I F_I N_E
+دل D_D_B I_I L_E
+دلبرداشتہ D_D_B I_I L_I B_I A_I R_I D_D_I A_A_I S_H_I T_D_I A_A_E
+دلجوئی D_D_B I_I L_I D_Z_I U_U_I I_I1_E
+دلخراش D_D_B I_I L_I X_I A_I R_I A_A_I S_H_E
+دلربا D_D_B I_I L_I R_I U_I B_I A_A_E
+دلسوزی D_D_B I_I L_I S_I O_O_I Z_I I_I1_E
+دلشاد D_D_B I_I L_I S_H_I A_A_I D_D_E
+دلفریب D_D_B I_I L_I F_I A_I R_I A_Y_I B_E
+دلنشیں D_D_B I_I L_I N_I A_I S_H_I I_I_N_E
+دلواؤں D_D_B I_I L_I V_I A_A_I U_U_N_E
+دلوں D_D_B I_I L_I O_O_N_E
+دلچسپی D_D_B I_I L_I T_S1_I A_I S_I P_I I_I1_E
+دلہن D_D_B U_I L_I H_I A_I N_E
+دم D_D_B I_I M_E
+دماغ D_D_B I_I M_I A_A_I G_G_E
+دماغی D_D_B I_I M_I A_A_I G_G_I I_I1_E
+دن D_D_B I_I N_E
+دنگ D_D_B A_I N_G_E
+دنیا D_D_B U_I N_I J_I A_A_E
+دنیاوی D_D_B U_I N_I J_I A_A_I V_I I_I1_E
+دو D_D_B O_O_E
+دوا D_D_B A_I V_I A_A_E
+دواؤں D_D_B A_I V_I A_A_I O_O_N_E
+دوبارہ D_D_B O_O_I B_I A_A_I R_I A_A_E
+دوبھر D_D_B U_U_I B_H_I A_I R_E
+دوجے D_D_B U_U_I D_Z_I A_Y_E
+دودھ D_D_B U_U_I D_D_H_E
+دودھیا D_D_B U_U_I D_D_H_I I_I J_I A_A_E
+دودھیل D_D_B U_U_I D_D_H_I A_Y_I L_E
+دور D_D_B O_I R_E
+دوران D_D_B O_I R_I A_A_I N_E
+دورانئے D_D_B O_I R_I A_A_I N_I I_I A_Y_E
+دورانیے D_D_B O_I R_I A_A_I N_I I_I1_I A_Y_E
+دوراں D_D_B O_I R_I A_A_N_E
+دوربین D_D_B U_U_I R_I B_I I_I1_I N_E
+دوردراز D_D_B U_U_I R_I D_D_I A_I R_I A_A_I Z_E
+دوررس D_D_B U_U_I R_I R_I A_I S_E
+دوروں D_D_B O_I R_I O_O_N_E
+دورے D_D_B O_I R_I A_Y_E
+دوزخ D_D_B O_O_I Z_I A_I X_E
+دوست D_D_B O_O_I S_I T_D_E
+دوسرا D_D_B U_U_I S_I R_I A_A_E
+دوسروں D_D_B U_U_I S_I R_I O_O_N_E
+دوسری D_D_B U_U_I S_I R_I I_I1_E
+دوسرے D_D_B U_U_I S_I R_I A_Y_E
+دوشیزہ D_D_B O_O_I S_H_I I_I1_I Z_I A_A_E
+دوعالم D_D_B O_O_I A_A_I L_I A_I M_E
+دوغلا D_D_B O_O_I G_G_I L_I A_A_E
+دوغلی D_D_B O_O_I G_G_I L_I I_I1_E
+دوغلے D_D_B O_O_I G_G_I L_I A_Y_E
+دولت D_D_B O_I L_I A_I T_D_E
+دولخت D_D_B O_O_I L_I A_I X_I T_D_E
+دولہا D_D_B U_U_I L_I H_I A_A_E
+دوم D_D_B U_I V_I A_I M_E
+دونوں D_D_B O_O_I N_I O_O_N_E
+دوچار D_D_B O_O_I T_S1_I A_A_I R_E
+دوچند D_D_B O_O_I T_S1_I A_I N_I D_D_E
+دوڑ D_D_B O_I R_R_E
+دوڑائیں D_D_B O_I R_R_I A_A_I A_Y_N_E
+دوڑانے D_D_B O_I R_R_I A_A_I N_I A_Y_E
+دوڑنے D_D_B O_O_I R_R_I N_I A_Y_E
+دوگانہ D_D_B O_O_I G_I A_A_I N_I A_A_E
+دوگنا D_D_B U_I G_I N_I A_A_E
+دوں D_D_B U_U_N_E
+دکھ D_D_B U_I K_H_E
+دکھا D_D_B U_I K_H_I K_H_I A_A_E
+دکھائی D_D_B I_I K_H_I A_A_I I_I1_E
+دکھائیں D_D_B U_I K_H_I A_A_I A_Y_N_E
+دکھائے D_D_B I_I K_H_I A_A_I A_Y_E
+دکھاوے D_D_B I_I K_H_I A_A_I V_I A_Y_E
+دکھایا D_D_B I_I K_H_I A_A_I J_I A_A_E
+دکھلا D_D_B I_I K_H_I L_I A_A_E
+دکھنے D_D_B U_I K_H_I N_I A_Y_E
+دکھوں D_D_B U_I K_H_I U_U_N_E
+دکھی D_D_B U_I K_H_I K_H_I I_I1_E
+دکھیں D_D_B U_I K_H_I A_Y_N_E
+دکھے D_D_B U_I K_H_I K_H_I A_Y_E
+دھائی D_D_H_B A_A_I I_I1_E
+دھار D_D_H_B A_A_I R_E
+دھاندلی D_D_H_B A_A_I N_I D_D_I L_I I_I1_E
+دھاڑ D_D_H_B A_A_I R_R_E
+دھاگے D_D_H_B A_A_I G_I A_Y_E
+دھبے D_D_H_B A_I B_I B_I A_Y_E
+دھجیاں D_D_H_B U_I D_Z_I D_Z_I I_I J_I A_A_N_E
+دھرا D_D_H_B U_I R_I A_A_E
+دھری D_D_H_B O_O_I R_I I_I1_E
+دھل D_D_H_B U_I L_E
+دھماکہ D_D_H_B A_I M_I A_A_I K_I A_A_E
+دھند D_D_H_B A_I N_I D_D_E
+دھو D_D_H_B O_O_E
+دھوئیں D_D_H_B O_O_I A_Y_N_E
+دھوئے D_D_H_B O_O_I A_Y_E
+دھواں D_D_H_B A_I V_I A_A_N_E
+دھوبی D_D_H_B O_O_I B_I I_I1_E
+دھول D_D_H_B U_U_I L_E
+دھولیں D_D_H_B O_O_I L_I A_Y_N_E
+دھوم D_D_H_B U_U_I M_E
+دھونی D_D_H_B U_U_I N_I I_I1_E
+دھونے D_D_H_B O_O_I N_I A_Y_E
+دھوپ D_D_H_B U_U_I P_E
+دھویا D_D_H_B O_O_I J_I A_A_E
+دھویں D_D_H_B O_O_I A_Y_N_E
+دھچکا D_D_H_B A_I T_S1_I K_I A_A_E
+دھڑام D_D_H_B A_I R_R_I A_A_I M_E
+دھڑلے D_D_H_B A_I R_R_I A_I L_I L_I A_Y_E
+دھڑے D_D_H_B A_I R_R_I A_Y_E
+دھیان D_D_H_B A_I J_I A_A_I N_E
+دھیرے D_D_H_B I_I1_I R_I A_Y_E
+دھیمی D_D_H_B I_I1_I M_I I_I1_E
+دھینگا D_D_H_B I_I1_I N_G_I G_I A_A_E
+دہرانے D_D_B U_I H_I R_I A_A_I N_I A_Y_E
+دہرایا D_D_B O_O_H_I H_I R_I A_A_I J_I A_A_E
+دہشت D_D_B A_E_H_I H_I S_H_I A_I T_D_E
+دہل D_D_B A_E_H_I H_I L_E
+دہلوی D_D_B A_I H_I L_I V_I I_I1_E
+دہلی D_D_B A_Y_H_I H_I L_I I_I1_E
+دہندگان D_D_B I_I H_I I_I N_I D_D_I G_I A_A_I N_E
+دہی D_D_B A_I H_I I_I1_E
+دی D_D_B I_I1_E
+دیئے D_D_B I_I1_I A_Y_E
+دیا D_D_B I_I1_I A_A_E
+دیانتدار D_D_B A_I J_I A_A_I N_I A_I T_D_I D_D_I A_A_I R_E
+دیباچہ D_D_B I_I1_I B_I A_A_I T_S1_I A_A_E
+دیباچے D_D_B I_I1_I B_I A_A_I T_S1_I A_Y_E
+دیتا D_D_B A_Y_I T_D_I A_A_E
+دیتی D_D_B A_Y_I T_D_I I_I1_E
+دیتے D_D_B A_Y_I T_D_I A_Y_E
+دیجئے D_D_B I_I1_I D_Z_I I_I A_Y_E
+دیر D_D_B A_Y_I R_E
+دیرینہ D_D_B A_Y_I R_I I_I1_I N_I A_A_E
+دیسی D_D_B A_Y_I S_I I_I1_E
+دیش D_D_B A_Y_I S_H_E
+دین D_D_B I_I1_I N_E
+دینا D_D_B A_Y_I N_I A_A_E
+دینے D_D_B A_Y_I N_I A_Y_E
+دیو D_D_B A_E1_I O_O_E
+دیوار D_D_B I_I1_I V_I A_A_I R_E
+دیوبند D_D_B I_I J_I O_O_I B_I A_I N_I D_D_E
+دیوبندی D_D_B I_I1_I O_O_I B_I A_I N_I D_D_I I_I1_E
+دیوداس D_D_B A_Y_I V_I D_D_I A_A_I S_E
+دیول D_D_B A_Y_I O_O_I L_E
+دیومالائی D_D_B A_Y_I V_I M_I A_A_I L_I A_A_I I_I1_E
+دیوہیکل D_D_B A_Y_I V_I H_I A_E1_I K_I A_I L_E
+دیوی D_D_B A_Y_I V_I I_I1_E
+دیکھ D_D_B A_Y_I K_H_E
+دیکھئے D_D_B A_Y_I K_H_I I_I A_Y_E
+دیکھا D_D_B A_Y_I K_H_I A_A_E
+دیکھتے D_D_B A_Y_I K_H_I T_D_I A_Y_E
+دیکھنے D_D_B A_Y_I K_H_I N_I A_Y_E
+دیکھو D_D_B A_Y_I K_H_I O_O_E
+دیکھوں D_D_B A_Y_I K_H_I U_U_N_E
+دیکھی D_D_B A_Y_I K_H_I I_I1_E
+دیکھیں D_D_B A_Y_I K_H_I A_Y_N_E
+دیکھیے D_D_B A_Y_I K_H_I I_I1_I A_Y_E
+دیکھے D_D_B A_Y_I K_H_I A_Y_E
+دیگر D_D_B I_I1_I G_I A_I R_E
+دیگچی D_D_B A_Y_I G_I T_S1_I I_I1_E
+دیں D_D_B A_Y_N_E
+دیہاتیوں D_D_B I_I1_I H_I A_A_I T_D_I I_I1_I O_O_N_E
+دیے D_D_B I_I1_I A_Y_E
+دے D_D_B A_Y_E
+ذاد Z_B A_A_I D_D_E
+ذادہ Z_B A_A_I D_D_I A_A_E
+ذخائر Z_B A_I X_I A_A_I I_I R_E
+ذخیرہ Z_B A_I X_I I_I1_I R_I A_A_E
+ذریعہ Z_B A_I R_I I_I1_I A_A_E
+ذریعے Z_B A_I R_I I_I1_I A_Y_E
+ذوالجلال Z_B U_I L_I D_Z_I A_I L_I A_A_I L_E
+ذوالجناح Z_B U_I L_I D_Z_I I_I N_I A_A_E
+ذوالفقار Z_B U_I L_I F_I I_I Q_I A_A_I R_E
+ذوق Z_B O_I Q_E
+ذکر Z_B I_I K_I R_E
+ذہن Z_B A_Y_I H_I N_E
+ذہنی Z_B I_I H_I N_I I_I1_E
+ذیشان Z_B I_I1_I S_H_I A_A_I N_E
+ذیل Z_B A_E1_I L_E
+رؤف R_B A_I U_U_I F_E
+رئیس R_B A_I I_I1_I S_E
+رئیل R_B I_I1_I A_I L_E
+راؤ R_B A_A_I O_O_E
+راؤنڈر R_B A_A_I U_U_I N_I D_I R_E
+رائج R_B A_A_I I_I D_Z_E
+رائگاں R_B A_A_I I_I G_I A_A_N_E
+رائیگاں R_B A_A_I A_Y_I G_I A_A_N_E
+رائے R_B A_A_I A_Y_E
+رابطے R_B A_A_I B_I I_I T_D_I A_Y_E
+رابعہ R_B A_A_I B_I I_I A_A_E
+راجباہوں R_B A_A_I D_Z_I B_I A_A_I H_I O_O_N_E
+راجن R_B A_A_I D_Z_I A_I N_E
+راجیہ R_B A_A_I D_Z_I J_I A_A_E
+راجے R_B A_A_I D_Z_I A_Y_E
+رازداں R_B A_A_I Z_I D_D_I A_A_N_E
+رازق R_B A_A_I Z_I I_I Q_E
+راستے R_B A_A_I S_I T_D_I A_Y_E
+راسخ R_B A_A_I S_I I_I X_E
+راشد R_B A_A_I S_H_I I_I D_D_E
+راغب R_B A_A_I G_G_I I_I B_E
+رافعہ R_B A_A_I F_I I_I A_A_E
+راقم R_B A_A_I Q_I I_I M_E
+رانجھا R_B A_A_I N_I D_Z_H_I A_A_E
+رانجھن R_B A_A_I N_I D_Z_H_I A_I N_E
+راولا R_B A_A_I V_I L_I A_A_E
+راوی R_B A_A_I V_I I_I1_E
+راٹھور R_B A_A_I T_H_I O_O_I R_E
+راگ R_B A_A_I G_E
+راہبر R_B A_A_I H_I B_I A_I R_E
+راہداری R_B A_A_I H_I D_D_I A_A_I R_I I_I1_E
+راہو R_B A_A_I H_I U_U_E
+راہگیر R_B A_A_I H_I G_I I_I1_I R_E
+رباب R_B U_I B_I A_A_I B_E
+ربیعہ R_B A_I B_I I_I1_I A_A_E
+رتھ R_B A_I T_D_H_E
+رجحان R_B U_I D_Z_I H_I A_A_I N_E
+رجسٹریشن R_B A_I D_Z_I I_I S_I T_I A_I R_I A_Y_I S_H_I A_I N_E
+رجوع R_B U_I D_Z_I U_U_E
+رحم R_B A_I H_I M_E
+رحمت R_B A_I H_I M_I A_I T_D_E
+رحیل R_B A_I H_I I_I1_I L_E
+رحیم R_B A_I H_I I_I1_I M_E
+رخ R_B U_I X_E
+رخساروں R_B U_I X_I S_I A_A_I R_I O_O_N_E
+رخشندہ R_B A_I X_I S_H_I A_I N_I D_D_I A_A_E
+رخصت R_B U_I X_I S_I A_I T_D_E
+رخنہ R_B A_I X_I N_I A_A_E
+رخوں R_B U_I X_I O_O_N_E
+ردعمل R_B A_I D_D_I D_D_I A_Y_I A_I M_I A_I L_E
+ردیف R_B A_I D_D_I I_I1_I F_E
+رزاق R_B A_I Z_I Z_I A_A_I Q_E
+رزق R_B I_I Z_I Q_E
+رزلٹ R_B I_I Z_I A_I L_I T_E
+رساؤ R_B A_I S_I A_A_I O_O_E
+رسوئی R_B A_I S_I O_O_I I_I1_E
+رسوائی R_B U_I S_I V_I A_A_I I_I1_E
+رسول R_B A_I S_I U_U_I L_E
+رسولی R_B A_I S_I O_O_I L_I I_I1_E
+رسیا R_B A_I S_I J_I A_A_E
+رسیدہ R_B A_I S_I I_I1_I D_D_I A_A_E
+رشدی R_B U_I S_H_I D_D_I I_I1_E
+رشید R_B A_I S_H_I I_I1_I D_D_E
+رضا R_B A_I Z_I A_A_E
+رضوان R_B I_I Z_I V_I A_A_I N_E
+رضوی R_B I_I Z_I V_I I_I1_E
+رعائتیں R_B I_I A_A_I A_Y_I T_D_I A_Y_N_E
+رعایت R_B I_I A_A_I J_I A_I T_D_E
+رعشہ R_B A_I A_I S_H_I A_A_E
+رعیت R_B A_I Y_I I_I J_I A_I T_D_E
+رغبت R_B A_I G_G_I B_I A_I T_D_E
+رفتار R_B A_I F_I T_D_I A_A_I R_E
+رفعت R_B I_I F_I A_I T_D_E
+رفو R_B A_I F_I U_U_E
+رفیعہ R_B A_I F_I I_I1_I A_A_E
+رفیق R_B A_I F_I I_I1_I Q_E
+رفیوجی R_B I_I F_I I_I J_I U_U_I D_Z_I I_I1_E
+رقاصاؤں R_B A_I Q_I Q_I A_A_I S_I A_A_I O_O_N_E
+رقص R_B A_I Q_I S_E
+رقصاں R_B A_I Q_I S_I A_A_N_E
+رقم R_B A_I Q_I A_I M_E
+رقوم R_B U_I Q_I U_U_I M_E
+رقیب R_B A_I Q_I I_I1_I B_E
+رقیہ R_B U_I Q_I J_I A_A_E
+رم R_B A_I M_E
+رمزی R_B A_I M_I Z_I I_I1_E
+رنجش R_B A_I N_I D_Z_I I_I S_H_E
+رنجیدہ R_B A_I N_I D_Z_I I_I1_I D_D_I A_A_E
+رندھاوا R_B A_I N_I D_D_H_I A_A_I V_I A_A_E
+رنز R_B A_I N_I Z_E
+رنگ R_B A_I N_G_E
+رنگوں R_B A_I N_G_I G_I O_O_N_E
+رنگیلا R_B A_I N_G_I G_I I_I1_I L_I A_A_E
+رنگین R_B A_I N_G_I G_I I_I1_I N_E
+رو R_B O_O_E
+روؤں R_B U_U_I O_O_N_E
+روئی R_B O_O_I I_I1_E
+روئیداد R_B U_U_I I_I1_I D_D_I A_A_I D_D_E
+روئیں R_B O_O_I A_Y_N_E
+روات R_B U_I V_I A_A_I T_D_E
+رواں R_B A_I V_I A_A_N_E
+روایت R_B I_I V_I A_A_I J_I A_I T_D_E
+روحانی R_B U_U_I H_I A_A_I N_I I_I1_E
+روحیں R_B U_U_I H_I A_Y_N_E
+رود R_B O_O_I D_D_E
+روز R_B O_O_I Z_E
+روزافزوں R_B O_O_I Z_I A_I F_I Z_I U_U_N_E
+روزانہ R_B O_O_I Z_I A_A_I N_I A_A_E
+روزبروز R_B O_O_I Z_I B_I A_I R_I O_O_I Z_E
+روزمرہ R_B O_O_I Z_I M_I A_I R_I R_I A_A_E
+روزنامہ R_B O_O_I Z_I N_I A_A_I M_I A_A_E
+روزوں R_B O_O_I Z_I O_O_N_E
+روزگار R_B O_O_I Z_I G_I A_A_I R_E
+روزہ R_B O_O_I Z_I A_A_E
+روزے R_B O_O_I Z_I A_Y_E
+روسی R_B U_U_I S_I I_I1_E
+روش R_B A_I V_I I_I S_H_E
+روشن R_B O_I S_H_I A_I N_E
+روشناس R_B U_U_I S_H_I A_I N_I A_A_I S_E
+روشنی R_B O_O_I S_H_I N_I I_I1_E
+روشنیوں R_B O_O_I S_H_I N_I I_I1_I O_O_N_E
+روضہ R_B U_U_I Z_I A_A_E
+روضے R_B U_U_I Z_I A_Y_E
+روغن R_B O_O_I G_G_I A_I N_E
+روغنیات R_B O_I G_G_I A_I N_I J_I A_A_I T_D_E
+رول R_B O_O_I L_E
+رولز R_B O_O_I L_I Z_E
+رونق R_B O_I N_I A_I Q_E
+رونگٹے R_B U_U_I N_G_I T_I A_Y_E
+رونے R_B O_O_I N_I A_Y_E
+روور R_B U_U_I V_I A_I R_E
+روٹھ R_B U_U_I T_H_E
+روٹھیں R_B U_U_I T_H_I A_Y_N_E
+روپے R_B U_U_I P_I A_Y_E
+روڈ R_B O_O_I D_E
+روگردانی R_B U_U_I G_I A_I R_I D_D_I A_A_I N_I I_I1_E
+روہی R_B O_O_I H_I I_I1_E
+رویا R_B U_U_I J_I A_A_E
+رویت R_B U_U_I J_I A_I T_D_E
+رویوں R_B A_I V_I A_I J_I J_I O_O_N_E
+رویہ R_B A_I V_I A_I I_I1_I J_I A_A_E
+رویے R_B A_I V_I A_I J_I J_I A_Y_E
+روے R_B U_U_I A_Y_E
+رپورتاژ R_B A_I P_I O_O_I R_I T_D_I A_A_I Z_Z_E
+رپورٹ R_B I_I P_I O_O_I R_I T_E
+رچاؤ R_B A_I T_S1_I A_A_I O_O_E
+رکن R_B U_I K_I A_I N_E
+رکھ R_B A_I K_H_E
+رکھا R_B A_I K_I K_H_I A_A_E
+رکھاؤ R_B A_I K_H_I A_A_I O_O_E
+رکھتا R_B A_I K_H_I T_D_I A_A_E
+رکھتے R_B A_I K_H_I T_D_I A_Y_E
+رکھنے R_B A_I K_H_I N_I A_Y_E
+رکھو R_B A_I K_H_I O_O_E
+رکھوا R_B A_I K_H_I V_I A_A_E
+رکھوں R_B A_I K_H_I U_U_N_E
+رکھی R_B A_I K_I K_H_I I_I1_E
+رکھیو R_B A_I K_I K_H_I I_I J_I O_E
+رکھیں R_B A_I K_I K_H_I A_Y_N_E
+رکھیے R_B A_I K_H_I J_I A_Y_E
+رکھے R_B A_I K_I K_H_I A_Y_E
+رگ R_B A_I G_E
+رگڑیں R_B A_I G_I R_R_I A_Y_N_E
+رہ R_B A_I H_E
+رہا R_B A_I H_I A_A_E
+رہائش R_B A_I H_I A_A_I I_I S_H_E
+رہائشی R_B A_I H_I A_A_I I_I S_H_I I_I1_E
+رہتے R_B A_I H_I T_D_I A_Y_E
+رہزنی R_B A_I H_I Z_I A_I N_I I_I1_E
+رہنما R_B A_I H_I N_I U_I M_I A_A_E
+رہنماؤں R_B A_I H_I N_I U_I M_I A_A_I O_O_N_E
+رہو R_B A_I H_I U_U_E
+رہی R_B A_I H_I I_I1_E
+رہیں R_B A_I H_I A_Y_N_E
+رہے R_B A_I H_I A_Y_E
+ریاست R_B I_I1_I A_A_I S_I A_I T_D_E
+ریاض R_B I_I J_I A_A_I Z_E
+ریان R_B A_E1_I J_I A_A_I N_E
+ریجنل R_B I_I1_I D_Z_I N_I A_I L_E
+ریحانہ R_B A_E1_I H_I A_A_I N_I A_A_E
+ریزرو R_B I_I1_I Z_I A_I R_I V_E
+ریزروز R_B I_I1_I Z_I A_I R_I V_I Z_E
+ریزولوشن R_B A_E1_I Z_I O_O_I L_I U_U_I S_H_I A_I N_E
+ریسرچ R_B I_I1_I S_I A_I R_I T_S1_E
+ریسلینگ R_B A_E1_I S_I L_I I_I N_G_E
+ریسورس R_B I_I1_I S_I O_O_I R_I S_E
+ریسٹورنٹ R_B A_E1_I S_I T_I U_U_I R_I A_I N_I T_E
+ریسپشنسٹ R_B I_I1_I S_I P_I A_I S_H_I N_I I_I S_I T_E
+ریسکیو R_B A_E1_I S_I K_I I_I J_I U_U_E
+ریسیور R_B I_I1_I S_I I_I1_I V_I A_I R_E
+ریشمی R_B A_Y_I S_H_I M_I I_I1_E
+ریشوں R_B A_Y_I S_H_I O_O_N_E
+ریفرنڈم R_B A_E1_I F_I R_I A_I N_I D_I A_I M_E
+ریلی R_B A_E1_I L_I I_I1_E
+ریلیز R_B I_I1_I L_I I_I1_I Z_E
+ریلیف R_B I_I1_I L_I I_I1_I F_E
+ریلیکس R_B I_I1_I L_I A_E1_I K_I S_E
+ریمبو R_B A_E1_I M_I B_I O_O_E
+رینجرز R_B A_Y_I N_I D_Z_I A_I R_I Z_E
+رینگتی R_B I_I1_I N_G_I T_D_I I_I1_E
+رینگتے R_B I_I1_I N_G_I T_D_I A_Y_E
+ریورس R_B I_I1_I V_I A_I R_I S_E
+ریونیو R_B A_E1_I V_I I_I N_I I_I J_I U_U_E
+ریوڑ R_B A_Y_I V_I A_I R_R_E
+ریٹائرمنٹ R_B I_I1_I T_I A_A_I A_Y_I R_I M_I A_Y_I N_I T_E
+ریٹائرڈ R_B I_I1_I T_I A_A_I A_Y_I R_I D_E
+ریچھ R_B I_I1_I T_S_H_E
+ریچھوں R_B I_I1_I T_S_H_I O_O_N_E
+ریڈ R_B A_Y_I D_E
+ریڈیو R_B A_Y_I D_I J_I O_O_E
+ریڑھ R_B I_I1_I R_R_H_E
+ریڑھی R_B A_Y_I R_R_H_I I_I1_E
+ریڑھیاں R_B A_Y_I R_R_H_I I_I J_I A_A_N_E
+ریکارڈ R_B A_Y_I K_I A_A_I R_I D_E
+ریگن R_B A_Y_I G_I A_I N_E
+ریگولر R_B A_E1_I G_I U_U_I L_I A_I R_E
+زائد Z_B A_A_I I_I D_D_E
+زاویوں Z_B A_A_I V_I I_I1_I O_O_N_E
+زاید Z_B A_A_I J_I I_I D_D_E
+زباں Z_B U_I B_I A_A_N_E
+زبردست Z_B A_I B_I A_I R_I D_D_I A_I S_I T_D_E
+زبوں Z_B A_I B_I U_U_N_E
+زخمی Z_B A_I X_I M_I I_I1_E
+زدہ Z_B A_I D_D_I A_A_E
+زراعت Z_B I_I R_I A_A_I A_I T_D_E
+زرخیز Z_B A_I R_I X_I A_Y_I Z_E
+زرقاوی Z_B A_I R_I Q_I A_A_I V_I I_I1_E
+زرمبادلہ Z_B A_I R_I A_Y_I M_I U_I B_I A_A_I D_D_I A_I L_I A_A_E
+زعما Z_B U_I A_I M_I A_A_E
+زلزلے Z_B A_I L_I Z_I A_I L_I A_Y_E
+زلفوں Z_B U_I L_I F_I O_O_N_E
+زلفی Z_B U_I L_I F_I I_I1_E
+زلفیں Z_B U_I L_I F_I A_Y_N_E
+زلیخا Z_B U_I L_I A_E1_I X_I A_A_E
+زمرے Z_B U_I M_I R_I A_Y_E
+زمین Z_B A_I M_I I_I1_I N_E
+زمینداروں Z_B A_I M_I I_I_N_I D_D_I A_A_I R_I O_O_N_E
+زنجیر Z_B A_I N_I D_Z_I I_I1_I R_E
+زنخوں Z_B A_I N_I X_I O_O_N_E
+زندگی Z_B I_I N_I D_D_I A_I G_I I_I1_E
+زنگ Z_B A_I N_G_E
+زوار Z_B A_I V_I A_A_I R_E
+زوال Z_B A_I V_I A_A_I L_E
+زوجہ Z_B O_I D_Z_I A_A_E
+زوجیت Z_B O_I D_Z_I I_I1_I J_I A_I T_D_E
+زوجین Z_B O_I D_Z_I A_E1_I N_E
+زود Z_B U_U_I D_D_E
+زودحس Z_B U_U_I D_D_I H_I I_I S_E
+زور Z_B O_O_I R_E
+زوردار Z_B O_O_I R_I D_D_I A_A_I R_E
+زون Z_B O_O_I N_E
+زچ Z_B I_I T_S1_E
+زچگی Z_B A_I T_S1_I G_I I_I1_E
+زہریلی Z_B A_E_H_I H_I R_I I_I1_I L_I I_I1_E
+زیادہ Z_B I_I J_I A_A_I D_D_I A_A_E
+زیب Z_B A_Y_I B_E
+زیبرا Z_B A_E1_I B_I R_I A_A_E
+زیدی Z_B A_E1_I D_D_I I_I1_E
+زیر Z_B A_Y_I R_E
+زیرآب Z_B A_Y_I R_I A_Y_I A_A_I B_E
+زیراستعمال Z_B A_Y_I R_I A_Y_I I_I S_I T_D_I I_I M_I A_A_I L_E
+زیرانتظام Z_B A_Y_I R_I A_Y_I I_I N_I T_D_I I_I Z_I A_A_I M_E
+زیراہتمام Z_B A_Y_I R_I A_Y_I I_I H_I T_D_I I_I M_I A_A_I M_E
+زیردست Z_B A_Y_I R_I D_D_I A_I S_I T_D_E
+زیرعنوان Z_B A_Y_I R_I A_Y_I U_I N_I V_I A_A_I N_E
+زیرغور Z_B A_Y_I R_I A_Y_I G_G_I O_I R_E
+زیرقیادت Z_B A_Y_I R_I A_Y_I Q_I I_I J_I A_A_I D_D_I A_I T_D_E
+زیریں Z_B A_Y_I R_I I_I_N_E
+زیست Z_B I_I1_I S_I T_D_E
+زین Z_B I_I1_I N_E
+زیور Z_B A_Y_I V_I A_I R_E
+زیورات Z_B A_Y_I V_I R_I A_A_I T_D_E
+زیڈ Z_B A_E1_I D_E
+ساؤتھ S_B A_A_I U_U_I T_D_H_E
+ساؤڑی S_B A_A_I U_U_I R_R_I I_I1_E
+سائبان S_B A_A_I A_Y_I B_I A_A_I N_E
+سائبرپیڈیا S_B A_A_I I_I B_I A_I R_I P_I A_Y_I D_I I_I J_I A_A_E
+سائنسدانوں S_B A_A_I I_I N_I S_I D_D_I A_A_I N_I O_O_N_E
+سائیڈ S_B A_A_I I_I1_I D_E
+سائیکل S_B A_A_I I_I1_I K_I A_I L_E
+سائیں S_B A_A_I I_I_N_E
+سائے S_B A_A_I A_Y_E
+سابق S_B A_A_I B_I I_I Q_E
+ساتویں S_B A_A_I T_D_I V_I A_Y_N_E
+ساتھ S_B A_A_I T_D_H_E
+ساتھی S_B A_A_I T_D_H_I I_I1_E
+ساتھیو S_B A_A_I T_D_H_I I_I1_I O_O_E
+ساتھیوں S_B A_A_I T_D_H_I I_I1_I O_O_N_E
+ساجد S_B A_A_I D_Z_I I_I D_D_E
+ساحل S_B A_A_I H_I I_I L_E
+ساخت S_B A_A_I X_I T_D_E
+ساختہ S_B A_A_I X_I T_D_I A_A_E
+سادھو S_B A_A_I D_D_H_I U_U_E
+سارز S_B A_A_I R_I Z_E
+ساری S_B A_A_I R_I I_I1_E
+ساریو S_B A_A_I R_I J_I O_O_E
+ساز S_B A_A_I Z_E
+سازباز S_B A_A_I Z_I B_I A_A_I Z_E
+سازوسامان S_B A_A_I Z_I O_O_I S_I A_A_I M_I A_A_I N_E
+سازگار S_B A_A_I Z_I G_I A_A_I R_E
+ساعت S_B A_A_I A_I T_D_E
+ساغر S_B A_A_I G_G_I A_I R_E
+سال S_B A_A_I L_E
+سالمیت S_B A_A_I L_I I_I M_I I_I1_I J_I A_I T_D_E
+سالگرہ S_B A_A_I L_I G_I I_I R_I A_A_E
+سالہ S_B A_A_I L_I A_A_E
+سالہاسال S_B A_A_I L_I H_I A_A_I S_I A_A_I L_E
+سامان S_B A_A_I M_I A_A_I N_E
+سامعین S_B A_A_I M_I A_Y_I I_I1_I N_E
+سامنے S_B A_A_I M_I N_I A_Y_E
+سانحوں S_B A_A_I N_I I_I H_I O_O_N_E
+سانحے S_B A_A_I N_I I_I H_I A_Y_E
+سانسوں S_B A_A_N_I S_I O_O_N_E
+سانسیں S_B A_A_N_I S_I A_Y_N_E
+سانولے S_B A_A_I N_I V_I L_I A_Y_E
+سانگی S_B A_A_I N_G_I G_I I_I1_E
+ساٹھویں S_B A_A_I T_H_I V_I A_Y_N_E
+ساڑھے S_B A_A_I R_R_H_I A_Y_E
+ساگر S_B A_A_I G_I A_I R_E
+سایہ S_B A_A_I J_I A_A_E
+سب S_B A_I B_E
+سبب S_B A_I B_I A_I B_E
+سبجیکٹ S_B A_I B_I D_Z_I A_E1_I K_I T_E
+سبز S_B A_I B_I Z_E
+سبزواری S_B A_I B_I Z_I V_I A_A_I R_I I_I1_E
+سبزی S_B A_I B_I Z_I I_I1_E
+سبزیوں S_B A_I B_I Z_I I_I1_I J_I O_O_N_E
+سبسڈی S_B A_I B_I S_I A_I D_I I_I1_E
+سبھا S_B A_I B_H_I A_A_E
+ستانویں S_B A_I T_D_I T_D_I A_A_I N_I V_I A_Y_N_E
+سترھویں S_B U_I T_D_H_I A_I R_I V_I A_Y_N_E
+ستھرا S_B U_I T_D_H_I R_I A_A_E
+ستھرے S_B U_I T_D_H_I R_I A_Y_E
+سجاتے S_B A_I D_Z_I A_A_I T_D_I A_Y_E
+سجاد S_B A_I D_Z_I D_Z_I A_A_I D_D_E
+سجدہ S_B A_I D_Z_I D_D_I A_A_E
+سجھائی S_B U_I D_Z_H_I A_A_I I_I1_E
+سجی S_B A_I D_Z_I I_I1_E
+سحر S_B A_I H_I R_E
+سخت S_B A_I X_I T_D_E
+سخن S_B U_I X_I A_I N_E
+سدباب S_B A_I D_D_I D_D_I A_Y_I B_I A_A_I B_E
+سدھ S_B U_I D_D_H_E
+سدھریں S_B U_I D_D_H_I R_I A_Y_N_E
+سدھو S_B U_I D_D_H_I D_D_H_I U_U_E
+سدھیر S_B U_I D_D_H_I A_Y_I R_E
+سربراہ S_B A_I R_I B_I A_I R_I A_A_E
+سرحد S_B A_I R_I H_I A_I D_D_E
+سرخ S_B U_I R_I X_E
+سرخرو S_B U_I R_I X_I R_I U_U_E
+سرخی S_B U_I R_I X_I I_I1_E
+سرخیل S_B A_I R_I X_I I_I1_I L_E
+سردخانے S_B A_I R_I D_D_I X_I A_A_I N_I A_Y_E
+سرزمین S_B A_I R_I Z_I A_I M_I I_I1_I N_E
+سرعام S_B A_I R_I A_Y_I A_A_I M_E
+سرفراز S_B A_I R_I F_I A_I R_I A_A_I Z_E
+سرفہرست S_B A_I R_I A_Y_I F_I A_I H_I R_I I_I S_I T_D_E
+سرمایے S_B A_I R_I M_I A_A_I J_I A_Y_E
+سرنجیں S_B A_I R_I I_I N_I D_Z_I A_Y_N_E
+سرور S_B A_I R_I U_U_I R_E
+سروس S_B A_I R_I V_I I_I S_E
+سرونٹ S_B A_I R_I V_I A_I N_I T_E
+سروں S_B A_I R_I O_O_N_E
+سرویئر S_B A_I R_I V_I I_I1_I A_I R_E
+سروے S_B A_I R_I V_I A_Y_E
+سرکا S_B A_I R_I K_I A_A_E
+سرکاری S_B A_I R_I K_I A_A_I R_I I_I1_E
+سرگرمیوں S_B A_I R_I G_I A_I R_I M_I I_I1_I O_O_N_E
+سرہندی S_B A_I R_I H_I I_I N_I D_D_I I_I1_E
+سزا S_B A_I Z_I A_A_E
+سزائیں S_B A_I Z_I A_A_I A_Y_N_E
+سست S_B U_I S_I T_D_E
+سسرال S_B U_I S_I R_I A_A_I L_E
+سسٹم S_B I_I S_I T_I A_I M_E
+سعادت S_B A_I A_A_I D_D_I A_I T_D_E
+سعودی S_B A_I U_U_I D_D_I I_I1_E
+سعید S_B A_I I_I1_I D_D_E
+سفر S_B A_I F_I A_I R_E
+سفوف S_B U_I F_I U_U_I F_E
+سفید S_B A_I F_I I_I1_I D_D_E
+سفیدی S_B U_I F_I A_E1_I D_D_I I_I1_E
+سفیدے S_B A_I F_I A_E1_I D_D_I A_Y_E
+سفیر S_B A_I F_I I_I1_I R_E
+سقوط S_B U_I Q_I U_U_I T_D_E
+سلائیڈنگ S_B A_I L_I A_A_I I_I1_I D_I I_I N_G_E
+سلجھائیں S_B U_I L_I D_Z_H_I A_A_I A_Y_N_E
+سلسلے S_B I_I L_I S_I I_I L_I A_Y_E
+سلطان S_B U_I L_I T_D_I A_A_I N_E
+سلفیٹ S_B A_I L_I F_I A_E1_I T_E
+سلور S_B A_I L_I U_U_I R_E
+سلوک S_B U_I L_I U_U_I K_E
+سلیولائیٹ S_B I_I L_I J_I O_O_I L_I A_A_I I_I1_I T_E
+سماجی S_B A_I M_I A_A_I D_Z_I I_I1_E
+سماوی S_B A_I M_I A_A_I V_I I_I1_E
+سمتھ S_B A_I M_I I_I T_D_H_E
+سمجھ S_B A_I M_I A_I D_Z_H_E
+سمجھا S_B A_I M_I D_Z_H_I A_A_E
+سمجھائیں S_B A_I M_I D_Z_H_I A_A_I A_Y_N_E
+سمجھائے S_B A_I M_I D_Z_H_I A_A_I A_Y_E
+سمجھانے S_B A_I M_I D_Z_H_I A_A_I N_I A_Y_E
+سمجھایا S_B A_I M_I D_Z_H_I A_A_I J_I A_A_E
+سمجھتے S_B A_I M_I A_I D_Z_H_I T_D_I A_Y_E
+سمجھدار S_B A_I M_I A_I D_Z_H_I D_D_I A_A_I R_E
+سمجھنے S_B A_I M_I A_I D_Z_H_I N_I A_Y_E
+سمجھو S_B A_I M_I D_Z_H_I O_O_E
+سمجھوتہ S_B A_I M_I D_Z_H_I O_O_I T_D_I A_A_E
+سمجھی S_B A_I M_I D_Z_H_I I_I1_E
+سمجھیں S_B A_I M_I D_Z_H_I A_Y_N_E
+سمجھے S_B A_I M_I D_Z_H_I A_Y_E
+سمفنی S_B I_I M_I F_I A_I N_I I_I1_E
+سموئے S_B A_I M_I O_O_I A_Y_E
+سموسے S_B A_I M_I O_O_I S_I A_Y_E
+سمویا S_B A_I M_I O_O_I J_I A_A_E
+سمگلروں S_B A_I M_I A_I G_I L_I A_I R_I O_O_N_E
+سمگلنگ S_B I_I M_I A_I G_I L_I I_I N_G_E
+سمیت S_B A_I M_I I_I1_I T_D_E
+سن S_B A_I N_E
+سنئے S_B U_I N_I J_I A_Y_E
+سنائی S_B U_I N_I A_A_I I_I1_E
+سنایا S_B U_I N_I A_A_I J_I A_A_E
+سنبھال S_B A_I M_I B_H_I A_A_I L_E
+سنبھل S_B A_I M_I B_H_I A_I L_E
+سنبھلی S_B A_I M_I B_H_I L_I I_I1_E
+سنتا S_B U_I N_I T_D_I A_A_E
+سندھو S_B A_I N_I D_D_H_I U_U_E
+سندھی S_B I_I N_I D_D_H_I I_I1_E
+سندھیوں S_B I_I N_I D_D_H_I I_I1_I O_O_N_E
+سنو S_B U_I N_I O_O_E
+سنوارا S_B A_A_N_I V_I A_A_I R_I A_A_E
+سنور S_B A_A_N_I V_I A_I R_E
+سنٹر S_B I_I N_I T_I A_I R_E
+سنچری S_B A_I N_I T_S1_I R_I I_I1_E
+سنچریاں S_B A_Y_I N_I T_S1_I A_I R_I J_I A_A_N_E
+سنگباری S_B A_I N_G_I B_I A_A_I R_I I_I1_E
+سنگسار S_B A_I N_G_I S_I A_A_I R_E
+سنگل S_B A_I N_G_I G_I A_I L_E
+سنگھ S_B I_I N_G_I G_H_E
+سنگھار S_B I_I N_G_I G_H_I A_A_I R_E
+سنگھاسن S_B I_I N_G_I G_H_I A_A_I S_I A_I N_E
+سنگھاڑے S_B I_I N_G_I G_H_I A_A_I R_R_I A_Y_E
+سنگین S_B A_I N_G_I I_I1_I N_E
+سنیں S_B U_I N_I A_Y_N_E
+سنے S_B U_I N_I A_Y_E
+سو S_B O_O_E
+سوئس S_B O_O_I I_I S_E
+سوئفٹ S_B U_U_I I_I F_I T_E
+سوئم S_B O_O_I I_I M_E
+سوئمنگ S_B U_U_I I_I M_I I_I N_G_E
+سوئنگ S_B U_U_I I_I N_G_E
+سوئٹرز S_B U_U_I A_Y_I T_I A_I R_I Z_E
+سوئچ S_B U_U_I I_I T_S1_E
+سوئی S_B O_O_I I_I1_E
+سوئیوں S_B U_U_I I_I1_I O_O_N_E
+سوئیں S_B O_O_I A_Y_N_E
+سوئے S_B O_O_I A_Y_E
+سوا S_B A_I V_I A_A_E
+سوال S_B A_I V_I A_A_I L_E
+سوبرز S_B O_O_I B_I A_I R_I Z_E
+سوجن S_B U_U_I D_Z_I A_I N_E
+سوجنے S_B U_U_I D_Z_I N_I A_Y_E
+سوجھ S_B U_U_I D_Z_H_E
+سوجھی S_B U_U_I D_Z_H_I I_I1_E
+سوجی S_B U_U_I D_Z_I I_I1_E
+سوختہ S_B O_O_I X_I T_D_I A_A_E
+سود S_B U_U_I D_D_E
+سودا S_B O_I D_D_I A_A_E
+سوراخ S_B U_U_I R_I A_A_I X_E
+سورج S_B U_U_I R_I A_I D_Z_E
+سورما S_B U_U_I R_I M_I A_A_E
+سوری S_B O_I R_I I_I1_E
+سوزش S_B O_O_I Z_I I_I S_H_E
+سوزوکی S_B U_U_I Z_I U_U_I K_I I_I1_E
+سوسائٹی S_B O_O_I S_I A_A_I I_I T_I I_I1_E
+سوسو S_B O_I S_I O_E
+سوشل S_B O_O_I S_H_I A_I L_E
+سوشلزم S_B O_O_I S_H_I A_I L_I I_I Z_I M_E
+سوغات S_B O_O_I G_G_I A_A_I T_D_E
+سول S_B O_O_I L_E
+سولجر S_B O_O_I L_I D_Z_I A_I R_E
+سولنگ S_B O_I L_I I_I N_G_E
+سوم S_B I_I V_I U_I M_E
+سومرو S_B O_O_I M_I R_I O_O_E
+سونامی S_B U_U_I N_I A_A_I M_I I_I1_E
+سونف S_B O_I N_I F_E
+سونپی S_B O_I M_I P_I I_I1_E
+سونگ S_B O_O_I N_G_E
+سونگھنے S_B U_U_I N_I G_H_I N_I A_Y_E
+سونے S_B O_O_I N_I A_Y_E
+سوواں S_B O_I V_I A_A_N_E
+سوویت S_B U_U_I V_I I_I J_I J_I A_I T_D_E
+سوویں S_B O_O_I V_I A_Y_N_E
+سوچ S_B O_O_I T_S1_E
+سوچا S_B O_O_I T_S1_I A_A_E
+سوچنے S_B O_O_I T_S1_I N_I A_Y_E
+سوچو S_B O_O_I T_S1_I O_O_E
+سوچوں S_B O_O_I T_S1_I O_O_N_E
+سوچیں S_B O_O_I T_S1_I A_Y_N_E
+سوچیے S_B O_O_I T_S1_I I_I1_I A_Y_E
+سوچے S_B O_O_I T_S1_I A_Y_E
+سوڈا S_B O_O_I D_I A_A_E
+سوک S_B O_O_I K_E
+سوکھ S_B U_U_I K_H_E
+سوکھا S_B U_U_I K_H_I A_A_E
+سوکھنے S_B U_U_I K_H_I N_I A_Y_E
+سوکھی S_B U_U_I K_H_I I_I1_E
+سوکھے S_B U_U_I K_H_I A_Y_E
+سوگوار S_B O_O_I G_I V_I A_A_I R_E
+سوں S_B U_U_N_E
+سویا S_B O_O_I J_I A_A_E
+سویاں S_B I_I V_I A_I J_I J_I A_A_N_E
+سویرا S_B O_I A_Y_I R_I A_A_E
+سویرے S_B A_I V_I A_Y_I R_I A_Y_E
+سویلین S_B I_I V_I I_I1_I L_I J_I A_I N_E
+سویٹر S_B U_I V_I A_E1_I T_I A_I R_E
+سویڈش S_B U_I V_I I_I1_I D_I I_I S_H_E
+سَیل S_B A_E1_I L_E
+سِکھوں S_B I_I K_I K_H_I O_O_N_E
+سٹرلنگ S_B A_I T_I A_I R_I L_I I_I N_G_E
+سٹوڈنٹ S_B T_I U_U_I D_I A_I N_I T_E
+سٹوڈنٹس S_B I_I T_I U_U_I D_I A_I N_I T_I S_E
+سٹوڈیوز S_B A_I T_I U_U_I D_I I_I1_I J_I O_O_I Z_E
+سٹیڈیم S_B T_I A_Y_I D_I I_I A_I M_E
+سپاسنامہ S_B I_I P_I A_A_I S_I N_I A_A_I M_I A_A_E
+سپاہیوں S_B I_I P_I A_A_I H_I I_I1_I O_O_N_E
+سپردخاک S_B U_I P_I U_I R_I D_D_I A_Y_I X_I A_A_I K_E
+سپرنٹنڈنٹ S_B U_I P_I R_I I_I N_I T_I I_I N_I D_I I_I N_I T_E
+سپننگ S_B I_I P_I I_I N_I N_G_E
+سپیل S_B I_I1_I P_I A_Y_I L_E
+سچ S_B A_I T_S1_E
+سچائی S_B A_I T_S1_I T_S1_I A_A_I I_I1_E
+سچل S_B A_I T_S1_I T_S1_I A_I L_E
+سڑنے S_B A_I R_R_I N_I A_E1_E
+سڑک S_B A_I R_R_I A_I K_E
+سکتا S_B A_I K_I T_D_I A_A_E
+سکتی S_B A_I K_I T_D_I I_I1_E
+سکتیں S_B A_I K_I T_D_I I_I_N_E
+سکتے S_B A_I K_I T_D_I A_Y_E
+سکنجبین S_B I_I K_I A_I N_I D_Z_I B_I I_I1_I N_E
+سکواڈرن S_B A_I K_I U_U_I A_I D_I R_I A_I N_E
+سکورز S_B A_I K_I O_O_I R_I Z_E
+سکول S_B A_I K_I U_U_I L_E
+سکولز S_B A_I K_I U_U_I L_I Z_E
+سکولوں S_B A_I K_I U_U_I L_I O_O_N_E
+سکھی S_B U_I K_H_I I_I1_E
+سکیپ S_B I_I K_I A_Y_I P_E
+سکیں S_B A_I K_I A_Y_N_E
+سکے S_B A_I K_I A_Y_E
+سگریٹ S_B I_I G_I R_I A_Y_I T_E
+سگھڑ S_B U_I G_H_I A_I R_R_E
+سگے S_B A_I G_I A_Y_E
+سہارے S_B A_I H_I A_A_I R_I A_Y_E
+سہاگہ S_B U_I H_I A_A_I G_I A_A_E
+سہولت S_B U_I H_I U_U_I L_I A_I T_D_E
+سہیلی S_B A_I H_I A_Y_I L_I I_I1_E
+سی S_B I_I1_E
+سیاح S_B A_E1_I J_I A_A_I H_E
+سیاحت S_B I_I J_I A_A_I H_I A_I T_D_E
+سیاروں S_B A_Y_I J_I J_I A_A_I R_I O_O_N_E
+سیارے S_B A_E1_I J_I A_A_I R_I A_Y_E
+سیاست S_B I_I J_I A_A_I S_I A_I T_D_E
+سیاسی S_B I_I J_I A_A_I S_I I_I1_E
+سیب S_B A_Y_I B_E
+سیج S_B A_Y_I D_Z_E
+سید S_B I_I1_I D_D_E
+سیدھا S_B I_I1_I D_D_H_I A_A_E
+سیدھے S_B I_I1_I D_D_H_I A_Y_E
+سیدہ S_B A_I J_I J_I A_I D_D_I A_A_E
+سیر S_B A_Y_I R_E
+سیراب S_B A_E1_I R_I A_A_I B_E
+سیرت S_B I_I1_I R_I A_I T_D_E
+سیروسیاحت S_B A_E1_I R_I O_O_I S_I I_I J_I A_A_I H_I A_I T_D_E
+سیرگاہ S_B A_E1_I R_I G_I A_A_E
+سیریز S_B I_I1_I R_I I_I1_I Z_E
+سیریلز S_B I_I1_I R_I J_I A_I L_I Z_E
+سیزن S_B I_I1_I Z_I A_I N_E
+سیسموگراف S_B A_E1_I S_I M_I O_O_I G_I I_I R_I A_A_I F_E
+سیسمک S_B I_I1_I S_I M_I I_I K_E
+سیسے S_B I_I1_I S_I A_Y_E
+سیشن S_B A_E1_I S_H_I A_I N_E
+سیف S_B A_Y_I F_E
+سیفٹی S_B A_Y_I F_I T_I I_I1_E
+سیل S_B I_I1_I L_E
+سیلرز S_B A_Y_I L_I A_I R_I Z_E
+سیلز S_B A_E1_I L_I Z_E
+سیلزمین S_B A_Y_I L_I Z_I M_I A_E1_I N_E
+سیمی S_B I_I1_I M_I I_I1_E
+سیمینار S_B A_E1_I M_I I_I1_I N_I A_A_I R_E
+سینئر S_B I_I1_I N_I I_I A_I R_E
+سینما S_B A_E1_I N_I M_I A_A_E
+سینٹر S_B A_E1_I N_I T_I A_I R_E
+سینڈوچ S_B A_E1_I N_I D_I V_I I_I T_S1_E
+سینکڑوں S_B A_E_N_I K_I R_R_I O_O_N_E
+سینگ S_B I_I1_I N_G_E
+سینیٹ S_B A_Y_I N_I A_Y_I T_E
+سیو S_B I_I1_I O_O_E
+سیورج S_B I_I1_I V_I R_I A_Y_I D_Z_E
+سیون S_B A_Y_I V_I A_I N_E
+سیونگ S_B A_Y_I V_I I_I N_G_E
+سیٹھ S_B A_Y_I T_H_E
+سیٹھی S_B A_Y_I T_H_I I_I1_E
+سیڈ S_B I_I1_I D_E
+سیڑھیاں S_B I_I1_I R_R_H_I I_I J_I A_A_N_E
+سیڑھیوں S_B I_I1_I R_R_H_I I_I1_I O_O_N_E
+سیکشن S_B A_E1_I K_I S_H_I A_I N_E
+سیکورٹی S_B I_I1_I K_I O_O_I R_I T_I I_I1_E
+سیکھ S_B I_I1_I K_H_E
+سیکھا S_B I_I1_I K_H_I A_A_E
+سیکھنے S_B I_I1_I K_H_I N_I A_Y_E
+سیکھو S_B I_I1_I K_H_I O_O_E
+سیکھی S_B I_I1_I K_H_I I_I1_E
+سیکھیں S_B I_I1_I K_H_I A_Y_N_E
+سیکھے S_B I_I1_I K_H_I A_Y_E
+سے S_B A_Y_E
+شائد S_H_B A_A_I J_I A_I D_D_E
+شائع S_H_B A_A_I A_Y_E
+شائقین S_H_B A_A_I I_I Q_I I_I1_I N_E
+شائیں S_H_B A_A_I A_Y_N_E
+شاخ S_H_B A_A_I X_E
+شاخسانہ S_H_B A_A_I X_I S_I A_A_I N_I A_A_E
+شاخوں S_H_B A_A_I X_I O_O_N_E
+شاخیں S_H_B A_A_I X_I A_Y_N_E
+شادی S_H_B A_A_I D_D_I I_I1_E
+شاذ S_H_B A_A_I Z_E
+شاعر S_H_B A_A_I I_I R_E
+شالا S_H_B A_A_I L_I A_A_E
+شامل S_H_B A_A_I M_I I_I L_E
+شاندار S_H_B A_A_I N_I D_D_I A_A_I R_E
+شاگرد S_H_B A_A_I G_I I_I R_I D_D_E
+شاہ S_H_B A_A_E
+شاہد S_H_B A_A_I H_I I_I D_D_E
+شاہراہ S_H_B A_A_I H_I R_I A_A_E
+شاہنواز S_H_B A_A_I H_I N_I A_I V_I A_A_I Z_E
+شاہین S_H_B A_A_I H_I I_I1_I N_E
+شب S_H_B A_I B_E
+شبلی S_H_B I_I B_I L_I I_I1_E
+شبہ S_H_B U_I B_I A_A_E
+شبہات S_H_B A_I B_I H_I A_A_I T_D_E
+شبہے S_H_B U_I B_I H_I A_Y_E
+شجاعت S_H_B U_I D_Z_I A_A_I A_I T_D_E
+شجر S_H_B A_I D_Z_I A_I R_E
+شخص S_H_B A_I X_I S_E
+شخصیت S_H_B A_I X_I S_I I_I1_I J_I A_I T_D_E
+شخصے S_H_B A_I X_I S_I A_Y_E
+شدت S_H_B I_I D_D_I D_D_I A_I T_D_E
+شدھی S_H_B U_I D_D_H_I D_D_H_I I_I1_E
+شدہ S_H_B U_I D_D_I A_A_E
+شدید S_H_B A_I D_D_I I_I1_I D_D_E
+شرحوں S_H_B A_I R_I H_I O_O_N_E
+شروع S_H_B U_I R_I U_U_E
+شروعات S_H_B U_I R_I U_U_I A_A_I T_D_E
+شرکت S_H_B I_I R_I K_I A_I T_D_E
+شریف S_H_B A_I R_I I_I1_I F_E
+شریفین S_H_B A_I R_I I_I1_I F_I A_Y_I N_E
+شستہ S_H_B U_I S_I T_D_I A_A_E
+شش S_H_B A_I S_H_E
+ششدر S_H_B A_I S_H_I D_D_I A_I R_E
+شعائر S_H_B I_I A_A_I I_I R_E
+شعار S_H_B I_I A_A_I R_E
+شعاع S_H_B O_O_I A_A_E
+شعاعوں S_H_B U_I A_A_I O_O_N_E
+شعبوں S_H_B U_I B_I O_O_N_E
+شعبہ S_H_B O_O_I B_I A_A_E
+شعر S_H_B A_Y_I R_E
+شعرا S_H_B U_I A_I R_I A_A_E
+شعروادب S_H_B A_Y_I R_I O_O_I A_I D_D_I A_I B_E
+شعری S_H_B A_Y_I R_I I_I1_E
+شعلوں S_H_B O_O_I L_I O_O_N_E
+شعلے S_H_B O_O_I L_I A_Y_E
+شعور S_H_B A_I U_U_I R_E
+شعوری S_H_B U_I U_U_I R_I I_I1_E
+شغل S_H_B A_I G_G_I L_E
+شفاعت S_H_B I_I F_I A_A_I A_I T_D_E
+شفاف S_H_B A_I F_I F_I A_A_I F_E
+شفقت S_H_B A_I F_I Q_I A_I T_D_E
+شفیق S_H_B A_I F_I I_I1_I Q_E
+شل S_H_B A_I L_E
+شلجم S_H_B A_I L_I D_Z_I A_I M_E
+شمار S_H_B U_I M_I A_A_I R_E
+شماریات S_H_B U_I M_I A_A_I R_I J_I A_A_I T_D_E
+شمس S_H_B A_I M_I S_E
+شمسی S_H_B A_I M_I S_I I_I1_E
+شمشاد S_H_B A_I M_I S_H_I A_A_I D_D_E
+شمولیت S_H_B A_I M_I U_U_I L_I I_I1_I J_I A_I T_D_E
+شناخت S_H_B A_I N_I A_A_I X_I T_D_E
+شناسی S_H_B I_I N_I A_A_I S_I I_I1_E
+شنید S_H_B A_I N_I I_I1_I D_D_E
+شو S_H_B O_O_E
+شوالا S_H_B A_I V_I A_A_I L_I A_A_E
+شواہد S_H_B A_I V_I A_A_I H_I I_I D_D_E
+شوخ S_H_B O_O_I X_E
+شوخی S_H_B O_O_I X_I I_I1_E
+شور S_H_B O_O_I R_E
+شوربہ S_H_B O_O_I R_I B_I A_A_E
+شوروم S_H_B O_O_I R_I U_U_I M_E
+شوز S_H_B O_O_I Z_E
+شوشہ S_H_B O_O_I S_H_I A_A_E
+شوق S_H_B O_I Q_E
+شون S_H_B U_I V_I A_I N_E
+شوکت S_H_B O_I K_I A_I T_D_E
+شوکیسوں S_H_B O_O_I K_I A_Y_I S_I O_O_N_E
+شوگر S_H_B U_U_I G_I A_I R_E
+شوہر S_H_B O_I H_I A_I R_E
+شکار S_H_B I_I K_I A_A_I R_E
+شگاف S_H_B I_I G_I A_A_I F_E
+شگفتہ S_H_B A_I G_I U_I F_I T_D_I A_A_E
+شگوفوں S_H_B A_I G_I U_U_I F_I O_O_N_E
+شگوفے S_H_B A_I G_I U_U_I F_I A_Y_E
+شگون S_H_B A_I G_I U_U_I N_E
+شہاب S_H_B A_I H_I A_A_I B_E
+شہابیے S_H_B I_I H_I A_A_I B_I I_I1_I J_I A_Y_E
+شہباز S_H_B H_I B_I A_A_I Z_E
+شہر S_H_B A_E_H_I H_I R_E
+شہرت S_H_B U_I H_I R_I A_I T_D_E
+شہروں S_H_B A_E_H_I H_I R_I O_O_N_E
+شہرہ S_H_B O_O_H_I H_I R_I A_A_E
+شہری S_H_B A_E_H_I H_I R_I I_I1_E
+شہریوں S_H_B A_E_H_I H_I R_I I_I1_I O_O_N_E
+شہزاد S_H_B A_I H_I Z_I A_A_I D_D_E
+شہزادی S_H_B A_I H_I Z_I A_A_I D_D_I I_I1_E
+شہید S_H_B A_I H_I I_I1_I D_D_E
+شیئر S_H_B A_Y_I A_I R_E
+شیئرنگ S_H_B A_Y_I I_I R_I I_I N_G_E
+شیخ S_H_B A_Y_I X_E
+شیخی S_H_B A_Y_I X_I I_I1_E
+شیدائی S_H_B A_E1_I D_D_I A_A_I I_I1_E
+شیر S_H_B A_Y_I R_E
+شیرخوار S_H_B I_I1_I R_I X_I A_A_I R_E
+شیروانی S_H_B A_Y_I R_I V_I A_A_I N_I I_I1_E
+شیرٹن S_H_B A_E1_I R_I T_I A_I N_E
+شیریں S_H_B I_I1_I R_I I_I_N_E
+شیرے S_H_B I_I1_I R_I A_Y_E
+شیشوں S_H_B I_I1_I S_H_I O_O_N_E
+شیشے S_H_B I_I1_I S_H_I A_Y_E
+شیعہ S_H_B I_I1_I A_A_E
+شیفرڈ S_H_B A_E1_I F_I A_I R_I D_E
+شیل S_H_B A_E1_I L_E
+شیلٹر S_H_B A_E1_I L_I T_I A_I R_E
+شیلڈ S_H_B I_I1_I L_I D_E
+شیلڈیں S_H_B I_I1_I L_I D_I A_Y_N_E
+شیم S_H_B A_Y_I M_E
+شیمپو S_H_B A_E1_I M_I P_I U_U_E
+شیو S_H_B A_Y_I V_E
+شیوخ S_H_B A_E1_I J_I J_I U_U_I X_E
+شیڈ S_H_B A_Y_I D_E
+شیڈو S_H_B A_E1_I D_I O_O_E
+شیڈول S_H_B A_E1_I D_I U_U_I L_E
+شے S_H_B A_Y_E
+صابر S_B A_A_I B_I I_I R_E
+صاحب S_B A_A_I H_I I_I B_E
+صادق S_B A_A_I D_D_I I_I Q_E
+صارفین S_B A_A_I R_I I_I F_I I_I1_I N_E
+صاف S_B A_A_I F_E
+صبح S_B U_I B_I H_E
+صبحیں S_B U_I B_I H_I A_Y_N_E
+صبر S_B A_I B_I R_E
+صبروتحمل S_B A_I B_I R_I O_O_I T_D_I A_I H_I A_I M_I M_I U_I L_E
+صبغت S_B I_I B_I G_G_I A_I T_D_E
+صبوحی S_B A_I B_I U_U_I H_I I_I1_E
+صحافیوں S_B A_I H_I A_A_I F_I I_I1_I O_O_N_E
+صحبت S_B O_O_H_I H_I B_I A_I T_D_E
+صحبتوں S_B U_I H_I B_I A_I T_D_I O_O_N_E
+صحت S_B A_Y_I H_I H_I A_I T_D_E
+صحتمند S_B I_I H_I H_I A_I T_D_I M_I A_I N_I D_D_E
+صحیح S_B A_I H_I I_I1_I H_E
+صداقت S_B A_I D_D_I A_A_I Q_I A_I T_D_E
+صدر S_B A_I D_D_I R_E
+صدور S_B U_I D_D_I U_U_I R_E
+صدیاں S_B A_I D_D_I J_I A_A_N_E
+صدیقی S_B I_I D_D_I D_D_I I_I1_I Q_I I_I1_E
+صدیقین S_B I_I D_D_I D_D_I I_I1_I Q_I A_Y_I N_E
+صدیوں S_B A_I D_D_I J_I O_O_N_E
+صرف S_B A_I R_I F_E
+صعوبتیں S_B U_I U_U_I B_I A_I T_D_I A_Y_N_E
+صغری S_B U_I G_G_I R_I A_A_E
+صغیر S_B A_I G_G_I I_I1_I R_E
+صفائی S_B A_I F_I A_A_I I_I1_E
+صفحوں S_B A_I F_I H_I O_O_N_E
+صفحہ S_B A_I F_I H_I A_A_E
+صفحے S_B A_I F_I H_I A_Y_E
+صفر S_B I_I F_I R_E
+صفوں S_B A_I F_I O_O_N_E
+صفیں S_B A_I F_I A_Y_N_E
+صلاحیت S_B A_I L_I A_A_I H_I I_I1_I J_I A_I T_D_E
+صلاحیتیں S_B A_I L_I A_A_I H_I I_I J_I A_I T_D_I A_Y_N_E
+صلح S_B A_I L_I H_E
+صنف S_B I_I N_I F_E
+صوبائی S_B U_U_I B_I A_A_I I_I1_E
+صوبوں S_B U_U_I B_I O_O_N_E
+صورت S_B U_U_I R_I A_I T_D_E
+صورتحال S_B U_U_I R_I A_I T_D_I A_Y_I H_I A_A_I L_E
+صوفی S_B O_O_I F_I I_I1_E
+صوفیانہ S_B O_O_I F_I I_I J_I A_A_I N_I A_A_E
+صوفیہ S_B O_O_I F_I I_I J_I A_A_E
+صیاد S_B I_I J_I A_A_I D_D_E
+صیغہ S_B I_I1_I G_G_I A_A_E
+صیہونی S_B A_E1_I H_I U_U_I N_I I_I1_E
+ضائع Z_B A_A_I A_Y_E
+ضخیم Z_B A_I X_I I_I1_I M_E
+ضد Z_B I_I D_D_E
+ضرورت Z_B A_I R_I U_U_I R_I A_I T_D_E
+ضروری Z_B A_I R_I U_U_I R_I I_I1_E
+ضروریات Z_B U_I R_I U_U_I R_I I_I1_I J_I A_A_I T_D_E
+ضعف Z_B O_O_I F_E
+ضعیف Z_B A_I I_I1_I F_E
+ضلع Z_B I_I L_I A_A_E
+ضلعی Z_B I_I L_I A_I I_I1_E
+ضوفشاں Z_B O_I F_I A_I S_H_I A_A_N_E
+ضیغم Z_B A_E1_I G_G_I A_I M_E
+طاغوتی T_D_B A_A_I G_G_I U_U_I T_D_I I_I1_E
+طالب T_D_B A_A_I L_I I_I B_E
+طبعی T_D_B A_I B_I A_I I_I1_E
+طبیعت T_D_B A_I B_I I_I1_I J_I A_I T_D_E
+طرح T_D_B A_I R_I H_E
+طرحی T_D_B A_I R_I H_I I_I1_E
+طرزعمل T_D_B A_I R_I Z_I A_Y_I A_I M_I A_I L_E
+طرزفکر T_D_B A_I R_I Z_I A_Y_I F_I I_I K_I R_E
+طرف T_D_B A_I R_I F_E
+طرفین T_D_B A_I R_I F_I A_E1_I N_E
+طریقہ T_D_B A_I R_I I_I1_I Q_I A_A_E
+طغیانی T_D_B U_I G_G_I J_I A_A_I N_I I_I1_E
+طفیل T_D_B U_I F_I A_E1_I L_E
+طلب T_D_B A_I L_I A_I B_E
+طنزومزاح T_D_B A_I N_I Z_I O_O_I M_I I_I Z_I A_A_E
+طور T_D_B O_I R_E
+طوفان T_D_B U_U_I F_I A_A_I N_E
+طوفاں T_D_B U_U_I F_I A_A_N_E
+طویل T_D_B A_I V_I I_I1_I L_E
+طیب T_D_B I_I1_I B_E
+طیبہ T_D_B A_I J_I J_I I_I B_I A_A_E
+ظاہر Z_B A_A_I H_I I_I R_E
+ظریفی Z_B A_I R_I I_I1_I F_I I_I1_E
+ظلم Z_B U_I L_I M_E
+ظہر Z_B O_O_H_I H_I R_E
+ظہور Z_B U_I H_I U_U_I R_E
+ظہیر Z_B A_I H_I I_I1_I R_E
+عابد A_A_B B_I I_I D_D_E
+عارضی A_A_B R_I Z_I I_I1_E
+عاشق A_A_B S_H_I I_I Q_E
+عاشور A_A_B S_H_I U_U_I R_E
+عالمی A_A_B L_I A_I M_I I_I1_E
+عالیشان A_A_B L_I I_I1_I S_H_I A_A_I N_E
+عام A_A_B M_E
+عبدالحئی A_B B_I D_D_I U_I L_I H_I A_I I_I1_E
+عبرت I_B B_I R_I A_I T_D_E
+عبور A_B B_I U_U_I R_E
+عثمانی U_B S_I M_I A_A_I N_I I_I1_E
+عجز I_B D_Z_I Z_E
+عجلت U_B D_Z_I L_I A_I T_D_E
+عجیب A_B D_Z_I I_I1_I B_E
+عدالت A_B D_D_I A_A_I L_I A_I T_D_E
+عدل A_B D_D_I L_E
+عدلیہ A_B D_D_I L_I I_I J_I A_A_E
+عذاب A_B Z_I A_A_I B_E
+عراقی I_B R_I A_A_I Q_I I_I1_E
+عرب A_B R_I A_I B_E
+عرس A_B U_I R_I S_E
+عرصہ A_B R_I S_I A_A_E
+عرصے A_B R_I S_I A_Y_E
+عرضداشت A_B R_I Z_I D_D_I A_A_I S_H_I T_D_E
+عرف U_B R_I F_E
+عرفان I_B R_I F_I A_A_I N_E
+عروج U_B R_I U_U_I D_Z_E
+عریاں U_B R_I J_I A_A_N_E
+عزت I_B Z_I Z_I A_I T_D_E
+عزیز A_B Z_I I_I1_I Z_E
+عزیزواقارب A_B Z_I I_I1_I Z_I O_O_I A_I Q_I A_A_I R_I I_I B_E
+عشاق U_B S_H_I S_H_I A_A_I Q_E
+عشر U_B S_H_I A_I R_E
+عشرت I_B S_H_I R_I A_I T_D_E
+عشروں A_B S_H_I R_I O_O_N_E
+عشرہ A_B S_H_I R_I A_A_E
+عشرے A_B S_H_I R_I A_Y_E
+عشق I_B S_H_I Q_E
+عصیاں I_B S_I J_I A_A_N_E
+عضلات U_B Z_I L_I A_A_I T_D_E
+عظام U_B Z_I Z_I A_A_I M_E
+عظمی U_B Z_I M_I A_A_E
+عفت I_B F_I F_I A_I T_D_E
+عفو A_B F_I V_E
+عقاب U_B Q_I A_A_I B_E
+عقلمندی A_B Q_I L_I M_I A_I N_I D_D_I I_I1_E
+عقوبت U_B Q_I U_U_I B_I A_I T_D_E
+عقیل A_B Q_I I_I1_I L_E
+علاج I_B L_I A_A_I D_Z_E
+علاقائی I_B L_I A_A_I Q_I A_A_I I_I1_E
+علاقوں I_B L_I A_A_I Q_I O_O_N_E
+علاقے I_B L_I A_A_I Q_I A_Y_E
+علاوہ I_B L_I A_A_I V_I A_A_E
+علم A_B L_I A_I M_E
+علوی U_B L_I V_I I_I1_E
+علی A_B L_I I_I1_E
+علیحدہ A_B L_I A_E1_I H_I I_I D_D_I A_A_E
+عمر U_B M_I A_I R_E
+عمرقید U_B M_I R_I Q_I A_E1_I D_D_E
+عمریں U_B M_I R_I A_Y_N_E
+عمل A_B M_I A_I L_E
+عملا A_B M_I L_I A_I N_E
+عملی A_B M_I A_I L_I I_I1_E
+عموماً A_B M_I U_U_I M_I A_I N_E
+عمیق A_B M_I I_I1_I Q_E
+عندیہ I_B N_I D_D_I I_I1_I J_I A_A_E
+عنوان U_B N_I V_I A_A_I N_E
+عوام A_B V_I A_A_I M_E
+عود U_U_B D_D_E
+عورت O_B R_I A_I T_D_E
+عہدہ O_O_H_B H_I D_D_I A_A_E
+عہدیداروں O_O_H_B H_I D_D_I A_Y_I D_D_I A_A_I R_I O_O_N_E
+عہدے O_O_H_B H_I D_D_I A_Y_E
+عیادت Y_B A_I J_I A_A_I D_D_I A_I T_D_E
+عیاشی A_B J_I J_I A_A_I S_H_I I_I1_E
+عیاں A_B J_I A_A_N_E
+عیب A_E1_B B_E
+عید I_I1_B D_D_E
+غائب G_G_B A_A_I I_I B_E
+غافل G_G_B A_A_I F_I I_I L_E
+غالب G_G_B A_A_I L_I I_I B_E
+غاں G_G_B A_A_N_E
+غایت G_G_B A_A_I J_I A_I T_D_E
+غبار G_G_B U_I B_I A_A_I R_E
+غبن G_G_B A_I B_I A_I N_E
+غدار G_G_B A_I D_D_I D_D_I A_A_I R_E
+غدود G_G_B U_I D_D_I U_U_I D_D_E
+غدودوں G_G_B U_U_I D_D_I U_U_I D_D_I O_O_N_E
+غذا G_G_B I_I Z_I A_A_E
+غذاؤں G_G_B I_I1_I Z_I A_A_I O_O_N_E
+غذائی G_G_B I_I Z_I A_A_I I_I1_E
+غرارے G_G_B A_I R_I A_A_I R_I A_Y_E
+غربت G_G_B U_I R_I B_I A_I T_D_E
+غریب G_G_B A_I R_I I_I1_I B_E
+غزل G_G_B A_I Z_I A_I L_E
+غزلوں G_G_B A_I Z_I L_I O_O_N_E
+غزلیات G_G_B A_I Z_I L_I I_I J_I A_A_I T_D_E
+غزلیں G_G_B A_I Z_I L_I A_Y_N_E
+غزوہ G_G_B A_I Z_I V_I A_A_E
+غشی G_G_B A_I S_H_I I_I1_E
+غصب G_G_B A_I S_I A_I B_E
+غصہ G_G_B U_I S_I S_I A_A_E
+غفلت G_G_B A_I F_I L_I A_I T_D_E
+غفور G_G_B A_I F_I U_U_I R_E
+غلاف G_G_B I_I L_I A_A_I F_E
+غلام G_G_B U_I L_I A_A_I M_E
+غلط G_G_B A_I L_I A_I T_D_E
+غلیل G_G_B U_I L_I A_Y_I L_E
+غم G_G_B A_I M_E
+غنا G_G_B I_I N_I A_A_E
+غنودگی G_G_B U_I N_I U_U_I D_D_I A_I G_I I_I1_E
+غنی G_G_B A_I N_I I_I1_E
+غوث G_G_B O_I S_E
+غور G_G_B O_I R_E
+غوروخوض G_G_B O_I R_I O_O_I X_I O_I Z_E
+غوغا G_G_B O_I G_G_I A_A_E
+غول G_G_B O_I L_E
+غوں G_G_B U_U_N_E
+غیب G_G_B A_E1_I B_E
+غیر G_G_B A_E1_I R_E
+غیرت G_G_B A_E1_I R_I A_I T_D_E
+غیردانشمندانہ G_G_B A_E1_I R_I D_D_I A_A_I N_I I_I S_H_I M_I A_I N_I D_D_I A_A_I N_I A_A_E
+غیررسمی G_G_B A_E1_I R_I R_I A_I S_I M_I I_I1_E
+غیرضروری G_G_B A_E1_I R_I Z_I A_I R_I U_U_I R_I I_I1_E
+غیرفیصلہ G_G_B A_E1_I R_I F_I I_I1_I S_I A_I L_I A_A_E
+غیرقانونی G_G_B A_E1_I R_I Q_I A_A_I N_I U_U_I N_I I_I1_E
+غیرملکی G_G_B A_E1_I R_I M_I U_I L_I K_I I_I1_E
+غیرنمایاں G_G_B A_E1_I R_I N_I U_I M_I A_A_I J_I A_A_N_E
+غیریقینی G_G_B A_E1_I R_I J_I A_I Q_I I_I1_I N_I I_I1_E
+غیظ G_G_B A_E1_I Z_E
+غیور G_G_B A_I J_I J_I U_U_I R_E
+فاؤل F_B A_A_I U_U_I L_E
+فاؤنٹین F_B A_I U_U_I N_I T_I A_Y_I N_E
+فاؤنڈیشن F_B A_A_I U_U_I N_I D_I A_Y_I S_H_I A_I N_E
+فائدہ F_B A_A_I I_I D_D_I A_A_E
+فائر F_B A_A_I I_I R_E
+فائربریگیڈ F_B A_A_I I_I R_I B_I A_I R_I I_I1_I G_I A_Y_I D_E
+فاجر F_B A_A_I D_Z_I I_I R_E
+فاخرہ F_B A_A_I X_I I_I R_I A_A_E
+فارسی F_B A_A_I R_I S_I I_I1_E
+فارغ F_B A_A_I R_I I_I G_G_E
+فارم F_B A_A_I R_I M_E
+فارمولے F_B A_A_I R_I M_I U_U_I L_I A_Y_E
+فارورڈ F_B A_A_I R_I V_I A_I R_I D_E
+فاروق F_B A_A_I R_I U_U_I Q_E
+فاریسٹ F_B A_A_I R_I A_E1_I S_I T_E
+فاسفورس F_B A_A_I S_I F_I O_O_I R_I A_I S_E
+فاسفیٹ F_B A_A_I S_I F_I A_Y_I T_E
+فاسٹ F_B A_A_I S_I T_E
+فاش F_B A_A_I S_H_E
+فالوآن F_B A_A_I L_I O_O_I A_A_I N_E
+فتحیاب F_B A_I T_D_I H_I J_I A_A_I B_E
+فجر F_B A_I D_Z_I R_E
+فجور F_B U_I D_Z_I U_U_I R_E
+فحش F_B U_I H_I S_H_E
+فخر F_B A_I X_I A_I R_E
+فدا F_B U_I D_D_I A_A_E
+فرائض F_B A_I R_I A_A_I I_I Z_E
+فراخدلی F_B A_I R_I A_A_I X_I D_D_I I_I L_I I_I1_E
+فرانسیسی F_B A_I R_I A_A_I N_I S_I I_I1_I S_I I_I1_E
+فراواں F_B A_I R_I A_A_I V_I A_A_N_E
+فراہم F_B A_I R_I A_A_I H_I A_I M_E
+فرخندہ F_B A_I R_I X_I A_I N_I D_D_I A_A_E
+فرخی F_B A_I R_I R_I U_I X_I I_I1_E
+فردوس F_B I_I R_I D_D_I O_I S_E
+فرسودہ F_B A_I R_I S_I U_U_I D_D_I A_A_E
+فرض F_B A_I R_I Z_E
+فرعون F_B I_I R_I O_I N_E
+فرقان F_B U_I R_I Q_I A_A_I N_E
+فرقہ F_B I_I R_I Q_I A_A_E
+فرمائیں F_B A_I R_I M_I A_A_I A_Y_N_E
+فرماں F_B A_I R_I M_I A_A_N_E
+فرمایا F_B A_I R_I M_I A_A_I J_I A_A_E
+فروخت F_B A_I R_I O_O_I X_I T_D_E
+فروزاں F_B A_I R_I O_O_I Z_I A_A_N_E
+فروش F_B A_I R_I O_O_I S_H_E
+فروغ F_B U_I R_I O_O_I G_G_E
+فروگزاشت F_B A_I R_I O_O_I G_I U_I Z_I A_A_I S_H_I T_D_E
+فریب F_B A_I R_I A_Y_I B_E
+فریقین F_B A_I R_I I_I1_I Q_I A_E1_I N_E
+فرینڈ F_B A_I R_I A_E1_I N_I D_E
+فرینڈلی F_B A_I R_I A_E1_I N_I D_I L_I I_I1_E
+فزیوتھراپسٹ F_B I_I Z_I J_I O_O_I T_D_H_I A_I R_I A_A_I P_I I_I S_I T_E
+فشار F_B U_I S_H_I A_A_I R_E
+فشر F_B I_I S_H_I A_I R_E
+فشنگ F_B I_I S_H_I S_H_I I_I N_G_E
+فصل F_B A_I S_I L_E
+فصلیں F_B A_I S_I L_I A_Y_N_E
+فضل F_B A_I Z_I L_E
+فضول F_B U_I Z_I U_U_I L_E
+فضیلت F_B A_I Z_I I_I1_I L_I A_I T_D_E
+فعال F_B A_I A_A_I L_E
+فعل F_B A_Y_I L_E
+فعلن F_B A_Y_I L_I U_I N_E
+فغاں F_B U_I G_G_I A_A_N_E
+ففٹی F_B I_I F_I T_I I_I1_E
+فقدان F_B U_I Q_I D_D_I A_A_I N_E
+فقر F_B A_I Q_I R_E
+فقروں F_B I_I Q_I R_I O_O_N_E
+فقرے F_B I_I Q_I R_I A_Y_E
+فقہی F_B I_I Q_I H_I I_I1_E
+فقیر F_B A_I Q_I I_I1_I R_E
+فلالین F_B A_I L_I A_A_I L_I A_E1_I N_E
+فلاں F_B U_I L_I A_A_N_E
+فلسطینی F_B A_I L_I A_I S_I T_D_I I_I1_I N_I I_I1_E
+فلسفے F_B A_I L_I S_I A_I F_I A_Y_E
+فلم F_B I_I L_I M_E
+فلمساز F_B I_I L_I M_I S_I A_A_I Z_E
+فلموں F_B I_I L_I M_I O_O_N_E
+فلو F_B A_I L_I U_U_E
+فلور F_B A_I L_I O_O_I R_E
+فلڈ F_B A_I L_I U_I D_E
+فلک F_B A_I L_I A_I K_E
+فلیش F_B A_I L_I A_E1_I S_H_E
+فلیچر F_B I_I L_I A_Y_I T_S1_I A_I R_E
+فلیگ F_B A_I L_I A_E1_I G_E
+فن F_B A_I N_E
+فنانس F_B I_I N_I A_A_I N_I S_E
+فنون F_B U_I N_I U_U_I N_E
+فنڈز F_B A_I N_I D_I Z_E
+فنگس F_B A_I N_G_I G_I A_I S_E
+فوائد F_B A_I V_I A_A_I I_I D_D_E
+فوبیا F_B O_O_I B_I I_I J_I A_A_E
+فوج F_B O_I D_Z_E
+فوجداری F_B O_O_I D_Z_I D_D_I A_A_I R_I I_I1_E
+فوجوں F_B O_O_I D_Z_I O_O_N_E
+فوجی F_B O_O_I D_Z_I I_I1_E
+فوجیوں F_B O_O_I D_Z_I I_I1_I O_O_N_E
+فوجیں F_B O_I D_Z_I A_Y_N_E
+فوراً F_B O_I R_I A_I N_E
+فورس F_B O_O_I R_I S_E
+فورسڈ F_B O_O_I R_I S_I D_E
+فورم F_B O_O_I R_I A_I M_E
+فوری F_B O_I R_I I_I1_E
+فوریکس F_B O_O_I R_I A_E1_I K_I S_E
+فوسٹر F_B O_O_I S_I T_I A_I R_E
+فوقیت F_B O_I Q_I I_I J_I J_I A_I T_D_E
+فول F_B U_U_I L_E
+فولاد F_B O_I L_I A_A_I D_D_E
+فولڈر F_B O_O_I L_I D_I A_I R_E
+فوم F_B O_O_I M_E
+فون F_B O_O_I N_E
+فوڈ F_B U_U_I D_E
+فٹ F_B A_I T_E
+فٹنیس F_B I_I T_I N_I A_E1_I S_E
+فکر F_B I_I K_I R_E
+فکروعمل F_B I_I K_I R_I O_O_I A_I M_I A_I L_E
+فگار F_B I_I G_I A_A_I R_E
+فہرست F_B A_I H_I R_I I_I S_I T_D_E
+فہرستیں F_B A_E_H_I H_I R_I I_I S_I T_D_I A_Y_N_E
+فی F_B I_I1_E
+فیاض F_B A_I J_I J_I A_A_I Z_E
+فیاضی F_B A_E1_I J_I A_A_I Z_I I_I1_E
+فیبرکس F_B A_E1_I B_I R_I I_I K_I S_E
+فیتھ F_B A_Y_I T_D_H_E
+فیر F_B A_E1_I R_E
+فیری F_B A_Y_I R_I I_I1_E
+فیز F_B A_Y_I Z_E
+فیس F_B A_Y_I S_E
+فیسوں F_B I_I1_I S_I O_O_N_E
+فیسیں F_B I_I1_I S_I A_Y_N_E
+فیشن F_B A_E1_I S_H_I A_I N_E
+فیصد F_B I_I1_I S_I A_I D_D_E
+فیصلوں F_B A_E1_I S_I L_I O_O_N_E
+فیصلہ F_B A_E1_I S_I L_I A_A_E
+فیصلے F_B A_E1_I S_I L_I A_Y_E
+فیض F_B A_E1_I Z_E
+فیضان F_B A_E1_I Z_I A_A_I N_E
+فیلو F_B A_E1_I L_I O_O_E
+فیلڈ F_B I_I1_I L_I D_E
+فیم F_B A_Y_I M_E
+فیملی F_B A_E1_I M_I L_I I_I1_E
+فین F_B A_E1_I N_E
+فیورٹ F_B A_Y_I V_I A_I R_I I_I T_E
+فیوض F_B U_I J_I U_U_I Z_E
+فیوچر F_B I_I J_I U_U_I T_S1_I A_I R_E
+فیچر F_B I_I1_I T_S1_I A_I R_E
+فیڈر F_B I_I1_I D_I A_I R_E
+فیڈرل F_B A_E1_I D_I R_I A_I L_E
+فیڈریشن F_B A_E1_I D_I R_I A_Y_I S_H_I A_I N_E
+فیڈریشنز F_B A_Y_I D_I R_I A_Y_I S_H_I A_I N_I Z_E
+قائم Q_B A_A_I I_I M_E
+قابل Q_B A_A_I B_I I_I L_E
+قادری Q_B A_A_I D_D_I I_I R_I I_I1_E
+قادیانی Q_B A_A_I D_D_I J_I A_A_I N_I I_I1_E
+قارئین Q_B A_A_I R_I A_I I_I1_I N_E
+قاری Q_B A_A_I R_I I_I1_E
+قاسم Q_B A_A_I S_I I_I M_E
+قاضی Q_B A_A_I Z_I I_I1_E
+قالین Q_B A_A_I L_I I_I1_I N_E
+قانون Q_B A_A_I N_I U_U_I N_E
+قانونگو Q_B A_A_I N_I U_U_I N_G_I G_I O_O_E
+قبرستان Q_B A_I B_I R_I I_I S_I T_D_I A_A_I N_E
+قبضے Q_B A_I B_I Z_I A_Y_E
+قبل Q_B A_I B_I L_E
+قبول Q_B U_I B_I U_U_I L_E
+قبیح Q_B A_I B_I I_I1_I H_E
+قبیلے Q_B A_I B_I I_I1_I L_I A_Y_E
+قحط Q_B A_I H_I T_D_E
+قدآدم Q_B A_I D_D_I A_Y_I A_I D_D_I A_I M_E
+قدر Q_B A_I D_D_I R_E
+قدرتی Q_B U_I D_D_I R_I A_I T_D_I I_I1_E
+قدروقیمت Q_B A_I D_D_I R_I O_O_I Q_I I_I1_I M_I A_I T_D_E
+قدروں Q_B A_I D_D_I R_I O_O_N_E
+قدریں Q_B A_I D_D_I R_I A_Y_N_E
+قدرے Q_B A_I D_D_I R_I A_Y_E
+قدسی Q_B U_I D_D_I S_I I_I1_E
+قدسیہ Q_B U_I D_D_I S_I I_I J_I A_A_E
+قدغن Q_B A_I D_D_I G_G_I A_I N_E
+قدم Q_B A_I D_D_I A_I M_E
+قدوقامت Q_B A_I D_D_I O_O_I Q_I A_A_I M_I A_I T_D_E
+قذف Q_B A_I Z_I F_E
+قرار Q_B I_I R_I A_A_I R_E
+قرارداد Q_B A_I R_I A_A_I R_I D_D_I A_A_I D_D_E
+قرضوں Q_B A_I R_I Z_I O_O_N_E
+قرضے Q_B A_I R_I Z_I A_Y_E
+قریب Q_B A_I R_I I_I1_I B_E
+قریشی Q_B U_I R_I A_E1_I S_H_I I_I1_E
+قزلباش Q_B I_I Z_I I_I L_I B_I A_A_I S_H_E
+قسم Q_B I_I S_I A_I M_E
+قصور Q_B U_I S_I U_U_I R_E
+قصوروار Q_B U_I S_I U_U_I R_I V_I A_A_I R_E
+قضا Q_B A_I Z_I A_A_E
+قضہ Q_B A_I Z_I A_A_E
+قضیے Q_B U_I Z_I J_I A_Y_E
+قفس Q_B A_I F_I A_I S_E
+قل Q_B U_I L_E
+قلزم Q_B U_I L_I Z_I U_I M_E
+قلم Q_B A_I L_I A_I M_E
+قم Q_B U_I M_E
+قناعت Q_B A_I N_I A_A_I A_I T_D_E
+قندیل Q_B I_I N_I D_D_I I_I1_I L_E
+قوام Q_B I_I V_I A_A_I M_E
+قوانین Q_B A_I V_I A_A_I N_I I_I1_I N_E
+قوت Q_B U_U_I V_I A_I T_D_E
+قوتوں Q_B U_I V_I V_I A_I T_D_I O_O_N_E
+قورمہ Q_B O_O_I R_I M_I A_A_E
+قوس Q_B O_I S_E
+قومی Q_B O_O_I M_I I_I1_E
+قومیائے Q_B O_I M_I I_I J_I A_A_I A_Y_E
+قونصل Q_B O_I N_I S_I A_I L_E
+قونصلیٹ Q_B O_O_I N_I S_I A_I L_I A_Y_I T_E
+قوی Q_B A_I V_I V_I I_I1_E
+قہقہے Q_B A_I H_I Q_I A_I H_I A_Y_E
+قہوے Q_B A_I H_I V_I A_Y_E
+قیام Q_B I_I J_I A_A_I M_E
+قیامت Q_B A_I J_I A_A_I M_I A_I T_D_E
+قید Q_B A_E1_I D_D_E
+قیدیوں Q_B A_E1_I D_D_I I_I1_I O_O_N_E
+قیصر Q_B A_E1_I S_I A_I R_E
+قیلولہ Q_B A_E1_I L_I U_U_I L_I A_A_E
+قیم Q_B A_I J_I J_I I_I M_E
+قیمت Q_B I_I1_I M_I A_I T_D_E
+قیود Q_B I_I J_I U_U_I D_D_E
+قیوم Q_B I_I J_I U_U_I M_E
+قے Q_B A_E1_E
+لئیق L_B A_I I_I1_I Q_E
+لا L_B A_A_E
+لاؤ L_B A_A_I O_O_E
+لاؤڈ L_B A_A_I U_U_I D_E
+لاؤں L_B A_A_I U_U_N_E
+لائبریری L_B A_A_I I_I B_I R_I A_Y_I R_I I_I1_E
+لائبریرین L_B A_A_I I_I B_I R_I A_Y_I R_I J_I A_I N_E
+لائحہ L_B A_A_I I_I H_I A_A_E
+لائن L_B A_A_I I_I N_E
+لائی L_B A_A_I I_I1_E
+لائیو L_B A_A_I I_I1_I V_E
+لائیوسٹاک L_B A_A_I I_I1_I V_I S_I A_I T_I A_A_I K_E
+لائیں L_B A_A_I A_Y_N_E
+لائے L_B A_A_I A_Y_E
+لاابالی L_B A_A_I U_I B_I A_A_I L_I I_I1_E
+لابنگ L_B A_A_I B_I I_I N_G_E
+لاحق L_B A_A_I H_I I_I Q_E
+لادینیت L_B A_A_I D_D_I I_I1_I N_I J_I A_I T_D_E
+لارا L_B A_A_I R_I A_A_E
+لاریب L_B A_A_I R_I A_E1_I B_E
+لاشوں L_B A_A_I S_H_I O_O_N_E
+لاشیں L_B A_A_I S_H_I A_Y_N_E
+لال L_B A_A_I L_E
+لالچی L_B A_A_I L_I T_S1_I I_I1_E
+لانچنگ L_B A_A_I N_I T_S1_I I_I N_G_E
+لانگ L_B A_A_I N_G_E
+لاٹھی L_B A_A_I T_H_I I_I1_E
+لاٹھیاں L_B A_A_I T_H_I I_I J_I A_A_N_E
+لاچار L_B A_A_I T_S1_I A_A_I R_E
+لاڈ L_B A_A_I D_E
+لاڈلے L_B A_A_I D_I L_I A_Y_E
+لاکھ L_B A_A_I K_H_E
+لاکھا L_B A_A_I K_H_I A_A_E
+لاکھوں L_B A_A_I K_H_I O_O_N_E
+لاگت L_B A_A_I G_I A_I T_D_E
+لاہوری L_B A_A_I H_I O_I R_I I_I1_E
+لاہوریات L_B A_A_I H_I O_O_I R_I I_I1_I J_I A_A_I T_D_E
+لایا L_B A_A_I J_I A_A_E
+لاینفک L_B A_A_I J_I U_I N_I F_I A_I K_E
+لباس L_B I_I B_I A_A_I S_E
+لبالب L_B A_I B_I A_A_I L_I A_I B_E
+لتھڑے L_B I_I T_D_H_I R_R_I A_Y_E
+لخت L_B A_I X_I T_D_E
+لدھیانوی L_B U_I D_D_H_I J_I A_A_I N_I A_I V_I I_I1_E
+لذت L_B A_I Z_I Z_I A_I T_D_E
+لشکر L_B A_I S_H_I K_I A_I R_E
+لطیفے L_B A_I T_D_I I_I1_I F_I A_Y_E
+لعاب L_B U_I A_A_I B_E
+لغاری L_B A_I G_G_I A_A_I R_I I_I1_E
+لغت L_B U_I G_G_I A_I T_D_E
+لغزش L_B A_I G_G_I Z_I I_I S_H_E
+لغو L_B A_I G_G_I V_E
+لغوی L_B U_I G_G_I A_I V_I I_I1_E
+لفظ L_B A_I F_I Z_E
+لفظوں L_B A_I F_I Z_I O_O_N_E
+لفظی L_B A_I F_I Z_I I_I1_E
+لفظیات L_B A_I F_I Z_I I_I J_I A_A_I T_D_E
+لقب L_B A_I Q_I A_I B_E
+لمحوں L_B A_I M_I H_I O_O_N_E
+لمحے L_B A_I M_I H_I A_Y_E
+لنڈ L_B U_I N_I D_E
+لنگا L_B A_I N_G_I G_I A_A_E
+لنگر L_B A_I N_G_I G_I A_I R_E
+لنگڑی L_B A_I N_G_I R_R_I I_I1_E
+لو L_B O_O_E
+لوئر L_B O_O_I A_I R_E
+لوئی L_B O_O_I I_I1_E
+لوتھڑا L_B O_O_I T_D_H_I R_R_I A_A_E
+لوث L_B O_O_I S_E
+لوحوں L_B O_I H_I O_O_N_E
+لوشن L_B O_O_I S_H_I A_I N_E
+لولی L_B O_O_I L_I I_I1_E
+لومڑ L_B U_U_I M_I A_I R_R_E
+لومڑی L_B U_U_I M_I R_R_I I_I1_E
+لومیرج L_B A_I V_I M_I A_E1_I R_I I_I D_Z_E
+لون L_B O_O_I N_E
+لونگ L_B O_I N_G_E
+لوٹ L_B O_O_I T_E
+لوڈ L_B O_O_I D_E
+لوڈشیڈنگ L_B O_O_I D_I S_H_I A_Y_I D_I I_I N_G_E
+لوک L_B O_O_I K_E
+لوگ L_B O_O_I G_E
+لوگو L_B O_O_I G_I O_O_E
+لوگوں L_B O_O_I G_I O_O_N_E
+لوں L_B U_U_N_E
+لوہا L_B O_O_I H_I A_A_E
+لوہار L_B O_O_I H_I A_A_I R_E
+لوہے L_B O_O_I H_I A_Y_E
+لٹریچر L_B I_I T_I R_I A_Y_I T_S1_I A_I R_E
+لچک L_B A_I T_S1_I A_I K_E
+لڑائی L_B A_I R_R_I A_A_I I_I1_E
+لڑکا L_B A_I R_R_I K_I A_A_E
+لڑکھڑا L_B A_I R_R_I K_H_I A_I R_R_I A_A_E
+لڑھک L_B U_I R_R_H_I A_I K_E
+لڑیں L_B A_I R_R_I A_Y_N_E
+لکڑہارے L_B A_I K_I A_I R_R_I H_I A_A_I R_I A_Y_E
+لکھ L_B I_I K_H_E
+لکھا L_B I_I K_H_I A_A_E
+لکھتے L_B I_I K_H_I T_D_I A_Y_E
+لکھنے L_B I_I K_H_I N_I A_Y_E
+لکھو L_B I_I K_H_I O_O_E
+لکھوا L_B I_I K_H_I V_I A_A_E
+لکھوں L_B I_I K_H_I K_H_I U_U_N_E
+لکھی L_B I_I K_H_I I_I1_E
+لکھیں L_B I_I K_H_I A_Y_N_E
+لکھے L_B I_I K_H_I A_Y_E
+لگا L_B A_I G_I A_A_E
+لگاؤ L_B A_I G_I A_A_I O_O_E
+لگائی L_B A_I G_I A_A_I I_I1_E
+لگائیں L_B A_I G_I A_A_I A_Y_N_E
+لگائے L_B A_I G_I A_A_I A_Y_E
+لگاتا L_B A_I G_I A_A_I T_D_I A_A_E
+لگانا L_B A_I G_I A_A_I N_I A_A_E
+لگانے L_B A_I G_I A_A_I N_I A_Y_E
+لگایئے L_B A_I G_I A_A_I J_I I_I A_Y_E
+لگایا L_B A_I G_I A_A_I J_I A_A_E
+لگژری L_B A_I G_I Z_Z_I A_I R_I I_I1_E
+لگی L_B A_I G_I I_I1_E
+لگیں L_B A_I G_I A_Y_N_E
+لگے L_B A_I G_I A_Y_E
+لہجہ L_B A_E_H_I H_I D_Z_I A_A_E
+لہجے L_B A_E_H_I H_I D_Z_I A_Y_E
+لہذا L_B I_I H_I A_A_I Z_I A_A_E
+لہریں L_B A_E_H_I H_I R_I A_Y_N_E
+لہو L_B A_I H_I V_E
+لہولہان L_B A_I H_I U_U_I L_I U_I H_I A_A_I N_E
+لیا L_B I_I J_I A_A_E
+لیاقت L_B I_I J_I A_A_I Q_I A_I T_D_E
+لیب L_B A_E1_I B_E
+لیبارٹری L_B I_I1_I B_I A_A_I R_I T_I R_I I_I1_E
+لیبر L_B A_Y_I B_I A_I R_E
+لیتا L_B A_Y_I T_D_I A_A_E
+لیتی L_B A_Y_I T_D_I I_I1_E
+لیتے L_B A_Y_I T_D_I A_Y_E
+لیجنڈ L_B A_E1_I D_Z_I A_I N_I D_E
+لیجنڈری L_B A_E1_I D_Z_I I_I N_I D_I R_I I_I1_E
+لیدر L_B A_E1_I D_D_I A_I R_E
+لیزر L_B A_Y_I Z_I A_I R_E
+لیزنگ L_B I_I1_I Z_I I_I N_G_E
+لیس L_B A_Y_I S_E
+لیفٹ L_B A_E1_I F_I T_E
+لیفٹننٹ L_B A_E1_I F_I T_I I_I N_I A_I N_I T_E
+لیفٹیننٹ L_B A_Y_I F_I T_I I_I1_I N_I A_I N_I T_E
+لیلی L_B A_Y_I L_I I_I1_E
+لیموں L_B I_I1_I M_I U_U_N_E
+لیمپ L_B A_E1_I M_I P_E
+لینا L_B A_Y_I N_I A_A_E
+لینتھ L_B A_E1_I N_I T_D_H_E
+لینڈ L_B A_E1_I N_I D_E
+لینگویج L_B A_E1_I N_G_I V_I I_I1_I D_Z_E
+لینے L_B A_Y_I N_I A_Y_E
+لیوا L_B A_Y_I V_I A_A_E
+لیچی L_B I_I1_I T_S1_I I_I1_E
+لیڈر L_B I_I1_I D_I A_I R_E
+لیڈز L_B A_E1_I D_I Z_E
+لیڈی L_B A_Y_I D_I I_I1_E
+لیکن L_B A_Y_I K_I I_I N_E
+لیکوئڈ L_B I_I1_I K_I U_U_I I_I D_E
+لیں L_B A_Y_N_E
+لیے L_B I_I1_I A_Y_E
+لے L_B A_Y_E
+مآب M_B A_I A_A_I B_E
+مؤثر M_B U_U_I A_I S_I S_I I_I R_E
+مؤخر M_B O_O_I A_I X_I X_I A_I R_E
+ماؤتھ M_B A_I U_U_I T_D_H_E
+ماؤزے M_B A_A_I O_O_I Z_I A_Y_E
+ماؤف M_B U_I U_U_I F_E
+ماؤنٹ M_B A_A_I U_U_I N_I T_E
+مائنڈڈ M_B A_A_I I_I N_I D_I A_I D_E
+مائیکروویوز M_B A_A_I I_I1_I K_I R_I O_O_I V_I A_Y_I V_I Z_E
+مابین M_B A_A_I B_I I_I1_I N_E
+ماتھا M_B A_A_I T_D_H_I A_A_E
+ماتھے M_B A_A_I T_D_H_I A_Y_E
+ماحول M_B A_A_I H_I O_O_I L_E
+ماحولیات M_B A_A_I H_I O_I L_I I_I J_I A_A_I T_D_E
+ماخذ M_B A_A_I X_I A_I Z_E
+ماخوذ M_B A_A_I X_I U_U_I Z_E
+مادھو M_B A_A_I D_D_H_I O_E
+مار M_B A_A_I R_E
+مارشل M_B A_A_I R_I S_H_I A_I L_E
+مارچ M_B A_A_I R_I T_S1_E
+مارے M_B A_A_I R_I A_Y_E
+ماشے M_B A_A_I S_H_I A_Y_E
+ماضی M_B A_A_I Z_I I_I1_E
+مافیا M_B A_A_I F_I I_I J_I A_A_E
+مالدار M_B A_A_I L_I D_D_I A_A_I R_E
+مالیخولیا M_B A_A_I L_I I_I1_I X_I O_O_I L_I I_I J_I A_A_E
+مان M_B A_A_I N_E
+مانجھے M_B A_A_N_I D_Z_H_I A_Y_E
+مانوس M_B A_A_I N_I U_U_I S_E
+مانگ M_B A_A_I N_G_E
+مانگنے M_B A_A_I N_G_I N_I A_Y_E
+ماچس M_B A_A_I T_S1_I I_I S_E
+ماچھی M_B A_A_I T_S_H_I I_I1_E
+ماڈل M_B A_A_I D_I A_I L_E
+ماڈلنگ M_B A_A_I D_I L_I I_I N_G_E
+ماڑی M_B A_A_I R_R_I I_I1_E
+ماں M_B A_A_N_E
+ماہ M_B A_A_E
+ماہرین M_B A_A_I H_I I_I R_I I_I1_I N_E
+ماہوار M_B A_A_I H_I V_I A_A_I R_E
+مایوس M_B A_A_I J_I U_U_I S_E
+مبتلا M_B U_I B_I T_D_I A_I L_I A_A_E
+مبذول M_B A_I B_I Z_I U_U_I L_E
+مبشر M_B U_I B_I A_I S_H_I A_I R_E
+مبلغ M_B U_I B_I A_I L_I L_I A_I G_G_E
+مبلغین M_B U_I B_I A_I L_I L_I I_I G_G_I I_I1_I N_E
+مبنی M_B A_I B_I N_I I_I1_E
+مبہم M_B U_I B_I H_I A_I M_E
+مبین M_B U_I B_I I_I1_I N_E
+مت M_B A_I T_D_E
+متاثرہ M_B U_I T_D_I A_A_I S_I I_I R_I A_A_E
+متاثرین M_B U_I T_D_I A_A_I S_I I_I R_I I_I1_I N_E
+متاخرین M_B U_I T_D_I A_I A_I X_I X_I A_Y_I R_I I_I1_I N_E
+متحدہ M_B U_I T_D_I T_D_I A_I H_I I_I D_D_I A_A_E
+متحرک M_B U_I T_D_I A_I H_I A_I R_I R_I I_I K_E
+مترادف M_B U_I T_D_I A_I R_I A_A_I D_D_I I_I F_E
+مترجم M_B U_I T_D_I A_I R_I A_I D_Z_I D_Z_I I_I M_E
+متعارف M_B U_I T_D_I A_I A_A_I R_I A_I F_E
+متعدد M_B U_I T_D_I A_I A_I D_D_I D_D_I I_I D_D_E
+متعلق M_B U_I T_D_I A_I A_I L_I L_I I_I Q_E
+متعینہ M_B U_I T_D_I A_I Y_I A_I J_I J_I A_I N_I A_A_E
+متغیر M_B U_I T_D_I A_I G_G_I A_I J_I J_I A_I R_E
+متفقہ M_B U_I T_D_I T_D_I A_I F_I I_I Q_I A_A_E
+متنازعہ M_B U_I T_D_I A_I N_I A_A_I Z_I A_I A_A_E
+متنفر M_B A_I T_D_I A_I N_I A_I F_I F_I I_I R_E
+متنوع M_B U_I T_D_I A_I N_I O_I V_I A_Y_E
+متوجہ M_B U_I T_D_I A_I V_I A_I D_Z_I D_Z_I A_Y_E
+متوفی M_B U_I T_D_I A_I V_I A_I F_I F_I I_I1_E
+متوفیہ M_B U_I T_D_I A_I V_I A_I F_I J_I I_I J_I A_A_E
+متھرانی M_B I_I T_D_H_I R_I A_A_I N_I I_I1_E
+مثال M_B I_I S_I A_A_I L_E
+مثبت M_B U_I S_I B_I A_I T_D_E
+مثلاً M_B A_I S_I L_I A_I N_E
+مجاہد M_B U_I D_Z_I A_A_I H_I I_I D_D_E
+مجبور M_B A_I D_Z_I B_I U_U_I R_E
+مجذوب M_B A_I D_Z_I Z_I U_U_I B_E
+مجرد M_B U_I D_Z_I A_I R_I R_I I_I D_D_E
+مجرم M_B U_I D_Z_I R_I I_I M_E
+مجروح M_B A_I D_Z_I R_I U_U_E
+مجلس M_B A_I D_Z_I L_I I_I S_E
+مجلے M_B A_I D_Z_I L_I A_Y_E
+مجموعوں M_B A_I D_Z_I M_I U_U_I O_O_N_E
+مجموعہ M_B A_I D_Z_I M_I U_U_I A_A_E
+مجموعی M_B A_I D_Z_I M_I U_U_I Y_I I_I1_E
+مجموعے M_B A_I D_Z_I M_I U_U_I A_Y_E
+مجوزہ M_B U_I D_Z_I A_I V_I V_I A_I Z_I A_A_E
+مجھ M_B U_I D_Z_H_E
+مجھے M_B U_I D_Z_H_I A_Y_E
+مجیب M_B U_I D_Z_I I_I1_I B_E
+مجید M_B A_I D_Z_I I_I1_I D_D_E
+محافظوں M_B U_I H_I A_A_I F_I I_I Z_I O_O_N_E
+محبت M_B A_I H_I A_I B_I B_I A_I T_D_E
+محبوب M_B A_I H_I B_I U_U_I B_E
+محبوبہ M_B A_I H_I B_I U_U_I B_I A_A_E
+محتاجوں M_B U_I H_I T_D_I A_A_I D_Z_I O_O_N_E
+محترمہ M_B O_O_H_I H_I T_D_I A_I R_I M_I A_A_E
+محدود M_B A_I H_I D_D_I U_U_I D_D_E
+محرر M_B U_I H_I A_I R_I R_I I_I R_E
+محروم M_B A_I H_I R_I U_U_I M_E
+محسن M_B O_O_H_I H_I S_I I_I N_E
+محسنہ M_B U_I H_I S_I A_I N_I A_A_E
+محسوس M_B A_I H_I S_I U_U_I S_E
+محض M_B A_I H_I Z_E
+محظوظ M_B A_I H_I Z_I U_U_I Z_E
+محفل M_B A_I H_I F_I I_I L_E
+محفوظ M_B A_I H_I F_I U_U_I Z_E
+محقق M_B U_I H_I A_I Q_I Q_I I_I Q_E
+محققین M_B U_I H_I A_I Q_I Q_I A_I Q_I I_I1_I N_E
+محلول M_B A_I H_I L_I U_U_I L_E
+محلوں M_B U_I H_I A_I L_I L_I O_O_N_E
+محنت M_B A_Y_I H_I N_I A_I T_D_E
+محور M_B A_I H_I V_I A_I R_E
+محویت M_B A_I H_I V_I I_I J_I J_I A_I T_D_E
+محیرالعقول M_B U_I H_I A_I J_I J_I I_I R_I U_I U_I Q_I U_U_I L_E
+مخالفت M_B U_I X_I A_A_I L_I A_I F_I A_I T_D_E
+مخالفوں M_B U_I X_I A_A_I L_I I_I F_I O_O_N_E
+مخبری M_B U_I X_I B_I A_I R_I I_I1_E
+مختلف M_B U_I X_I T_D_I A_I L_I I_I F_E
+مخدوش M_B A_I X_I D_D_I U_U_I S_H_E
+مخدوم M_B A_I X_I D_D_I U_U_I M_E
+مخرج M_B U_I X_I A_I R_I R_I I_I D_Z_E
+مخزن M_B A_I X_I Z_I A_I N_E
+مخصوص M_B A_I X_I S_I U_U_I S_E
+مخفف M_B U_I X_I A_I F_I F_I A_I F_E
+مخفی M_B A_I X_I F_I I_I1_E
+مخل M_B U_I X_I I_I L_E
+مخلوق M_B A_I X_I L_I U_U_I Q_E
+مخیر M_B U_I X_I A_E1_I J_I A_I R_E
+مداحوں M_B A_I D_D_I D_D_I A_A_I H_I O_O_N_E
+مداخلت M_B U_I D_D_I A_A_I X_I L_I A_I T_D_E
+مدافعت M_B U_I D_D_I A_A_I F_I I_I A_I T_D_E
+مدت M_B U_I D_D_I D_D_I A_I T_D_E
+مدح M_B A_I D_D_I H_E
+مدد M_B A_I D_D_I A_I D_D_E
+مدرسوں M_B U_I D_D_I R_I A_I S_I O_O_N_E
+مدرسہ M_B A_I D_D_I R_I I_I S_I A_A_E
+مدعا M_B U_I D_D_I D_D_I A_I A_A_E
+مدعو M_B A_I D_D_I U_U_E
+مدعی M_B U_I D_D_I D_D_I A_I I_I1_E
+مدعیان M_B U_I D_D_I D_D_I A_I I_I J_I A_A_I N_E
+مدغم M_B U_I D_D_I A_I G_G_I G_G_I A_I M_E
+مدفن M_B A_I D_D_I F_I A_I N_E
+مدفون M_B A_I D_D_I F_I U_U_I N_E
+مدمقابل M_B A_I D_D_I D_D_I A_Y_I M_I U_I Q_I A_A_I B_I I_I L_E
+مدون M_B A_I D_D_I U_U_I N_E
+مدھر M_B A_I D_D_H_I U_I R_E
+مدھم M_B A_I D_D_I D_D_H_I A_I M_E
+مدہوش M_B A_I D_D_I H_I O_O_I S_H_E
+مذاق M_B A_I Z_I A_A_I Q_E
+مذاکرات M_B U_I Z_I A_A_I K_I A_I R_I A_A_I T_D_E
+مذہبی M_B A_I Z_I H_I A_I B_I I_I1_E
+مراد M_B U_I R_I A_A_I D_D_E
+مراعات M_B U_I R_I A_A_I A_A_I T_D_E
+مربعے M_B U_I R_I A_I B_I B_I A_I A_Y_E
+مرتب M_B U_I R_I T_D_I A_I B_E
+مرتبہ M_B A_I R_I T_D_I A_I B_I A_A_E
+مرثیے M_B A_I R_I S_I I_I1_I A_Y_E
+مرجھا M_B U_I R_I D_Z_H_I A_A_E
+مرحوم M_B A_I R_I H_I U_U_I M_E
+مردانگی M_B A_I R_I D_D_I A_A_I N_G_I G_I I_I1_E
+مردوں M_B U_I R_I D_D_I O_O_N_E
+مرزا M_B I_I R_I Z_I A_A_E
+مرشد M_B U_I R_I S_H_I I_I D_D_E
+مرض M_B A_I R_I A_I Z_E
+مرضی M_B A_I R_I Z_I I_I1_E
+مرغ M_B U_I R_I G_G_E
+مرغا M_B U_I R_I G_G_I A_A_E
+مرغابیوں M_B U_I R_I G_G_I A_A_I B_I I_I1_I O_O_N_E
+مرغبانی M_B U_I R_I G_G_I B_I A_A_I N_I I_I1_E
+مرغزار M_B A_I R_I G_G_I Z_I A_A_I R_E
+مرغن M_B U_I R_I A_I G_G_I G_G_I A_I N_E
+مرغوب M_B A_I R_I G_G_I U_U_I B_E
+مرغوں M_B U_I R_I G_G_I O_O_N_E
+مرغی M_B U_I R_I G_G_I I_I1_E
+مرغیاں M_B U_I R_I G_G_I I_I J_I A_A_N_E
+مرلہ M_B A_I R_I L_I A_A_E
+مرلی M_B U_I R_I L_I I_I1_E
+مرچ M_B I_I R_I T_S1_E
+مرچنٹ M_B A_I R_I T_S1_I A_I N_I T_E
+مرچوں M_B I_I R_I T_S1_I O_O_N_E
+مرچیں M_B I_I R_I T_S1_I A_Y_N_E
+مرکزی M_B A_I R_I K_I A_I Z_I I_I1_E
+مرہون M_B A_I R_I H_I U_U_I N_E
+مری M_B A_I R_I I_I1_E
+مریضوں M_B A_I R_I I_I1_I Z_I O_O_N_E
+مزاج M_B I_I Z_I A_A_I D_Z_E
+مزارعوں M_B U_I Z_I A_A_I R_I A_Y_I O_O_N_E
+مزارعین M_B U_I Z_I A_A_I R_I I_I I_I1_I N_E
+مزدوروں M_B A_I Z_I D_D_I U_U_I R_I O_O_N_E
+مزید M_B A_I Z_I I_I1_I D_D_E
+مزیدار M_B A_I Z_I A_Y_I D_D_I A_A_I R_E
+مزین M_B U_I Z_I A_E1_I J_I A_I N_E
+مزے M_B A_I Z_I A_Y_E
+مس M_B A_I S_E
+مسئلہ M_B A_I S_I A_I L_I A_A_E
+مسائل M_B A_I S_I A_A_I I_I L_E
+مسترد M_B U_I S_I T_D_I A_I R_I A_I D_D_E
+مستعد M_B U_I S_I T_D_I A_I I_I D_D_E
+مستغرق M_B U_I S_I T_D_I A_I G_G_I R_I A_I Q_E
+مستغنی M_B U_I S_I T_D_I A_I G_G_I N_I I_I1_E
+مسجد M_B A_I S_I D_Z_I I_I D_D_E
+مسحور M_B A_I S_I H_I U_U_I R_E
+مسخ M_B A_I S_I X_E
+مسخر M_B U_I S_I A_I X_I X_I A_I R_E
+مسخرے M_B A_I S_I X_I A_I R_I A_Y_E
+مسز M_B I_I S_I I_I Z_E
+مسلسل M_B U_I S_I L_I I_I S_I A_I L_E
+مسلم M_B U_I S_I L_I A_I M_E
+مسلمان M_B U_I S_I A_I L_I M_I A_A_I N_E
+مسوڑوں M_B A_I S_I U_U_I R_R_I O_O_N_E
+مشائخ M_B A_I S_H_I A_A_I I_I X_E
+مشاعرہ M_B U_I S_H_I A_A_I A_I R_I A_A_E
+مشاغل M_B A_I S_H_I A_A_I G_G_I I_I L_E
+مشاورت M_B U_I S_H_I A_A_I V_I A_I R_I A_I T_D_E
+مشتعل M_B U_I S_H_I T_D_I A_I I_I L_E
+مشتی M_B U_U_I S_H_I T_D_I I_I1_E
+مشرف M_B U_I S_H_I R_I I_I F_E
+مشرق M_B A_I S_H_I R_I I_I Q_E
+مشروبات M_B A_I S_H_I R_I U_U_I B_I A_A_I T_D_E
+مشروط M_B A_I S_H_I R_I U_U_I T_D_E
+مشعر M_B A_I S_H_I A_I R_E
+مشغلہ M_B A_I S_H_I G_G_I A_I L_I A_A_E
+مشفق M_B U_I S_H_I F_I I_I Q_E
+مشق M_B A_I S_H_I Q_E
+مشقت M_B A_I S_H_I A_I Q_I Q_I A_I T_D_E
+مشقیں M_B A_I S_H_I Q_I A_Y_N_E
+مشن M_B I_I S_H_I A_I N_E
+مشورہ M_B A_I S_H_I V_I A_I R_I A_A_E
+مشہور M_B A_I S_H_I H_I U_U_I R_E
+مشیت M_B A_I S_H_I I_I1_I J_I A_I T_D_E
+مشین M_B A_I S_H_I I_I1_I N_E
+مشینری M_B A_I S_H_I I_I1_I N_I R_I I_I1_E
+مصالحہ M_B U_I S_I A_A_I L_I A_I H_I A_A_E
+مصحفی M_B U_I S_I H_I A_I F_I I_I1_E
+مصداق M_B I_I S_I D_D_I A_A_I Q_E
+مصدق M_B U_I S_I D_D_I I_I Q_E
+مصر M_B U_I S_I I_I R_E
+مصروف M_B A_I S_I R_I U_U_I F_E
+مصروفیات M_B A_I S_I R_I U_U_I F_I I_I J_I A_A_I T_D_E
+مصروفیت M_B A_I S_I R_I U_U_I F_I I_I1_I J_I A_I T_D_E
+مصنف M_B U_I S_I A_I N_I N_I I_I F_E
+مصنوعات M_B A_I S_I N_I U_U_I A_A_I T_D_E
+مصنوعی M_B A_I S_I N_I U_U_I Y_I I_I1_E
+مصور M_B U_I S_I U_U_I R_E
+مصوروں M_B U_I S_I O_I V_I V_I I_I R_I O_O_N_E
+مصیبت M_B U_I S_I I_I1_I B_I A_I T_D_E
+مضائقہ M_B U_I Z_I A_A_I A_I Q_I A_A_E
+مضبوط M_B A_I Z_I B_I U_U_I T_D_E
+مضحک M_B U_I Z_I H_I I_I K_E
+مضروب M_B A_I Z_I R_I U_U_I B_E
+مضمون M_B A_I Z_I M_I U_U_I N_E
+مطابق M_B U_I T_D_I A_A_I B_I I_I Q_E
+مطالبہ M_B U_I T_D_I A_A_I L_I I_I B_I A_A_E
+مطالبے M_B U_I T_D_I A_A_I L_I B_I A_Y_E
+مطالعوں M_B U_I T_D_I A_A_I L_I A_I O_O_N_E
+مطالعہ M_B U_I T_D_I A_A_I L_I A_I A_A_E
+مطالعے M_B U_I T_D_I A_A_I L_I A_I A_Y_E
+مطبوعہ M_B A_I T_D_I B_I U_U_I A_A_E
+مطلوبہ M_B A_I T_D_I L_I U_U_I B_I A_A_E
+مطمئن M_B U_I T_D_I M_I A_I I_I N_E
+مطہرہ M_B U_I T_D_I A_I H_I H_I I_I R_I A_A_E
+مظفر M_B U_I Z_I A_I F_I F_I A_I R_E
+مظلام M_B U_I Z_I L_I A_I M_I A_A_I M_E
+مظہر M_B U_I Z_I A_I H_I H_I A_I R_E
+معا M_B A_I A_I N_E
+معائنہ M_B U_I A_A_I I_I N_I A_A_E
+معاذ M_B A_I A_A_I Z_E
+معاشرے M_B U_I A_A_I S_H_I R_I A_Y_E
+معاشی M_B A_I Y_I A_A_I S_H_I I_I1_E
+معاشیات M_B U_I A_A_I S_H_I I_I J_I A_A_I T_D_E
+معاصر M_B U_I A_A_I S_I I_I R_E
+معاف M_B U_I A_A_I F_E
+معالج M_B U_I A_A_I L_I I_I D_Z_E
+معالجہ M_B U_I A_A_I L_I D_Z_I A_A_E
+معالجے M_B U_I A_A_I L_I A_I D_Z_I A_Y_E
+معاملات M_B U_I A_A_I M_I A_I L_I A_A_I T_D_E
+معاندانہ M_B U_I A_A_I N_I I_I D_D_I A_A_I N_I A_A_E
+معانی M_B A_I A_A_I N_I I_I1_E
+معاوضوں M_B U_I A_A_I V_I A_I Z_I O_O_N_E
+معاوضہ M_B U_I A_A_I V_I I_I Z_I A_A_E
+معاون M_B U_I A_A_I V_I I_I N_E
+معاہدے M_B U_I A_A_I H_I A_I D_D_I A_Y_E
+معجزات M_B O_O_I D_Z_I I_I Z_I A_A_I T_D_E
+معجزے M_B U_I D_Z_I I_I Z_I A_Y_E
+معجل M_B U_I D_Z_I A_I L_E
+معدہ M_B U_I A_I D_D_I D_D_I A_A_E
+معدے M_B A_Y_I D_D_I A_Y_E
+معذوریوں M_B A_I Z_I U_U_I R_I I_I1_I O_O_N_E
+معرض M_B A_I A_I R_I R_I A_I Z_E
+معرفت M_B A_A_I R_I F_I A_I T_D_E
+معروضی M_B A_I A_I R_I U_U_I Z_I I_I1_E
+معزز M_B U_I A_I Z_I Z_I A_I Z_E
+معززین M_B U_I A_I Z_I Z_I I_I Z_I I_I1_I N_E
+معشوق M_B A_I S_H_I U_U_I Q_E
+معصوم M_B A_A_I S_I U_U_I M_E
+معطل M_B U_I A_I T_D_I T_D_I A_I L_E
+معقول M_B A_A_I Q_I U_U_I L_E
+معلم M_B U_I A_I L_I L_I A_I M_E
+معلوم M_B A_A_I L_I U_U_I M_E
+معلومات M_B A_I L_I U_U_I M_I A_A_I T_D_E
+معمر M_B U_I A_I M_I M_I A_I R_E
+معمولی M_B A_A_I M_I U_U_I L_I I_I1_E
+معمہ M_B U_I I_I M_I M_I A_A_E
+معنویت M_B A_I N_I A_I V_I I_I1_I J_I A_I T_D_E
+معیاد M_B A_Y_I A_A_I D_D_E
+معیاری M_B I_I J_I A_A_I R_I I_I1_E
+معیت M_B A_I I_I1_I J_I A_I T_D_E
+معید M_B U_I I_I1_I D_D_E
+معیشت M_B A_I I_I1_I S_H_I A_I T_D_E
+معین M_B U_I I_I1_I N_E
+معینات M_B U_I A_I J_I J_I A_I N_I A_A_I T_D_E
+معیوب M_B A_I J_I U_U_I B_E
+مغربی M_B A_I G_G_I R_I I_I B_I I_I1_E
+مغرور M_B A_I G_G_I R_I U_U_I R_E
+مغز M_B A_I G_G_I Z_E
+مغفرت M_B A_I G_G_I F_I I_I R_I A_I T_D_E
+مغفور M_B A_I G_G_I F_I U_U_I R_E
+مغل M_B U_I G_G_I A_I L_E
+مغلوب M_B A_I G_G_I L_I U_U_I B_E
+مغلوں M_B U_I G_G_I L_I O_O_N_E
+مغلیہ M_B U_I G_G_I L_I I_I J_I A_A_E
+مغیث M_B U_I G_G_I I_I1_I S_E
+مفاد M_B U_I F_I A_A_I D_D_E
+مفاہمت M_B U_I F_I A_A_I H_I A_I M_I A_I T_D_E
+مفر M_B U_I F_I A_I R_E
+مفروضات M_B A_I F_I R_I U_U_I Z_I A_A_I T_D_E
+مفسر M_B U_I F_I A_I S_I S_I A_I R_E
+مفقود M_B A_I F_I Q_I U_U_I D_D_E
+مفلس M_B U_I F_I L_I I_I S_E
+مفلوج M_B A_I F_I L_I U_U_I D_Z_E
+مفکر M_B U_I F_I A_I K_I K_I I_I R_E
+مفہوم M_B A_I F_I H_I U_U_I M_E
+مفید M_B U_I F_I I_I1_I D_D_E
+مقابلوں M_B U_I Q_I A_A_I B_I L_I O_O_N_E
+مقابلے M_B U_I Q_I A_A_I B_I L_I A_Y_E
+مقام M_B A_I Q_I A_A_I M_E
+مقبوضہ M_B A_I Q_I B_I U_U_I Z_I A_A_E
+مقدار M_B I_I Q_I D_D_I A_A_I R_E
+مقرر M_B U_I Q_I A_I R_I R_I A_I R_E
+مقروض M_B A_I Q_I R_I U_U_I Z_E
+مقصد M_B A_I Q_I S_I A_I D_D_E
+مقصود M_B A_I Q_I S_I U_U_I D_D_E
+مقوی M_B A_I Q_I O_I V_I V_I I_I1_E
+مقید M_B U_I Q_I A_I J_I J_I A_I D_D_E
+مل M_B I_I L_E
+ملا M_B I_I L_I L_I A_A_E
+ملاؤں M_B U_I L_I L_I A_A_I O_O_N_E
+ملائیشن M_B A_I L_I A_A_I I_I1_I S_H_I A_I N_E
+ملازم M_B U_I L_I A_A_I Z_I I_I M_E
+ملازمت M_B U_I L_I A_A_I Z_I M_I A_I T_D_E
+ملازمین M_B U_I L_I A_A_I Z_I I_I M_I I_I1_I N_E
+ملبوسات M_B A_I L_I B_I U_U_I S_I A_A_I T_D_E
+ملت M_B I_I L_I L_I A_I T_D_E
+ملحق M_B U_I L_I H_I A_I Q_E
+ملحقہ M_B U_I L_I H_I A_I Q_I A_A_E
+ملحوظ M_B A_I L_I H_I U_U_I Z_E
+ملزوم M_B A_I L_I Z_I U_U_I M_E
+ملغوبہ M_B A_I L_I G_G_I U_U_I B_I A_A_E
+ملفوظات M_B A_I L_I F_I U_U_I Z_I A_A_I T_D_E
+ملنے M_B A_I L_I N_I A_Y_E
+ملوث M_B U_I L_I A_I V_I V_I A_I S_E
+ملوں M_B I_I L_I O_O_N_E
+ملک M_B U_I L_I A_I K_E
+ملی M_B A_I L_I I_I1_E
+ملیریا M_B A_I L_I A_Y_I R_I I_I J_I A_A_E
+ملیشیا M_B I_I L_I A_Y_I S_H_I I_I J_I A_A_E
+ملین M_B I_I L_I J_I A_I N_E
+ملیں M_B I_I L_I A_Y_N_E
+ملیہ M_B I_I L_I J_I I_I J_I A_A_E
+ملے M_B I_I L_I A_Y_E
+مماثل M_B U_I M_I A_A_I S_I I_I L_E
+ممالک M_B A_I M_I A_A_I L_I I_I K_E
+ممانعت M_B U_I M_I A_A_I N_I A_I A_I T_D_E
+ممبر M_B I_I M_I B_I A_I R_E
+ممد M_B U_I M_I I_I D_D_E
+مملکت M_B A_I M_I L_I U_I K_I A_I T_D_E
+مملکتیں M_B U_I M_I L_I I_I K_I A_I T_D_I A_Y_N_E
+ممنوع M_B A_I M_I N_I U_U_E
+ممکن M_B U_I M_I K_I I_I N_E
+مناسب M_B U_I N_I A_A_I S_I I_I B_E
+منافع M_B U_I N_I A_A_I F_I A_A_E
+منافعوں M_B U_I N_I A_A_I F_I O_O_N_E
+منافعے M_B U_I N_I A_A_I F_I A_I A_Y_E
+منتخب M_B U_I N_I T_D_I A_I X_I A_I B_E
+منتخبات M_B U_I N_I T_D_I A_I X_I I_I B_I A_A_I T_D_E
+منتظر M_B U_I N_I T_D_I A_I Z_I A_I R_E
+منتقل M_B U_I N_I T_D_I A_I Q_I I_I L_E
+منجدھار M_B A_I N_I D_Z_I D_D_H_I A_A_I R_E
+منجھی M_B A_I N_I D_Z_H_I I_I1_E
+منجھے M_B A_I N_I D_Z_H_I A_Y_E
+منحوس M_B A_I N_I H_I U_U_I S_E
+مندری M_B U_I N_I D_D_I R_I I_I1_E
+مندوبین M_B A_I N_I D_D_I U_U_I B_I I_I1_I N_E
+منسوخ M_B A_I N_I S_I U_U_I X_E
+منسوخی M_B A_I N_I S_I U_U_I X_I I_I1_E
+منش M_B A_I N_I U_I S_H_E
+منشور M_B A_I N_I S_H_I U_U_I R_E
+منشی M_B U_I N_I A_I S_H_I S_H_I I_I1_E
+منشیات M_B U_I N_I A_I S_H_I S_H_I I_I J_I A_A_I T_D_E
+منشیانہ M_B U_I N_I S_H_I I_I J_I A_A_I N_I A_A_E
+منشیوں M_B U_I N_I S_H_I I_I1_I O_O_N_E
+منصوبے M_B A_I N_I S_I U_U_I B_I A_Y_E
+منظر M_B A_I N_I Z_I A_I R_E
+منظم M_B U_I N_I A_I Z_I Z_I A_I M_E
+منظور M_B A_I N_I Z_I U_U_I R_E
+منظوم M_B A_I N_I Z_I U_U_I M_E
+منعقد M_B U_I N_I A_I Q_I I_I D_D_E
+منفرد M_B U_I N_I F_I A_I R_I I_I D_D_E
+منفعت M_B U_I N_I F_I A_I A_I T_D_E
+منفی M_B U_I N_I A_I F_I F_I I_I1_E
+منقش M_B U_I N_I A_I Q_I Q_I A_I S_H_E
+منوا M_B A_I N_I V_I A_A_E
+منور M_B U_I N_I O_I V_I A_I R_E
+منڈھے M_B A_I N_I D_H_I A_Y_E
+منڈیوں M_B A_I N_I D_I I_I1_I O_O_N_E
+منگل M_B A_I N_G_I G_I A_I L_E
+منگنی M_B A_I N_G_I N_I I_I1_E
+منگوا M_B A_I N_G_I V_I A_A_E
+منہ M_B U_I N_I H_E
+منہدم M_B U_I N_I H_I A_I D_D_I I_I M_E
+منیب M_B U_I N_I I_I1_I B_E
+منیجر M_B A_I N_I A_Y_I D_Z_I A_I R_E
+منیجنگ M_B A_I N_I A_Y_I D_Z_I I_I N_G_E
+منیر M_B U_I N_I I_I1_I R_E
+موئسچرائزر M_B O_O_I I_I S_I T_S1_I A_I R_I A_A_I I_I Z_I A_I R_E
+موئسچرائزنگ M_B O_O_I I_I S_I T_S1_I A_I R_I A_A_I I_I Z_I I_I N_G_E
+مواد M_B A_I V_I A_A_I D_D_E
+مواصلات M_B U_I V_I A_A_I S_I A_I L_I A_A_I T_D_E
+مواصلاتی M_B A_I V_I A_A_I S_I L_I A_A_I T_D_I I_I1_E
+مواضعات M_B A_I V_I A_A_I Z_I I_I A_A_I T_D_E
+مواقع M_B A_I V_I A_A_I Q_I A_Y_E
+موبائل M_B O_O_I B_I A_A_I I_I L_E
+موثر M_B U_I A_I S_I S_I A_I R_E
+موجب M_B O_I D_Z_I A_I B_E
+موجزن M_B O_O_I D_Z_I I_I Z_I A_I N_E
+موجود M_B O_I D_Z_I U_U_I D_D_E
+موجودہ M_B O_O_I D_Z_I U_U_I D_D_I A_A_E
+موجوں M_B O_I D_Z_I O_O_N_E
+موخر M_B O_O_I X_I A_I R_E
+مودبانہ M_B U_I A_I D_D_I D_D_I I_I B_I A_A_I N_I A_A_E
+مودی M_B O_O_I D_D_I I_I1_E
+موذی M_B U_U_I Z_I I_I1_E
+مورخ M_B U_I A_I R_I R_I I_I X_E
+مورخہ M_B O_O_I R_I X_I A_A_E
+مورخین M_B O_O_I A_I R_I R_I I_I X_I I_I1_I N_E
+موردالزام M_B O_I R_I I_I D_D_I A_Y_I I_I L_I Z_I A_A_I M_E
+موروثی M_B O_I R_I U_U_I S_I I_I1_E
+مورچے M_B O_O_I R_I T_S1_I A_Y_E
+موزونیت M_B O_I Z_I U_U_I N_I I_I1_I J_I A_I T_D_E
+موزوں M_B O_I Z_I U_U_N_E
+موسلادھار M_B U_U_I S_I L_I A_A_I D_D_H_I A_A_I R_E
+موسم M_B O_I S_I A_I M_E
+موسمیات M_B O_O_I S_I M_I I_I1_I A_A_I T_D_E
+موسیقی M_B U_U_I S_I I_I1_I Q_I I_I1_E
+موشن M_B O_O_I S_H_I A_I N_E
+موصول M_B O_I S_I U_U_I L_E
+موضع M_B O_I Z_I A_A_E
+موضوع M_B O_O_I Z_I U_U_E
+موضوعات M_B O_I Z_I U_U_I A_A_I T_D_E
+موعود M_B O_I U_U_I D_D_E
+موقر M_B O_I Q_I A_I R_E
+موقع M_B O_I Q_I A_E
+موقعوں M_B O_I Q_I A_I O_O_N_E
+موقعے M_B O_I Q_I A_I A_Y_E
+موقف M_B O_I Q_I A_I F_E
+مولا M_B O_O_I L_I A_E
+مولانا M_B O_O_I L_I A_A_I N_I A_A_E
+مولوی M_B O_O_I L_I V_I I_I1_E
+مومن M_B O_O_I M_I I_I N_E
+مون M_B O_O_I N_E
+مونا M_B O_O_I N_I A_A_E
+مونث M_B U_I A_I N_I N_I A_I S_E
+مونچھوں M_B U_U_I N_I T_S_H_I O_O_N_E
+مونچھیں M_B U_U_I N_I T_S_H_I A_Y_N_E
+مونگ M_B U_U_I N_G_E
+موو M_B O_O_I V_E
+مووایبل M_B U_U_I V_I A_Y_I B_I A_I L_E
+موومنٹ M_B U_U_I V_I M_I I_I N_I T_E
+مووی M_B U_U_I V_I I_I1_E
+موچی M_B O_O_I T_S1_I I_I1_E
+موڈ M_B U_U_I D_E
+موڈم M_B O_I D_I A_I M_E
+موڑ M_B O_O_I R_R_E
+موہن M_B O_O_I H_I A_I N_E
+موہوم M_B O_I H_I U_U_I M_E
+مویشی M_B A_I V_I A_Y_I S_H_I I_I1_E
+مٹھائیاں M_B I_I T_H_I A_A_I I_I J_I A_A_N_E
+مٹھل M_B A_I T_H_I T_H_I A_I L_E
+مٹھن M_B I_I T_H_I A_I N_E
+مٹی M_B I_I T_I I_I1_E
+مٹیں M_B I_I T_I A_Y_N_E
+مچا M_B A_I T_S1_I A_A_E
+مچانے M_B A_I T_S1_I A_A_I N_I A_Y_E
+مچولی M_B I_I T_S1_I O_I L_I I_I1_E
+مچھر M_B A_I T_S_H_I T_S_H_I A_I R_E
+مچھلی M_B A_I T_S_H_I L_I I_I1_E
+مچھلیاں M_B A_I T_S_H_I L_I I_I J_I A_A_N_E
+مچھیروں M_B A_I T_S_H_I A_Y_I R_I O_O_N_E
+مڈل M_B I_I D_I I_I L_E
+مڈنائٹ M_B I_I D_I N_I A_A_I I_I T_E
+مڈھ M_B U_I D_H_E
+مڈھوں M_B U_I D_H_I D_H_I O_O_N_E
+مڑ M_B U_I R_R_E
+مژدہ M_B U_I Z_Z_I D_D_I A_A_E
+مژگاں M_B I_I Z_Z_I G_I A_A_N_E
+مکعب M_B U_I K_I A_I A_I B_E
+مکوڑوں M_B A_I K_I V_I R_R_I O_O_N_E
+مکھن M_B A_I K_I K_H_I A_I N_E
+مکھڑا M_B U_I K_H_I R_R_I A_A_E
+مکھڑے M_B U_I K_H_I R_R_I A_Y_E
+مکھیاں M_B A_I K_I K_H_I I_I J_I A_A_N_E
+مکھیوں M_B A_I K_I K_H_I I_I1_I O_O_N_E
+مگ M_B A_I G_E
+مگر M_B A_I G_I A_I R_E
+مگرمچھ M_B A_I G_I A_I R_I M_I A_I T_S_H_E
+مگسی M_B A_I G_I S_I I_I1_E
+مہاجر M_B U_I H_I A_A_I D_Z_I I_I R_E
+مہجور M_B A_I H_I D_Z_I U_U_I R_E
+مہذب M_B U_I H_I A_I Z_I Z_I A_I B_E
+مہر M_B A_Y_H_I H_I R_E
+مہربانی M_B A_Y_H_I H_I R_I B_I A_A_I N_I I_I1_E
+مہربانیوں M_B A_E_H_I H_I A_I R_I B_I A_A_I N_I I_I1_I O_O_N_E
+مہلت M_B O_O_H_I H_I L_I A_I T_D_E
+مہلک M_B U_I H_I L_I I_I K_E
+مہم M_B U_I H_I A_I M_E
+مہمان M_B A_Y_H_I H_I M_I A_A_I N_E
+مہمانان M_B A_E_H_I H_I M_I A_A_I N_I A_A_I N_E
+مہمل M_B U_I H_I M_I A_I L_E
+مہندی M_B I_I H_I N_I D_D_I I_I1_E
+مہنگا M_B A_I H_I N_G_I G_I A_A_E
+مہنگائی M_B A_I H_I N_G_I G_I A_A_I I_I1_E
+مہوش M_B A_E_H_I H_I V_I A_I S_H_E
+مہیا M_B U_I H_I A_I J_I J_I A_A_E
+مہیب M_B U_I H_I I_I1_I B_E
+مہینے M_B A_I H_I I_I1_I N_I A_Y_E
+میئر M_B A_Y_I I_I R_E
+میاؤں M_B I_I J_I A_A_I U_U_N_E
+میاں M_B I_I J_I A_A_N_E
+میت M_B I_I1_I T_D_E
+میتوں M_B A_E1_I J_I I_I T_D_I O_O_N_E
+میتھائل M_B I_I1_I T_D_H_I A_A_I I_I L_E
+میتھی M_B A_Y_I T_D_H_I I_I1_E
+میثاق M_B I_I1_I S_I A_A_I Q_E
+میجر M_B A_Y_I D_Z_I A_I R_E
+میخائل M_B I_I1_I X_I A_A_I I_I L_E
+میدان M_B A_E1_I D_D_I A_A_I N_E
+میرا M_B A_Y_I R_I A_A_E
+میراتھن M_B A_E1_I R_I A_A_I T_D_H_I I_I N_E
+میران M_B I_I1_I R_I A_A_I N_E
+میراں M_B I_I1_I R_I A_A_N_E
+میرزا M_B I_I1_I R_I Z_I A_A_E
+میرون M_B A_E1_I R_I U_U_I N_E
+میرٹ M_B A_E1_I R_I I_I T_E
+میرٹھی M_B I_I1_I R_I A_I T_H_I I_I1_E
+میری M_B A_Y_I R_I I_I1_E
+میرے M_B A_Y_I R_I A_Y_E
+میزائل M_B I_I1_I Z_I A_A_I I_I L_E
+میزبان M_B A_Y_I Z_I B_I A_A_I N_E
+میزیں M_B A_Y_I Z_I A_Y_N_E
+میسج M_B A_E1_I S_I I_I D_Z_E
+میسر M_B I_I1_I S_I A_I R_E
+میل M_B A_Y_I L_E
+میلسوی M_B A_E1_I L_I S_I V_I I_I1_E
+میلہ M_B A_Y_I L_I A_I H_E
+میلے M_B A_Y_I L_I A_Y_E
+میمن M_B A_Y_I M_I A_I N_E
+میموریل M_B A_E1_I M_I O_O_I R_I I_I J_I A_I L_E
+مین M_B A_Y_I N_E
+مینجمنٹ M_B A_E1_I N_I I_I D_Z_I M_I A_I N_I T_E
+مینوئل M_B A_E1_I N_I U_U_I I_I L_E
+مینوفیکچررز M_B A_E1_I N_I U_U_I F_I A_E1_I K_I T_S1_I A_I R_I A_I R_I Z_E
+مینوفیکچرز M_B A_E1_I N_I O_O_I F_I A_E1_I K_I T_S1_I A_I R_I Z_E
+مینڈھا M_B A_E1_I N_I D_H_I A_A_E
+مینگل M_B A_E1_I N_G_I G_I A_I L_E
+مینیجمنٹ M_B A_E1_I N_I A_Y_I D_Z_I M_I A_I N_I T_E
+میواتی M_B I_I1_I V_I A_A_I T_D_I I_I1_E
+میوزک M_B I_I J_I U_U_I Z_I I_I K_E
+میوہ M_B A_Y_I V_I A_A_E
+میٹھا M_B I_I1_I T_H_I A_A_E
+میٹھی M_B I_I1_I T_H_I I_I1_E
+میٹھے M_B I_I1_I T_H_I A_Y_E
+میچ M_B A_E1_I T_S1_E
+میچز M_B A_E1_I T_S1_I I_I Z_E
+میچو M_B I_I1_I T_S1_I O_O_E
+میچور M_B A_Y_I T_S1_I O_O_I R_E
+میچوں M_B A_E1_I T_S1_I O_O_N_E
+میڈیا M_B I_I1_I D_I I_I J_I A_A_E
+میڈیسن M_B A_E1_I D_I I_I1_I S_I A_I N_E
+میڈیکل M_B A_E1_I D_I I_I1_I K_I A_I L_E
+میگاواٹ M_B A_E1_I G_I A_A_I V_I A_A_I T_E
+میگزین M_B A_E1_I G_I Z_I I_I1_I N_E
+میگھا M_B A_Y_I G_H_I A_A_E
+میں M_B A_Y_N_E
+مے M_B A_E1_E
+نئی N_B A_I I_I1_E
+نئے N_B A_I A_Y_E
+نا N_B A_A_E
+ناآشنا N_B A_A_I A_A_I S_H_I N_I A_A_E
+نائب N_B A_A_I I_I B_E
+نائیٹروجنی N_B A_A_I I_I1_I T_I A_I R_I O_O_I D_Z_I N_I I_I1_E
+ناامیدی N_B A_A_I U_U_I M_I I_I1_I D_D_I I_I1_E
+نااہلی N_B A_A_I A_E_H_I H_I L_I I_I1_E
+نااہلیت N_B A_A_I A_E_H_I H_I L_I I_I J_I A_I T_D_E
+نابغہ N_B A_A_I B_I I_I G_G_I A_A_E
+ناجائز N_B A_A_I D_Z_I A_A_I I_I Z_E
+ناخن N_B A_A_I X_I U_I N_E
+ناخواندگی N_B A_A_I X_I A_A_I N_I D_D_I G_I I_I1_E
+نادر N_B A_A_I D_D_I I_I R_E
+نارتھ N_B A_A_I R_I T_D_H_E
+نازاں N_B A_A_I Z_I A_A_N_E
+ناشتہ N_B A_A_I S_H_I T_D_I A_A_E
+ناظم N_B A_A_I Z_I I_I M_E
+ناغہ N_B A_A_I G_G_I A_A_E
+نافذالعمل N_B A_A_I F_I I_I Z_I U_I L_I A_I M_I A_I L_E
+ناقابل N_B A_A_I Q_I A_A_I B_I I_I L_E
+ناقص N_B A_A_I Q_I I_I S_E
+نام N_B A_A_I M_E
+نامزد N_B A_A_I M_I Z_I A_I D_D_E
+نامور N_B A_A_I M_I V_I A_I R_E
+نامی N_B A_A_I M_I I_I1_E
+نانگا N_B A_A_I N_G_I G_I A_A_E
+ناول N_B A_A_I V_I I_I L_E
+ناچ N_B A_A_I T_S1_E
+ناچنے N_B A_A_I T_S1_I N_I A_Y_E
+ناچیز N_B A_A_I T_S1_I I_I1_I Z_E
+ناکام N_B A_A_I K_I A_A_I M_E
+ناں N_B A_A_N_E
+نبوت N_B A_I B_I U_U_I V_I A_I T_D_E
+نبوی N_B A_I B_I V_I I_I1_E
+نبویہ N_B A_I B_I V_I I_I J_I A_A_E
+نبھائیں N_B I_I B_H_I A_A_I A_Y_N_E
+نبھانے N_B I_I B_H_I A_A_I N_I A_Y_E
+نبی N_B A_I B_I I_I1_E
+نتائج N_B A_I T_D_I A_A_I A_Y_I D_Z_E
+نتھنوں N_B A_I T_D_H_I N_I O_O_N_E
+نتھی N_B A_I T_D_H_I I_I1_E
+نتیجہ N_B A_I T_D_I I_I1_I D_Z_I A_A_E
+نتیجے N_B A_I T_D_I I_I1_I D_Z_I A_Y_E
+نثار N_B I_I S_I A_A_I R_E
+نجات N_B A_I D_Z_I A_A_I T_D_E
+نجف N_B A_I D_Z_I A_I F_E
+نجی N_B A_I D_Z_I I_I1_E
+نحوست N_B U_I H_I U_U_I S_I A_I T_D_E
+نحیف N_B A_I H_I I_I1_I F_E
+نخرے N_B A_I X_I R_I A_Y_E
+نخوت N_B A_I X_I V_I A_I T_D_E
+ندا N_B I_I D_D_I A_A_E
+ندرت N_B A_I D_D_I R_I A_I T_D_E
+ندوی N_B A_I D_D_I V_I I_I1_E
+ندیم N_B A_I D_D_I I_I1_I M_E
+نذر N_B A_I Z_I A_I R_E
+نرخ N_B I_I R_I X_E
+نرخنامے N_B I_I R_I X_I N_I A_A_I M_I A_Y_E
+نرخوں N_B I_I R_I X_I O_O_N_E
+نرسیں N_B A_I R_I S_I A_Y_N_E
+نرغے N_B A_I R_I G_G_I A_Y_E
+نرگس N_B A_I R_I G_I I_I S_E
+نزدیک N_B A_I Z_I D_D_I I_I1_I K_E
+نزلے N_B A_I Z_I L_I A_Y_E
+نزول N_B U_I Z_I U_U_I L_E
+نسخوں N_B U_I S_I X_I O_O_N_E
+نسخہ N_B U_I S_I X_I A_A_E
+نسخے N_B U_I S_I X_I A_Y_E
+نسرین N_B A_I S_I R_I I_I1_I N_E
+نسل N_B A_I S_I L_E
+نسواں N_B I_I S_I V_I A_A_N_E
+نسیں N_B A_I S_I A_Y_N_E
+نشئی N_B A_I S_H_I A_I I_I1_E
+نشاستہ N_B A_I S_H_I A_A_I S_I T_D_I A_A_E
+نشاندہی N_B I_I S_H_I A_A_I N_I D_D_I A_Y_I H_I I_I1_E
+نشانہ N_B I_I S_H_I A_A_I N_I A_A_E
+نشاں N_B I_I S_H_I A_A_N_E
+نشر N_B A_I S_H_I A_I R_E
+نشرواشاعت N_B A_I S_H_I R_I O_O_I I_I S_H_I A_A_I A_I T_D_E
+نشست N_B A_I S_H_I I_I S_I T_D_E
+نشو N_B I_I S_H_I O_O_E
+نشوونما N_B A_I S_H_I V_I O_O_I N_I U_I M_I A_A_E
+نشیب N_B I_I S_H_I A_Y_I B_E
+نشے N_B A_I S_H_I A_Y_E
+نصب N_B A_I S_I B_E
+نصف N_B I_I S_I F_E
+نصیب N_B A_I S_I I_I1_I B_E
+نصیحت N_B A_I S_I I_I1_I H_I A_I T_D_E
+نظام N_B I_I Z_I A_A_I M_E
+نظر N_B A_I Z_I A_I R_E
+نظرثانی N_B A_I Z_I A_I R_I A_Y_I S_I A_A_I N_I I_I1_E
+نظروں N_B A_I Z_I R_I O_O_N_E
+نظریے N_B A_I Z_I A_I R_I I_I1_I J_I A_Y_E
+نظم N_B A_I Z_I M_E
+نعم N_B A_A_I M_E
+نعمت N_B I_I M_I A_I T_D_E
+نعمتوں N_B A_Y_I M_I A_I T_D_I O_O_N_E
+نعوذ N_B A_I U_U_I Z_E
+نعیم N_B A_I I_I1_I M_E
+نغمہ N_B A_I G_G_I M_I A_A_E
+نفسیاتی N_B A_I F_I S_I I_I J_I A_A_I T_D_I I_I1_E
+نفل N_B A_I F_I A_I L_E
+نفلی N_B A_I F_I L_I I_I1_E
+نفوذ N_B U_I F_I U_U_I Z_E
+نفوس N_B A_I F_I U_U_I S_E
+نقاب N_B A_I Q_I Q_I A_A_I B_E
+نقاش N_B A_I Q_I Q_I A_A_I S_H_E
+نقرس N_B A_I Q_I R_I I_I S_E
+نقش N_B A_I Q_I S_H_E
+نقشبندی N_B A_I Q_I S_H_I B_I A_I N_I D_D_I I_I1_E
+نقشوں N_B A_I Q_I S_H_I O_O_N_E
+نقشہ N_B A_I Q_I S_H_I A_A_E
+نقشے N_B A_I Q_I S_H_I A_Y_E
+نقصان N_B U_I Q_I S_I A_A_I N_E
+نقل N_B A_I Q_I L_E
+نقلیں N_B A_I Q_I L_I A_Y_N_E
+نقوش N_B A_I Q_I U_U_I S_H_E
+نقوی N_B A_I Q_I V_I I_I1_E
+نل N_B I_I L_E
+نما N_B A_I M_I A_A_E
+نمائندہ N_B U_I M_I A_A_I I_I N_I D_D_I A_A_E
+نماز N_B A_I M_I A_A_I Z_E
+نمایاں N_B U_I M_I A_A_I J_I A_A_N_E
+نمبر N_B A_I M_I B_I A_I R_E
+نمف N_B A_I M_I A_I F_E
+نمو N_B A_I M_I U_U_E
+نمودار N_B U_I M_I U_U_I D_D_I A_A_I R_E
+نمٹیں N_B I_I M_I A_I T_I A_Y_N_E
+نمک N_B A_I M_I A_I K_E
+ننانوے N_B I_I N_I A_A_I N_I V_I A_Y_E
+ننگے N_B A_I N_G_I G_I A_Y_E
+ننھا N_B A_I N_H_I N_H_I A_A_E
+ننھی N_B A_I N_H_I N_H_I I_I1_E
+ننھیال N_B A_I N_H_I J_I A_A_I L_E
+ننھے N_B A_I N_H_I N_H_I A_Y_E
+نو N_B O_E
+نوآبادیاتی N_B O_I A_A_I B_I A_A_I D_D_I I_I J_I A_A_I T_D_I I_I1_E
+نواب N_B O_I V_I A_A_I B_E
+نواز N_B A_I V_I A_A_I Z_E
+نوازنے N_B A_I V_I A_A_I Z_I N_I A_Y_E
+نوازوں N_B A_I V_I A_A_I Z_I U_U_N_E
+نوبت N_B O_I B_I A_I T_D_E
+نوبل N_B O_O_I B_I I_I L_E
+نوجوان N_B O_I D_Z_I A_I V_I A_A_I N_E
+نوجوانوں N_B O_O_I D_Z_I A_I V_I A_A_I N_I O_O_N_E
+نوحہ N_B O_I H_I A_A_E
+نوحے N_B O_O_I H_I A_Y_E
+نوخیز N_B O_I X_I A_Y_I Z_E
+نور N_B U_U_I R_E
+نوروز N_B O_I R_I U_U_I Z_E
+نوزائیدہ N_B O_I Z_I A_A_I I_I1_I D_D_I A_A_E
+نوزل N_B O_O_I Z_I A_I L_E
+نوزلوں N_B O_I Z_I A_I L_I O_O_N_E
+نوش N_B O_O_I S_H_E
+نوشاد N_B O_I S_H_I A_A_I D_D_E
+نوشیرواں N_B O_O_I S_H_I A_Y_I R_I V_I A_A_N_E
+نوعی N_B O_I I_I1_E
+نوعیت N_B O_I I_I J_I J_I A_I T_D_E
+نوفل N_B O_I F_I A_I L_E
+نومنتخب N_B O_O_I M_I U_I N_I T_D_I A_I X_I A_I B_E
+نومولود N_B O_I M_I O_I L_I U_U_I D_D_E
+نونہال N_B O_I N_I I_I H_I A_A_I L_E
+نوچ N_B O_O_I T_S1_E
+نوچندی N_B O_I T_S1_I A_I N_I D_D_I I_I1_E
+نوچیں N_B O_O_I T_S1_I A_Y_N_E
+نوڈلز N_B U_U_I D_I A_I L_I Z_E
+نوگو N_B O_O_I G_I O_O_E
+نوید N_B A_I V_I I_I1_I D_D_E
+نویں N_B A_I V_I I_I_N_E
+نوے N_B A_I V_I V_I A_Y_E
+نچا N_B A_I T_S1_I T_S1_I A_A_E
+نچلی N_B I_I T_S1_I L_I I_I1_E
+نچلے N_B I_I T_S1_I L_I A_Y_E
+نچوڑ N_B I_I T_S1_I O_O_I R_R_E
+نچھاور N_B I_I T_S_H_I A_A_I V_I A_I R_E
+نڈر N_B I_I D_I A_I R_E
+نڈھال N_B I_I D_H_I A_A_I L_E
+نژاد N_B A_I Z_Z_I A_A_I D_D_E
+نکال N_B I_I K_I A_A_I L_E
+نکالیں N_B I_I K_I A_A_I L_I A_Y_N_E
+نکل N_B I_I K_I A_I L_E
+نکلا N_B I_I K_I L_I A_A_E
+نکھارا N_B I_I K_H_I A_A_I R_I A_A_E
+نکھر N_B I_I K_H_I A_I R_E
+نکھرا N_B I_I K_H_I R_I A_A_E
+نگاور N_B I_I G_I A_A_I V_I A_I R_E
+نگر N_B A_I G_I A_I R_E
+نگران N_B I_I G_I R_I A_A_I N_E
+نگرانی N_B I_I G_I R_I A_A_I N_I I_I1_E
+نگہت N_B I_I G_I H_I A_I T_D_E
+نگہداشت N_B I_I G_I H_I D_D_I A_A_I S_H_I T_D_E
+نہ N_B A_A_E
+نہائیں N_B A_I H_I A_A_I A_Y_N_E
+نہاں N_B I_I H_I A_A_N_E
+نہایت N_B I_I H_I A_A_I J_I A_I T_D_E
+نہر N_B A_E_H_I H_I R_E
+نہیں N_B A_I H_I I_I_N_E
+نیا N_B A_Y_I J_I A_A_E
+نیرنگ N_B A_E1_I R_I A_I N_G_E
+نیرو N_B I_I1_I R_I O_O_E
+نیز N_B I_I1_I Z_E
+نیزے N_B A_Y_I Z_I A_Y_E
+نیسچن N_B I_I1_I S_I T_S1_I A_I N_E
+نیشن N_B A_Y_I S_H_I A_I N_E
+نیشنل N_B A_E1_I S_H_I N_I A_I L_E
+نیل N_B A_Y_I L_E
+نیلم N_B I_I1_I L_I A_I M_E
+نیلوفر N_B I_I1_I L_I O_O_I F_I A_I R_E
+نیلگوں N_B I_I1_I L_I G_I U_U_N_E
+نیم N_B I_I1_I M_E
+نینی N_B A_Y_I N_I I_I1_E
+نیو N_B I_I1_I O_O_E
+نیور N_B I_I1_I O_O_I R_E
+نیورو N_B I_I1_I O_O_I R_I O_O_E
+نیوز N_B I_I1_I V_I Z_E
+نیون N_B I_I1_I O_O_I N_E
+نیوکلیئس N_B I_I J_I U_U_I K_I I_I L_I I_I1_I A_I S_E
+نیٹو N_B A_Y_I T_I O_O_E
+نیچا N_B I_I1_I T_S1_I A_A_E
+نیچر N_B A_Y_I T_S1_I A_I R_E
+نیچرل N_B A_Y_I T_S1_I R_I A_I L_E
+نیچی N_B I_I1_I T_S1_I I_I1_E
+نیچے N_B I_I1_I T_S1_I A_Y_E
+نیڈل N_B I_I1_I D_I A_I L_E
+نیگیٹو N_B A_Y_I G_I A_Y_I T_I I_I V_E
+نے N_B A_Y_E
+و O_O_S
+وائرس V_B A_A_I I_I R_I A_I S_E
+وائرل V_B A_A_I A_Y_I R_I A_I L_E
+وائرلیس V_B A_A_I I_I R_I L_I A_Y_I S_E
+واجب V_B A_A_I D_Z_I I_I B_E
+واحد V_B A_A_I H_I I_I D_D_E
+وارڈ V_B A_A_I R_I D_E
+واضح V_B A_A_I Z_I A_Y_E
+وافر V_B A_A_I F_I I_I R_E
+واقع V_B A_A_I Q_I A_Y_E
+واقعتاً V_B A_I Q_I A_Y_I A_A_I T_D_I A_I N_E
+واقعہ V_B A_A_I Q_I I_I A_A_E
+واقعی V_B A_A_I Q_I A_I Y_I I_I1_E
+واقعے V_B A_A_I Q_I I_I A_Y_E
+واقفیت V_B A_A_I Q_I I_I F_I I_I J_I A_I T_D_E
+والا V_B A_A_I L_I A_A_E
+والدین V_B A_A_I L_I D_D_I A_E1_I N_E
+والرس V_B A_A_I L_I R_I A_I S_E
+والو V_B A_A_I L_I V_E
+والوں V_B A_A_I L_I O_O_N_E
+والڈ V_B A_A_I L_I I_I D_E
+والی V_B A_A_I L_I I_I1_E
+والیم V_B A_A_I L_I J_I A_I M_E
+والے V_B A_A_I L_I A_Y_E
+واویلا V_B A_A_I V_I A_Y_I L_I A_A_E
+واپڈا V_B A_A_I P_I D_I A_A_E
+واچ V_B A_A_I T_S1_E
+واگذار V_B A_A_I G_I U_U_I Z_I A_A_I R_E
+واں V_B A_A_N_E
+واہلہ V_B A_A_I H_I L_I A_A_E
+وباؤں V_B A_I B_I A_A_I O_O_N_E
+وبائی V_B A_I B_I A_A_I I_I1_E
+وثوق V_B U_I S_I U_U_I Q_E
+وجدان V_B I_I D_Z_I D_D_I A_A_I N_E
+وجود V_B U_I D_Z_I U_U_I D_D_E
+وجوہات V_B U_I D_Z_I U_U_I H_I A_A_I T_D_E
+وجہ V_B A_I D_Z_I A_A_E
+وحشت V_B A_I H_I S_H_I A_I T_D_E
+وحشی V_B A_I H_I S_H_I I_I1_E
+وحشیانہ V_B A_I H_I S_H_I I_I J_I A_A_I N_I A_A_E
+ودیعت V_B A_I D_D_I I_I1_I A_I T_D_E
+ورزش V_B A_I R_I Z_I I_I S_H_E
+ورلڈ V_B A_I R_I D_E
+ورلڈکپ V_B A_I R_I L_I D_I K_I A_I P_E
+ورچوئل V_B A_I R_I T_S1_I U_U_I A_I L_E
+ورژن V_B A_I R_I Z_Z_I A_I N_E
+ورک V_B A_I R_I K_E
+وزارت V_B I_I Z_I A_A_I R_I A_I T_D_E
+وزراء V_B U_I Z_I A_I R_I A_A_E
+وزن V_B A_I Z_I N_E
+وزیر V_B A_I Z_I I_I1_I R_E
+وزیراعلی V_B A_I Z_I I_I1_I R_I A_Y_I A_A_I L_I A_A_E
+وزیرخارجہ V_B A_I Z_I I_I1_I R_I A_Y_I X_I A_A_I R_I I_I D_Z_I A_A_E
+وزیرداخلہ V_B A_I Z_I I_I1_I R_I A_Y_I D_D_I A_A_I X_I I_I L_I A_A_E
+وسائل V_B A_I S_I A_A_I I_I L_E
+وسعتوں V_B U_I S_I Y_I A_I T_D_I O_O_N_E
+وصف V_B A_I S_I F_E
+وظیفہ V_B A_I Z_I I_I1_I F_I A_A_E
+وعدہ V_B A_I D_D_I A_A_E
+وعدے V_B A_A_I D_D_I A_Y_E
+وعید V_B A_I I_I1_I D_D_E
+وغیرہ V_B A_I G_G_I A_E1_I R_I A_A_E
+وفاؤں V_B A_I F_I A_A_I O_O_N_E
+وفاق V_B I_I F_I A_A_I Q_E
+وفاقی V_B A_I F_I A_A_I Q_I I_I1_E
+وفد V_B A_I F_I D_D_E
+وفود V_B U_I F_I U_U_I D_D_E
+وقائع V_B A_I Q_I A_A_I A_Y_E
+وقت V_B A_I Q_I T_D_E
+وقعت V_B U_I Q_I A_I A_I T_D_E
+وقف V_B A_I Q_I F_E
+وقفہ V_B A_I Q_I F_I A_A_E
+وقفے V_B A_I Q_I F_I A_Y_E
+وقوع V_B U_I Q_I U_U_E
+وقوعہ V_B U_I Q_I U_U_I A_A_E
+وقوف V_B U_I Q_I U_U_I F_E
+ولد V_B A_I L_I A_I D_D_E
+وم V_B I_I M_E
+ون V_B A_I N_E
+ونڈوز V_B I_I N_I D_I O_O_I Z_E
+ونگ V_B I_I N_G_E
+وورس O_O_B V_I A_I R_I Z_E
+وولر V_B U_U_I L_I A_I R_E
+وولٹیج V_B O_O_I L_I T_I A_Y_I D_Z_E
+وومن V_B O_O_I M_I A_I N_E
+ووڈ V_B U_U_I D_E
+وڈ V_B U_I D_E
+وڈیروں V_B A_I D_I A_Y_I R_I O_O_N_E
+وڈیو V_B I_I D_I I_I1_I O_O_E
+وڑائچ V_B A_I R_R_I A_A_I I_I T_S1_E
+وژن V_B I_I Z_Z_I A_I N_E
+وگ V_B I_I G_E
+وگرنہ V_B A_I G_I A_I R_I N_I A_A_E
+وھیل V_B A_E1_I L_E
+وہ V_B O_O_H_E
+وہاب V_B A_I H_I H_I A_A_I B_E
+وہاں V_B A_I H_I A_A_N_E
+وہپ V_B I_I H_I P_E
+وہی V_B O_O_H_I H_I I_I1_E
+وی V_B I_I1_E
+ویئرز V_B A_Y_I A_I R_I Z_E
+ویب V_B A_E1_I B_E
+ویجز V_B A_Y_I D_Z_I I_I Z_E
+ویجی V_B A_E1_I D_Z_I I_I1_E
+وید V_B A_E1_I D_D_E
+ویزے V_B I_I1_I Z_I A_Y_E
+ویسٹ V_B A_E1_I S_I T_E
+ویسے V_B A_E1_I S_I A_Y_E
+ویلز V_B A_E1_I L_I Z_E
+ویلفئر V_B A_E1_I L_I F_I A_Y_I A_I R_E
+ویلوٹ V_B A_E1_I L_I V_I A_I T_E
+ویلڈنگ V_B A_E1_I L_I D_I I_I N_G_E
+ویلیو V_B A_E1_I L_I J_I U_U_E
+ویمن V_B I_I1_I M_I A_Y_I N_E
+ویمنز V_B A_Y_I M_I A_I N_I Z_E
+ویمپ V_B A_E1_I M_I P_E
+وین V_B A_E1_I N_E
+ویوز V_B A_Y_I V_I Z_E
+ویڈنگ V_B A_E1_I D_I I_I N_G_E
+ویڈیو V_B I_I1_I D_I I_I J_I O_O_E
+ویڈیوز V_B I_I1_I D_I J_I U_U_I Z_E
+ویگن V_B A_E1_I G_I A_I N_E
+ویں V_B I_I_N_E
+وے V_B A_Y_E
+ٹاؤن T_B A_A_I U_U_I N_E
+ٹائفائیڈ T_B A_A_I I_I1_I F_I A_A_I I_I D_E
+ٹراؤزر T_B A_I R_I A_A_I U_U_I Z_I A_I R_E
+ٹرانزسٹر T_B A_I R_I A_A_I N_I Z_I I_I S_I T_I A_I R_E
+ٹرانزیکشن T_B A_I R_I A_A_N_I Z_I I_I1_I K_I S_H_I A_I N_E
+ٹرانسفارمر T_B A_I R_I A_A_I N_I S_I F_I A_A_I R_I M_I A_I R_E
+ٹرانسفر T_B A_I R_I A_A_I N_I S_I F_I A_I R_E
+ٹرانسمیشن T_B A_I R_I A_A_I N_I S_I M_I I_I1_I S_H_I A_I N_E
+ٹرانسپیرنسی T_B A_I R_I A_A_I N_I S_I P_I A_E1_I R_I A_I N_I S_I I_I1_E
+ٹرفس T_B A_I R_I A_I F_I S_E
+ٹری T_B A_I R_I I_I1_E
+ٹریبیونل T_B A_I R_I A_Y_I B_I A_Y_I J_I U_U_I N_I A_I L_E
+ٹریجڈی T_B A_I R_I A_Y_I D_Z_I I_I D_I I_I1_E
+ٹریفک T_B A_I R_I A_E1_I F_I I_I K_E
+ٹریلر T_B I_I R_I A_Y_I L_I A_I R_E
+ٹرین T_B R_I A_Y_I N_E
+ٹریولرز T_B A_I R_I A_E1_I V_I L_I A_I R_I Z_E
+ٹریڈ T_B A_I R_I A_E1_I D_E
+ٹریڈنگ T_B A_I R_I A_Y_I D_I I_I N_G_E
+ٹریژری T_B I_I R_I A_E1_I Z_Z_I A_I R_I I_I1_E
+ٹشو T_B I_I S_H_I U_U_E
+ٹوئنٹی T_B U_U_I A_I N_I T_I I_I1_E
+ٹوائلٹ T_B U_I A_A_I I_I L_I A_I T_E
+ٹورازم T_B U_U_I A_I I_I_N_I R_I I_I Z_I M_E
+ٹورنامنٹ T_B U_U_I R_I N_I A_A_I M_I I_I N_I T_E
+ٹورنامنٹس T_B O_O_I R_I N_I A_A_I M_I I_I N_I T_I S_E
+ٹوفل T_B O_I F_I I_I L_E
+ٹوہ T_B O_O_I H_E
+ٹھاٹھیں T_H_B A_A_I T_H_I A_Y_N_E
+ٹھاکر T_H_B A_A_I K_I U_I R_E
+ٹھل T_H_B A_I L_E
+ٹھنڈا T_H_B A_I N_I D_I A_A_E
+ٹھنکا T_H_B A_I N_I K_I A_A_E
+ٹھوس T_H_B O_O_I S_E
+ٹھونس T_H_B U_U_I N_I S_E
+ٹھونسا T_H_B O_O_N_I S_I A_A_E
+ٹھونسنے T_H_B O_O_I N_I S_I N_I A_Y_E
+ٹھوڑی T_H_B O_O_I R_R_I I_I1_E
+ٹھٹھر T_H_B I_I T_H_I A_I R_E
+ٹھڈے T_H_B U_I D_I D_I A_Y_E
+ٹھکانے T_H_B I_I K_I A_A_I N_I A_Y_E
+ٹھکرا T_H_B U_I K_I R_I A_A_E
+ٹھگ T_H_B A_I G_E
+ٹھہراؤ T_H_B A_I H_I R_I A_A_I O_O_E
+ٹھہرنے T_H_B A_I H_I R_I N_I A_Y_E
+ٹھہرو T_H_B A_I H_I R_I O_O_E
+ٹھیس T_H_B A_Y_I S_E
+ٹھیلے T_H_B A_Y_I L_I A_Y_E
+ٹھیک T_H_B I_I1_I K_E
+ٹھیکیدار T_H_B A_Y_I K_I A_Y_I D_D_I A_A_I R_E
+ٹیبلو T_B A_E1_I B_I L_I O_O_E
+ٹیلنٹ T_B A_E1_I L_I A_I N_I T_E
+ٹیلی T_B A_Y_I L_I I_I1_E
+ٹیلیفون T_B A_E1_I L_I I_I1_I F_I O_O_I N_E
+ٹیلیویژن T_B A_E1_I L_I I_I1_I V_I I_I1_I Z_Z_I A_I N_E
+ٹینک T_B A_E1_I N_I K_E
+ٹیوب T_B I_I J_I U_U_I B_E
+ٹیوشن T_B I_I J_I U_U_I S_H_I A_I N_E
+ٹیچر T_B I_I1_I T_S1_I A_I R_E
+ٹیچنگ T_B I_I1_I T_S1_I I_I N_G_E
+ٹیڑھا T_B A_Y_I R_R_H_I A_A_E
+ٹیڑھے T_B A_Y_I R_R_H_I A_Y_E
+ٹیکسیشن T_B A_E1_I K_I S_I A_Y_I S_H_I A_I N_E
+ٹیکنالوجی T_B A_E1_I K_I N_I A_A_I L_I O_O_I D_Z_I I_I1_E
+ٹیکنالوجیز T_B A_E1_I K_I N_I A_A_I L_I O_O_I D_Z_I I_I1_I Z_E
+ٹیکنیشنز T_B A_E1_I K_I N_I I_I1_I S_H_I A_I N_I Z_E
+پاؤڈر P_B A_I U_U_I D_I A_I R_E
+پائیدار P_B A_A_I A_Y_I D_D_I A_A_I R_E
+پائیریسی P_B A_A_I I_I1_I R_I A_Y_I S_I I_I1_E
+پارلر P_B A_A_I R_I L_I A_I R_E
+پارلیمانی P_B A_A_I R_I L_I I_I1_I M_I A_A_I N_I I_I1_E
+پارلیمنٹرین P_B A_A_I R_I L_I I_I1_I M_I A_I N_I T_I I_I R_I J_I A_I N_E
+پاس P_B A_A_I S_E
+پاسبان P_B A_A_I S_I B_I A_A_I N_E
+پاسداری P_B A_A_I S_I D_D_I A_A_I R_I I_I1_E
+پالمر P_B A_A_I L_I M_I A_I R_E
+پالیسی P_B A_A_I L_I I_I1_I S_I I_I1_E
+پالیسیوں P_B A_A_I L_I I_I1_I S_I I_I J_I O_O_N_E
+پانچ P_B A_A_I N_I T_S1_E
+پانچواں P_B A_A_I N_I T_S1_I V_I A_A_N_E
+پانچوں P_B A_A_I N_I T_S1_I O_O_N_E
+پانچویں P_B A_A_I N_I T_S1_I V_I I_I_N_E
+پانی P_B A_A_I N_I I_I1_E
+پانے P_B A_A_I N_I A_Y_E
+پاٹھک P_B A_A_I T_H_I A_I K_E
+پاک P_B A_A_I K_E
+پاکیزگی P_B A_A_I K_I I_I1_I Z_I G_I I_I1_E
+پایہ P_B A_A_I J_I A_A_E
+پبلشنگ P_B A_I B_I L_I I_I S_H_I I_I N_G_E
+پتھالوجسٹ P_B I_I T_D_H_I A_A_I L_I O_O_I D_Z_I I_I S_I T_E
+پتھر P_B A_I T_D_H_I T_D_H_I A_I R_E
+پتھروں P_B A_I T_D_H_I R_I O_O_N_E
+پتھری P_B A_I T_D_H_I R_I I_I1_E
+پتھریاں P_B A_I T_D_H_I R_I I_I J_I A_A_N_E
+پتھل P_B A_I T_D_H_I A_I L_E
+پتہ P_B A_I T_D_I T_D_I A_A_E
+پر P_B I_I R_E
+پرائیوٹائزیشن P_B A_I R_I A_A_I I_I1_I V_I I_I T_I A_A_I I_I Z_I A_Y_I S_H_I A_I N_E
+پرائیویسی P_B A_I R_I A_A_I I_I1_I V_I A_Y_I S_I I_I1_E
+پرائیویٹ P_B A_I R_I A_A_I I_I1_I V_I A_Y_I T_E
+پراجیکٹ P_B A_I R_I A_A_I D_Z_I A_E1_I K_I T_E
+پراسسنگ P_B A_I R_I A_A_I S_I A_I S_I I_I N_G_E
+پراسیس P_B A_I R_I A_A_I S_I A_E1_I S_E
+پراٹھا P_B A_I R_I A_A_I T_H_I A_A_E
+پراٹھے P_B A_I R_I A_A_I T_H_I A_Y_E
+پراچہ P_B A_I R_I A_A_I T_S1_I A_A_E
+پرتعیش P_B U_I R_I T_D_I A_I Y_I A_Y_I S_H_E
+پرتھوی P_B I_I R_I T_D_H_I I_I V_I I_I1_E
+پرجوش P_B U_I R_I D_Z_I O_O_I S_H_E
+پرخلوص P_B U_I R_I X_I U_I L_I U_U_I S_E
+پرخچے P_B A_I R_I A_I X_I T_S1_I A_Y_E
+پردھان P_B A_I R_I D_D_H_I A_A_I N_E
+پرزور P_B U_I R_I Z_I O_O_I R_E
+پرسش P_B U_I R_I S_I I_I S_H_E
+پرسوز P_B U_I R_I S_I O_O_I Z_E
+پرسکون P_B U_I R_I S_I U_I K_I U_U_I N_E
+پرفارم P_B A_I R_I F_I A_A_I M_E
+پرفارمنس P_B A_I R_I F_I A_A_I R_I M_I A_I N_I S_E
+پرلطف P_B U_I R_I L_I U_I T_D_I F_E
+پرنسپل P_B I_I R_I I_I N_I S_I I_I P_I A_I L_E
+پرنم P_B U_I R_I N_I A_I M_E
+پرنٹ P_B I_I R_I I_I N_I T_E
+پرنیا P_B U_I R_I A_I N_I I_I J_I A_A_E
+پروئیں P_B A_I R_I O_O_I A_Y_N_E
+پروا P_B I_I R_I V_I A_A_E
+پروجیکٹ P_B A_I R_I O_O_I D_Z_I A_E1_I K_I T_E
+پروسیسر P_B U_I R_I O_O_I S_I A_E1_I S_I A_I R_E
+پروسیسنگ P_B A_I R_I O_O_I S_I A_E1_I S_I I_I N_G_E
+پروفائل P_B A_I R_I O_O_I F_I A_A_I I_I L_E
+پروفیسر P_B A_I R_I O_O_I F_I A_E1_I S_I A_I R_E
+پروفیشنل P_B U_I R_I O_O_I F_I A_Y_I S_H_I N_I A_I L_E
+پروڈکٹیو P_B A_I R_I O_O_I D_I A_I K_I T_I I_I V_E
+پروگرام P_B A_I R_I O_O_I G_I A_I R_I A_A_I M_E
+پروگراموں P_B U_I R_I O_I G_I A_I R_I A_A_I M_I O_O_N_E
+پروگریسیو P_B A_I R_I O_O_I G_I A_I R_I A_E1_I S_I I_I1_I O_O_E
+پرویا P_B I_I R_I O_O_I J_I A_A_E
+پروین P_B I_I R_I A_I V_I I_I1_I N_E
+پرچم P_B A_I R_I T_S1_I A_I M_E
+پرچھائیاں P_B A_I R_I T_S_H_I A_A_I I_I J_I A_A_N_E
+پرچھائیں P_B A_I R_I T_S_H_I A_A_I I_I_N_E
+پرچہ P_B A_I R_I T_S1_I A_A_E
+پرچیاں P_B A_I R_I T_S1_I I_I J_I A_A_N_E
+پرچیز P_B A_I R_I T_S1_I A_Y_I Z_E
+پرکھا P_B A_I R_I K_H_I A_A_E
+پرکھے P_B A_I R_I K_H_I A_Y_E
+پرہجوم P_B U_I R_I H_I U_I D_Z_I U_U_I M_E
+پرہیز P_B A_I R_I H_I A_Y_I Z_E
+پریذیڈنٹ P_B A_I R_I A_E1_I Z_I I_I1_I D_I A_I N_I T_E
+پریس P_B R_I A_E1_I S_E
+پریشان P_B A_I R_I A_Y_I S_H_I A_A_I N_E
+پریشاں P_B A_I R_I A_Y_I S_H_I A_A_N_E
+پریشر P_B A_I R_I A_Y_I S_H_I A_I R_E
+پریمئر P_B R_I I_I M_I I_I A_I R_E
+پریوں P_B A_I R_I J_I O_O_N_E
+پستولیں P_B I_I S_I T_D_I O_I L_I A_Y_N_E
+پسماندہ P_B A_I S_I M_I A_A_I N_I D_D_I A_A_E
+پسند P_B A_I S_I A_I N_I D_D_E
+پلنٹی P_B A_I L_I A_I N_I T_I I_I1_E
+پلو P_B A_I L_I O_O_E
+پلڑا P_B A_I L_I R_R_I A_A_E
+پلڑے P_B A_I L_I R_R_I A_Y_E
+پلگ P_B A_I L_I A_I G_E
+پلیئر P_B A_I L_I A_Y_I A_I R_E
+پمفلٹ P_B A_I M_I F_I I_I L_I I_I T_E
+پن P_B I_I N_E
+پنج P_B A_I N_I D_Z_E
+پنجابی P_B A_I N_I D_Z_I A_A_I B_I I_I1_E
+پنجروں P_B A_I N_I D_Z_I A_I R_I O_O_N_E
+پنجرے P_B I_I N_I D_Z_I R_I A_Y_E
+پنجند P_B A_I N_I D_Z_I N_I A_I D_D_E
+پنجگانہ P_B A_I N_I D_Z_I G_I A_A_I N_I A_A_E
+پندرہ P_B A_I N_I D_D_I R_I A_A_E
+پنشنر P_B A_I N_I S_H_I N_I A_I R_E
+پنچولی P_B A_I N_I T_S1_I O_O_I L_I I_I1_E
+پنچھی P_B A_I N_I T_S_H_I I_I1_E
+پنکھا P_B A_I N_I K_H_I A_A_E
+پنکھڑی P_B A_I N_I K_H_I R_R_I I_I1_E
+پنکھے P_B A_I N_I K_H_I A_Y_E
+پنگھوڑے P_B I_I N_I G_H_I U_U_I R_R_I A_Y_E
+پنہاں P_B I_I N_I H_I A_A_N_E
+پوائنٹ P_B U_I V_I A_A_I I_I N_I T_E
+پوجا P_B U_U_I D_Z_I A_A_E
+پور P_B O_O_I R_E
+پورا P_B U_U_I R_I A_A_E
+پورے P_B U_U_I R_I A_Y_E
+پوشیدہ P_B O_O_I S_H_I I_I1_I D_D_I A_A_E
+پولیس P_B O_O_I L_I I_I1_I S_E
+پولیو P_B O_O_I L_I I_I1_I O_O_E
+پونچھ P_B O_O_I N_I T_S_H_E
+پونچھنے P_B U_U_I N_I T_S_H_I N_I A_Y_E
+پونے P_B O_I N_I A_Y_E
+پوٹھوہاری P_B O_I T_H_I O_O_I H_I A_A_I R_I I_I1_E
+پوچھ P_B U_U_I T_S_H_E
+پوچھا P_B U_U_I T_S_H_I A_A_E
+پوچھنے P_B U_U_I T_S_H_I N_I A_Y_E
+پوچھو P_B U_U_I T_S_H_I O_O_E
+پوچھوں P_B U_U_I T_S_H_I U_U_N_E
+پوچھی P_B U_U_I T_S_H_I I_I1_E
+پوچھیں P_B U_U_I T_S_H_I A_Y_N_E
+پوچھیے P_B U_U_I T_S_H_I I_I1_I A_Y_E
+پوچھے P_B U_U_I T_S_H_I A_Y_E
+پَلوں P_B A_I L_I O_O_N_E
+پُلوں P_B U_I L_I O_O_N_E
+پٹاخے P_B A_I T_I A_A_I X_I A_Y_E
+پٹرولیم P_B I_I T_I R_I O_O_I L_I I_I J_I A_I M_E
+پٹھان P_B A_I T_H_I A_A_I N_E
+پٹھو P_B I_I T_H_I T_H_I U_U_E
+پٹھوں P_B A_I T_H_I T_H_I O_O_N_E
+پٹھے P_B A_I T_H_I T_H_I A_Y_E
+پچ P_B I_I T_S1_E
+پچاس P_B A_I T_S1_I T_S1_I A_A_I S_E
+پچاسویں P_B A_I T_S1_I A_A_I S_I V_I A_Y_N_E
+پچز P_B I_I T_S1_I I_I Z_E
+پچھاڑ P_B A_I T_S_H_I A_A_I R_R_E
+پچھتر P_B A_I T_S_H_I A_I T_D_I T_D_I A_I R_E
+پچھلا P_B I_I T_S_H_I L_I A_A_E
+پچھلے P_B I_I T_S_H_I L_I A_Y_E
+پچیں P_B I_I T_S1_I T_S1_I A_Y_N_E
+پڑ P_B A_I R_R_E
+پڑا P_B U_I R_R_I A_A_E
+پڑاؤ P_B A_I R_R_I A_A_I O_O_E
+پڑتا P_B A_I R_R_I T_D_I A_A_E
+پڑدادا P_B A_I R_R_I D_D_I A_A_I D_D_I A_A_E
+پڑنے P_B A_I R_R_I N_I A_Y_E
+پڑوسی P_B A_I R_R_I O_O_I S_I I_I1_E
+پڑھئے P_B A_I R_R_H_I J_I A_Y_E
+پڑھائی P_B A_I R_R_H_I A_A_I I_I1_E
+پڑھائیں P_B A_I R_R_H_I A_A_I A_Y_N_E
+پڑھنے P_B A_I R_R_H_I N_I A_Y_E
+پڑھو P_B A_I R_R_H_I O_O_E
+پڑھوا P_B A_I R_R_H_I V_I A_A_E
+پڑھوں P_B A_I R_R_H_I U_U_N_E
+پڑھی P_B A_I R_R_H_I I_I1_E
+پڑھیں P_B A_I R_R_H_I A_Y_N_E
+پڑھے P_B A_I R_R_H_I A_Y_E
+پڑی P_B A_I R_R_I I_I1_E
+پڑیاں P_B A_I R_R_I J_I A_A_N_E
+پڑیں P_B A_I R_R_I A_Y_N_E
+پڑے P_B A_I R_R_I A_Y_E
+پژمردہ P_B A_I Z_Z_I M_I U_I R_I D_D_I A_A_E
+پکائے P_B A_I K_I A_A_I A_Y_E
+پکوڑوں P_B A_I K_I O_O_I R_R_I O_O_N_E
+پگڑی P_B A_I G_I R_R_I I_I1_E
+پگڑیاں P_B A_I G_I R_R_I I_I J_I A_A_N_E
+پگھل P_B I_I G_H_I A_I L_E
+پگھلا P_B I_I G_H_I L_I A_A_E
+پگھلی P_B I_I G_H_I L_I I_I1_E
+پھانسی P_H_B A_A_I N_I S_I I_I1_E
+پھاڑ P_H_B A_A_I R_R_E
+پھاہے P_H_B A_A_I H_I A_Y_E
+پھبتی P_H_B A_I B_I T_D_I I_I1_E
+پھدکتا P_H_B U_I D_D_I A_I K_I T_D_I A_A_E
+پھر P_H_B I_I R_E
+پھرتی P_H_B U_I R_I T_D_I I_I1_E
+پھسل P_H_B I_I S_I A_I L_E
+پھل P_H_B A_I L_E
+پھلوں P_H_B A_I L_I O_O_N_E
+پھلکی P_H_B U_I L_I K_I I_I1_E
+پھلیاں P_H_B A_I L_I J_I A_A_N_E
+پھنس P_H_B A_I N_I S_E
+پھنسی P_H_B A_I N_I S_I I_I1_E
+پھنسے P_H_B A_I N_I S_I A_Y_E
+پھوار P_H_B U_I V_I A_A_I R_E
+پھول P_H_B U_U_I L_E
+پھولدار P_H_B U_U_I L_I D_D_I A_A_I R_E
+پھونک P_H_B U_U_N_I K_E
+پھوپھے P_H_B U_U_I P_H_I A_Y_E
+پھوگ P_H_B O_O_I G_E
+پھٹ P_H_B A_I T_E
+پھپھو P_H_B U_I P_H_I P_H_I O_O_E
+پھپھوندی P_H_B A_I P_H_I U_U_I N_I D_D_I I_I1_E
+پھڑپھڑائے P_H_B A_I R_R_I P_H_I A_I R_R_I A_A_I A_Y_E
+پھیر P_H_B A_Y_I R_E
+پھیرتے P_H_B A_E1_I R_I T_D_I A_Y_E
+پھیرنے P_H_B A_Y_I R_I N_I A_Y_E
+پھیریں P_H_B A_Y_I R_I A_Y_N_E
+پھیل P_H_B A_E1_I L_E
+پھیلا P_H_B A_E1_I L_I A_A_E
+پھیلاؤ P_H_B A_E1_I L_I A_A_I O_O_E
+پھیلنے P_H_B A_E1_I L_I N_I A_Y_E
+پھیلیں P_H_B A_E1_I L_I A_Y_N_E
+پھینٹیں P_H_B A_Y_I N_I T_I A_Y_N_E
+پھینک P_H_B A_Y_I N_I K_E
+پھینکا P_H_B A_E_N_I K_I A_A_E
+پھیپھڑوں P_H_B A_Y_I P_H_I R_R_I O_O_N_E
+پھیپھڑے P_H_B A_Y_I P_H_I R_R_I A_Y_E
+پھیکا P_H_B I_I1_I K_I A_A_E
+پہ P_B A_Y_E
+پہاڑ P_B A_I H_I A_A_I R_R_E
+پہاڑوں P_B A_I H_I A_A_I R_R_I O_O_N_E
+پہاڑی P_B A_I H_I A_A_I R_R_I I_I1_E
+پہل P_B A_E_H_I H_I A_I L_E
+پہلا P_B A_E_H_I H_I L_I A_A_E
+پہلو P_B A_E_H_I H_I L_I U_U_E
+پہلوان P_B A_I H_I A_I L_I V_I A_A_I N_E
+پہلووں P_B A_E_H_I H_I L_I U_I V_I O_O_N_E
+پہلوٹھی P_B A_E_H_I H_I L_I O_O_I T_H_I I_I1_E
+پہلی P_B A_E_H_I H_I L_I I_I1_E
+پہلے P_B A_E_H_I H_I L_I A_Y_E
+پہنتے P_B A_E_H_I H_I A_I N_I T_D_I A_Y_E
+پہنچ P_B A_I H_I U_I N_I T_S1_E
+پہنچا P_B A_I H_I U_I N_I T_S1_I A_A_E
+پہنچاؤں P_B O_O_H_I H_I N_I T_S1_I A_A_I U_U_N_E
+پہنچائیں P_B A_I H_I N_I T_S1_I A_A_I A_Y_N_E
+پہنچایا P_B O_O_H_I H_I N_I T_S1_I A_A_I J_I A_A_E
+پہنچتے P_B A_I H_I U_I N_I T_S1_I A_I T_D_I A_Y_E
+پہنچنے P_B A_I H_I U_I N_I T_S1_I N_I A_Y_E
+پہنچوں P_B U_I H_I N_I T_S1_I U_U_N_E
+پہنچی P_B O_O_H_I H_I N_I T_S1_I I_I1_E
+پہنچیں P_B A_I H_I A_I N_I T_S1_I A_Y_N_E
+پہنے P_B A_E_H_I H_I N_I A_Y_E
+پہچان P_B A_I H_I T_S1_I A_A_I N_E
+پہچانے P_B A_E_H_I H_I T_S1_I A_A_I N_I A_Y_E
+پی P_B I_I1_E
+پیئں P_B I_I1_I A_Y_N_E
+پیتھالوجی P_B A_E1_I T_D_H_I A_A_I L_I O_O_I D_Z_I I_I1_E
+پیدا P_B A_E1_I D_D_I A_A_E
+پیدائش P_B A_E1_I D_D_I A_A_I I_I S_H_E
+پیداوار P_B A_E1_I D_D_I A_A_I V_I A_A_I R_E
+پیر P_B I_I1_I R_E
+پیراتھرائیڈ P_B A_E1_I R_I A_A_I T_D_H_I A_I R_I A_A_I I_I1_I D_E
+پیروکار P_B A_E1_I R_I O_I K_I A_A_I R_E
+پیروکاروں P_B A_E1_I R_I O_O_I K_I A_A_I R_I O_O_N_E
+پیروں P_B A_E1_I R_I O_O_N_E
+پیروی P_B A_E1_I R_I V_I I_I1_E
+پیریڈ P_B I_I1_I R_I J_I A_I D_E
+پیسنے P_B I_I1_I S_I N_I A_Y_E
+پیش P_B A_Y_I S_H_E
+پیشاب P_B A_Y_I S_H_I A_A_I B_E
+پیشرفت P_B A_Y_I S_H_I R_I A_I F_I T_D_E
+پیشرو P_B A_Y_I S_H_I R_I O_E
+پیشروؤں P_B A_Y_I S_H_I R_I O_O_I O_O_N_E
+پیشقدمی P_B A_Y_I S_H_I Q_I A_I D_D_I M_I I_I1_E
+پیشن P_B A_Y_I S_H_I A_I N_E
+پیشنگوئی P_B A_Y_I S_H_I I_I N_I G_I O_O_I I_I1_E
+پیشوا P_B A_Y_I S_H_I V_I A_A_E
+پیشکش P_B A_Y_I S_H_I K_I A_I S_H_E
+پیشکشوں P_B A_Y_I S_H_I K_I A_I S_H_I O_O_N_E
+پیشکشیں P_B A_Y_I S_H_I K_I A_I S_H_I A_Y_N_E
+پیشگوئیاں P_B A_Y_I S_H_I G_I O_O_I I_I J_I A_A_N_E
+پیشگی P_B A_Y_I S_H_I G_I I_I1_E
+پیشے P_B A_Y_I S_H_I A_Y_E
+پیغام P_B A_E1_I G_G_I A_A_I M_E
+پیغمبر P_B A_E1_I G_G_I A_I M_I B_I A_I R_E
+پینسٹھ P_B A_Y_I N_I S_I A_I T_H_E
+پیٹ P_B A_Y_I T_E
+پیٹھ P_B A_E1_I T_H_E
+پیچوٹری P_B A_Y_I T_S1_I O_O_I T_I R_I I_I1_E
+پیچھا P_B I_I1_I T_S_H_I A_A_E
+پیچھے P_B I_I1_I T_S_H_I A_Y_E
+پیچیدگیوں P_B A_E1_I T_S1_I I_I1_I D_D_I I_I G_I I_I1_I O_O_N_E
+پیچیدہ P_B A_Y_I T_S1_I I_I1_I D_D_I A_A_E
+پیڑی P_B I_I1_I R_R_I I_I1_E
+پیکج P_B A_E1_I K_I I_I D_Z_E
+پیہم P_B A_E1_I H_I A_I M_E
+چئر T_S1_B I_I A_I R_E
+چئرمین T_S1_B I_I A_I R_I M_I A_E1_I N_E
+چائلڈ T_S1_B A_A_I I_I L_I D_E
+چائے T_S1_B A_A_I A_Y_E
+چابی T_S1_B A_A_I B_I I_I1_E
+چادر T_S1_B A_A_I D_D_I A_I R_E
+چار T_S1_B A_A_I R_E
+چارجز T_S1_B A_A_I R_I D_Z_I I_I Z_E
+چاشنی T_S1_B A_A_I S_H_I N_I I_I1_E
+چاق T_S1_B A_A_I Q_E
+چاقو T_S1_B A_A_I Q_I U_U_E
+چالیس T_S1_B A_A_I L_I I_I1_I S_E
+چانپ T_S1_B A_A_I M_I P_E
+چاول T_S1_B A_A_I V_I A_I L_E
+چاچو T_S1_B A_A_I T_S1_I U_U_E
+چاچڑ T_S1_B A_A_I T_S1_I A_I R_R_E
+چاڈ T_S1_B A_A_I D_E
+چاہئے T_S1_B A_A_I H_I I_I1_I A_Y_E
+چاہتے T_S1_B A_A_I H_I T_D_I A_Y_E
+چاہوں T_S1_B A_A_I H_I U_U_N_E
+چاہیے T_S1_B A_A_I H_I I_I J_I A_Y_E
+چاہے T_S1_B A_A_I H_I A_Y_E
+چبا T_S1_B A_I B_I A_A_E
+چبھ T_S1_B U_I B_H_E
+چبھنے T_S1_B U_I B_H_I N_I A_Y_E
+چدھڑ T_S1_B A_I D_D_H_I D_D_H_I A_I R_R_E
+چراغ T_S1_B A_I R_I A_A_I G_G_E
+چراغاں T_S1_B A_I R_I A_A_I G_G_I A_A_N_E
+چرانے T_S1_B A_I R_I A_A_I N_I A_Y_E
+چست T_S1_B U_I S_I T_D_E
+چشتی T_S1_B I_I S_H_I T_D_I I_I1_E
+چشم T_S1_B A_I S_H_I M_E
+چغتائی T_S1_B U_I G_G_I T_D_I A_A_I I_I1_E
+چغلی T_S1_B U_I G_G_I L_I I_I1_E
+چقندر T_S1_B U_I Q_I A_I N_I D_D_I A_I R_E
+چل T_S1_B I_I L_E
+چلا T_S1_B A_I L_I L_I A_A_E
+چلائی T_S1_B A_I L_I A_A_I I_I1_E
+چلائیں T_S1_B A_I L_I A_A_I A_Y_N_E
+چلغوزے T_S1_B I_I L_I G_G_I O_O_I Z_I A_Y_E
+چلنے T_S1_B A_I L_I N_I A_Y_E
+چلو T_S1_B A_I L_I O_O_E
+چلوں T_S1_B A_I L_I L_I O_O_N_E
+چلچلاتی T_S1_B I_I L_I T_S1_I I_I L_I A_A_I T_D_I I_I1_E
+چلیں T_S1_B A_I L_I A_Y_N_E
+چلے T_S1_B A_I L_I L_I A_Y_E
+چمن T_S1_B A_I M_I A_I N_E
+چمٹے T_S1_B I_I M_I T_I A_Y_E
+چمچ T_S1_B A_I M_I M_I A_I T_S1_E
+چمچہ T_S1_B A_I M_I T_S1_I A_A_E
+چمچے T_S1_B A_I M_I T_S1_I A_Y_E
+چمڑا T_S1_B A_I M_I R_R_I A_A_E
+چمڑے T_S1_B A_I M_I R_R_I A_Y_E
+چنانچہ T_S1_B U_I N_I A_A_I N_I T_S1_I A_Y_E
+چند T_S1_B A_I N_I D_D_E
+چندھیا T_S1_B U_I N_I D_D_H_I J_I A_A_E
+چنگ T_S1_B A_I N_G_E
+چنگل T_S1_B U_I N_G_I G_I A_I L_E
+چنگیزی T_S1_B A_I N_G_I G_I A_Y_I Z_I I_I1_E
+چنیوٹی T_S1_B I_I N_I J_I O_O_I T_I I_I1_E
+چوائس T_S1_B U_I V_I A_A_I I_I S_E
+چوالیس T_S1_B A_I V_I A_A_I L_I I_I1_I S_E
+چوبند T_S1_B O_I B_I A_I N_I D_D_E
+چوبیس T_S1_B O_O_I B_I I_I1_I S_E
+چوتھا T_S1_B O_I T_D_H_I A_A_E
+چوتھی T_S1_B O_O_I T_D_H_I I_I1_E
+چوتھے T_S1_B O_O_I T_D_H_I A_Y_E
+چودھرائن T_S1_B O_I D_D_H_I R_I A_A_I I_I N_E
+چودھری T_S1_B O_I D_D_H_I R_I I_I1_E
+چودہ T_S1_B O_I D_D_I A_A_E
+چور T_S1_B O_O_I R_E
+چورنگی T_S1_B O_I R_I A_I N_G_I G_I I_I1_E
+چوروں T_S1_B O_O_I R_I O_O_N_E
+چوری T_S1_B O_O_I R_I I_I1_E
+چوزوں T_S1_B U_U_I Z_I O_O_N_E
+چوزے T_S1_B U_U_I Z_I A_Y_E
+چوسنے T_S1_B U_U_I S_I N_I A_Y_E
+چولہے T_S1_B O_I L_I H_I A_Y_E
+چولی T_S1_B O_O_I L_I I_I1_E
+چوم T_S1_B U_U_I M_E
+چون T_S1_B U_U_I N_E
+چونتیس T_S1_B O_O_N_I T_D_I I_I1_I S_E
+چونسٹھ T_S1_B O_N_I S_I A_I T_H_E
+چونچلے T_S1_B O_O_I N_I T_S1_I L_I A_Y_E
+چونکا T_S1_B O_I N_I K_I A_A_E
+چونکہ T_S1_B U_U_N_I K_I A_Y_E
+چونگی T_S1_B U_U_N_I G_I I_I1_E
+چوڑا T_S1_B O_I R_R_I A_A_E
+چوڑی T_S1_B O_I R_R_I I_I1_E
+چوڑیاں T_S1_B U_U_I R_R_I J_I A_A_N_E
+چوک T_S1_B O_I K_E
+چوکھٹ T_S1_B O_O_I K_H_I A_I T_E
+چوگنی T_S1_B O_I G_I N_I I_I1_E
+چوہان T_S1_B O_I H_I A_A_I N_E
+چوہدری T_S1_B O_I H_I D_D_I R_I I_I1_E
+چوہوں T_S1_B O_I H_I O_O_N_E
+چوہیا T_S1_B O_I H_I I_I1_I A_A_E
+چوہے T_S1_B U_U_I H_I A_Y_E
+چَھپ T_S_H_B A_I P_E
+چُھپ T_S_H_B U_I P_E
+چچا T_S1_B A_I T_S1_I A_A_E
+چڈا T_S1_B A_I D_I D_I A_A_E
+چڑ T_S1_B I_I R_R_E
+چڑوں T_S1_B I_I R_R_I U_U_N_E
+چڑچڑا T_S1_B I_I R_R_I T_S1_I I_I R_R_I A_A_E
+چڑچڑے T_S1_B I_I R_R_I T_S1_I I_I R_R_I A_Y_E
+چڑھ T_S1_B A_I R_R_H_E
+چڑھاؤ T_S1_B A_I R_R_H_I A_A_I O_O_E
+چڑیا T_S1_B I_I R_R_I J_I A_A_E
+چڑیل T_S1_B A_I R_R_I J_I A_I L_E
+چکاچوند T_S1_B A_I K_I A_A_I T_S1_I O_I N_I D_D_E
+چکھیں T_S1_B A_I K_I K_H_I A_Y_N_E
+چکے T_S1_B U_I K_I A_Y_E
+چگنے T_S1_B U_I G_I N_I A_Y_E
+چھ T_S_H_B A_Y_E
+چھاؤنی T_S_H_B A_I U_U_I N_I I_I1_E
+چھاؤنیاں T_S_H_B A_A_I O_O_I N_I I_I J_I A_A_N_E
+چھاؤں T_S_H_B A_A_I O_O_N_E
+چھائی T_S_H_B A_A_I I_I1_E
+چھائیاں T_S_H_B A_A_I I_I J_I A_A_N_E
+چھائے T_S_H_B A_A_I A_Y_E
+چھابڑی T_S_H_B A_A_I B_I R_R_I I_I1_E
+چھالے T_S_H_B A_A_I L_I A_Y_E
+چھانٹ T_S_H_B A_A_I N_I T_E
+چھانگا T_S_H_B A_A_I N_G_I G_I A_A_E
+چھاپہ T_S_H_B A_A_I P_I A_A_E
+چھاچھ T_S_H_B A_A_I T_S_H_E
+چھایا T_S_H_B A_A_I J_I A_A_E
+چھبیس T_S_H_B A_I B_I B_I I_I1_I S_E
+چھری T_S_H_B U_I R_I I_I1_E
+چھلکا T_S_H_B I_I L_I K_I A_A_E
+چھلکے T_S_H_B A_I L_I K_I A_Y_E
+چھم T_S_H_B A_I M_E
+چھن T_S_H_B A_I N_E
+چھوئیں T_S_H_B U_U_I A_Y_N_E
+چھوئے T_S_H_B U_U_I A_Y_E
+چھوا T_S_H_B U_I V_I A_A_E
+چھور T_S_H_B O_O_I R_E
+چھولے T_S_H_B O_O_I L_I A_Y_E
+چھوٹے T_S_H_B O_O_I T_I A_Y_E
+چھوڑ T_S_H_B O_O_I R_R_E
+چھوڑنے T_S_H_B O_O_I R_R_I N_I A_Y_E
+چھوڑوں T_S_H_B O_O_I R_R_I U_U_N_E
+چھوڑیں T_S_H_B O_O_I R_R_I A_Y_N_E
+چھوہارے T_S_H_B U_U_I H_I A_A_I R_I A_Y_E
+چھٹی T_S_H_B A_I T_I T_I I_I1_E
+چھپوائیں T_S_H_B A_I P_I V_I A_A_I A_Y_N_E
+چھڑ T_S_H_B A_I R_R_E
+چھڑا T_S_H_B I_I R_R_I A_A_E
+چھڑانے T_S_H_B U_I R_R_I A_A_I N_I A_Y_E
+چھڑنے T_S_H_B I_I R_R_I N_I A_Y_E
+چھڑک T_S_H_B I_I R_R_I A_I K_E
+چھڑی T_S_H_B I_I R_R_I I_I1_E
+چھڑیاں T_S_H_B A_I R_R_I I_I J_I A_A_N_E
+چھہتر T_S_H_B A_Y_I H_I A_I T_D_I T_D_I A_I R_E
+چھیاسیویں T_S_H_B A_I J_I A_A_I S_I I_I1_I V_I A_Y_N_E
+چھیانوے T_S_H_B I_I J_I A_A_I N_I V_I A_Y_E
+چھید T_S_H_B A_Y_I D_D_E
+چھیل T_S_H_B I_I1_I L_E
+چھیلنے T_S_H_B I_I1_I L_I N_I A_Y_E
+چھین T_S_H_B I_I1_I N_E
+چھینکیں T_S_H_B I_I_N_I K_I A_Y_N_E
+چھینی T_S_H_B I_I1_I N_I I_I1_E
+چھیڑ T_S_H_B A_Y_I R_R_E
+چھیڑنے T_S_H_B A_Y_I R_R_I N_I A_Y_E
+چہارم T_S1_B A_I H_I A_A_I R_I U_I M_E
+چہروں T_S1_B A_Y_H_I H_I R_I O_O_N_E
+چہرے T_S1_B A_Y_H_I H_I R_I A_Y_E
+چہل T_S1_B A_E_H_I H_I L_E
+چہلم T_S1_B A_Y_H_I H_I L_I A_I M_E
+چہچہاہٹ T_S1_B A_E_H_I H_I T_S1_I A_I H_I A_A_I H_I A_I T_E
+چیئرمین T_S1_B A_Y_I A_I R_I M_I A_E1_I N_E
+چیتھڑے T_S1_B I_I1_I T_D_H_I R_R_I A_Y_E
+چیخ T_S1_B I_I1_I X_E
+چیخنے T_S1_B I_I1_I X_I N_I A_Y_E
+چیخیں T_S1_B I_I1_I X_I A_Y_N_E
+چیر T_S1_B I_I1_I R_E
+چیریٹی T_S1_B A_E1_I R_I I_I1_I T_I I_I1_E
+چیز T_S1_B I_I1_I Z_E
+چیزیں T_S1_B I_I1_I Z_I A_Y_N_E
+چیسٹ T_S1_B A_E1_I S_I T_E
+چیف T_S1_B I_I1_I F_E
+چیفس T_S1_B I_I1_I F_I S_E
+چیل T_S1_B I_I1_I L_E
+چیلنج T_S1_B A_E1_I L_I A_I N_I D_Z_E
+چیلنجز T_S1_B A_E1_I L_I A_I N_I D_Z_I I_I Z_E
+چیلنجوں T_S1_B A_E1_I L_I A_I N_I D_Z_I O_O_N_E
+چیلہ T_S1_B A_Y_I L_I A_A_E
+چیمپئن T_S1_B A_E1_I M_I P_I I_I A_I N_E
+چیمپئینز T_S1_B A_E1_I M_I P_I I_I A_I N_I Z_E
+چیمہ T_S1_B I_I1_I M_I A_A_E
+چین T_S1_B A_E1_I N_E
+چینی T_S1_B I_I1_I N_I I_I1_E
+چیونگم T_S1_B I_I J_I U_U_I N_G_I G_I A_I M_E
+چیچن T_S1_B A_E1_I T_S1_I A_I N_E
+چیچک T_S1_B I_I1_I T_S1_I A_I K_E
+چیڑھ T_S1_B I_I1_I R_R_H_E
+چیک T_S1_B I_I1_I K_E
+ڈاؤن D_B A_A_I U_U_I N_E
+ڈائرکٹر D_B A_A_I A_Y_I R_I A_I K_I T_I A_I R_E
+ڈائریکٹ D_B A_A_I A_Y_I R_I A_E1_I K_I T_E
+ڈائریکٹر D_B A_A_I I_I R_I A_E1_I K_I T_I A_I R_E
+ڈائنو D_B A_A_I I_I1_I N_I O_O_E
+ڈائیلوشن D_B A_A_I I_I1_I L_I O_O_I S_H_I A_I N_E
+ڈائینوسارز D_B A_A_I I_I1_I N_I O_O_I S_I A_A_I R_I Z_E
+ڈائیگرام D_B A_A_I I_I1_I G_I A_I R_I A_A_I M_E
+ڈاج D_B A_A_I D_Z_E
+ڈار D_B A_A_I R_E
+ڈال D_B A_A_I L_E
+ڈالتے D_B A_A_I L_I T_D_I A_Y_E
+ڈالر D_B A_A_I L_I A_I R_E
+ڈالنے D_B A_A_I L_I N_I A_Y_E
+ڈالوں D_B A_A_I L_I O_O_N_E
+ڈالیں D_B A_A_I L_I A_Y_N_E
+ڈام D_B A_A_I M_E
+ڈانس D_B A_A_I N_I S_E
+ڈاٹ D_B A_A_I T_E
+ڈاکوؤں D_B A_A_I K_I U_U_I O_O_N_E
+ڈاگ D_B A_A_I G_E
+ڈاہا D_B A_A_I H_I A_A_E
+ڈبلیو D_B A_I B_I L_I I_I J_I U_U_E
+ڈبو D_B A_I B_I O_O_E
+ڈبوئیں D_B A_I B_I O_O_I A_Y_N_E
+ڈبہ D_B A_I B_I B_I A_A_E
+ڈراؤنی D_B A_I R_I A_I O_O_I N_I I_I1_E
+ڈرائینگ D_B A_I R_I A_A_I I_I1_I N_G_E
+ڈرائیونگ D_B A_I R_I A_A_I I_I1_I V_I I_I N_G_E
+ڈرامہ D_B A_I R_I A_A_I M_I A_A_E
+ڈراپ D_B I_I R_I A_A_I P_E
+ڈرل D_B I_I1_I R_I I_I L_E
+ڈزاسٹر D_B I_I Z_I A_A_I S_I T_I A_I R_E
+ڈسٹرکٹ D_B I_I S_I T_I I_I R_I I_I K_I T_E
+ڈسچارج D_B I_I S_I T_S1_I A_A_I R_I D_Z_E
+ڈسکوری D_B I_I S_I K_I A_I V_I R_I I_I1_E
+ڈنگ D_B A_I N_G_E
+ڈوب D_B U_U_I B_E
+ڈور D_B O_O_I R_E
+ڈوریں D_B O_O_I R_I A_Y_N_E
+ڈول D_B O_O_I L_E
+ڈومیسٹک D_B O_O_I M_I A_E1_I S_I T_I I_I K_E
+ڈومین D_B U_U_I M_I A_Y_I N_E
+ڈونرز D_B O_O_I N_I A_I R_I Z_E
+ڈونگا D_B O_O_I N_G_I G_I A_A_E
+ڈوڈیاں D_B O_O_I D_I I_I J_I A_A_N_E
+ڈوگر D_B O_O_I G_I A_I R_E
+ڈویژن D_B A_I V_I I_I1_I Z_Z_I A_I N_E
+ڈویژنل D_B I_I V_I I_I1_I Z_Z_I N_I A_I L_E
+ڈپلومیسی D_B I_I P_I L_I O_O_I M_I A_Y_I S_I I_I1_E
+ڈچ D_B I_I T_S1_E
+ڈکٹیشن D_B I_I K_I T_I A_Y_I S_H_I A_I N_E
+ڈگر D_B A_I G_I A_I R_E
+ڈگری D_B I_I G_I R_I I_I1_E
+ڈھا D_H_B A_A_E
+ڈھائی D_H_B A_A_I I_I1_E
+ڈھابے D_H_B A_A_I B_I A_Y_E
+ڈھارس D_H_B A_A_I R_I A_I S_E
+ڈھال D_H_B A_A_I L_E
+ڈھانپ D_H_B A_A_I M_I P_E
+ڈھانچے D_H_B A_A_I N_I T_S1_I A_Y_E
+ڈھب D_H_B A_I B_E
+ڈھل D_H_B A_I L_E
+ڈھلک D_H_B A_I L_I A_I K_E
+ڈھنڈورا D_H_B A_I N_I D_I O_O_I R_I A_A_E
+ڈھنگ D_H_B A_I N_G_E
+ڈھول D_H_B O_O_I L_E
+ڈھونڈ D_H_B U_U_I N_I D_E
+ڈھونڈھ D_H_B U_U_I N_I D_H_E
+ڈھونڈیں D_H_B U_U_I N_I D_I A_Y_N_E
+ڈھونگ D_H_B O_O_I N_G_E
+ڈھیر D_H_B A_Y_I R_E
+ڈھیلا D_H_B I_I1_I L_I A_A_E
+ڈھیلے D_H_B A_Y_I L_I A_Y_E
+ڈھینچوں D_H_B A_E_N_I T_S1_I U_U_N_E
+ڈھے D_H_B A_E1_E
+ڈی D_B I_I1_E
+ڈیبٹ D_B A_E1_I B_I T_E
+ڈیبیٹ D_B I_I1_I B_I A_Y_I T_E
+ڈیتھ D_B A_E1_I T_D_H_E
+ڈیجیٹل D_B I_I1_I D_Z_I I_I1_I T_I A_I L_E
+ڈیرے D_B A_Y_I R_I A_Y_E
+ڈیزائن D_B I_I1_I Z_I A_A_I I_I N_E
+ڈیزائنروں D_B I_I1_I Z_I A_A_I I_I N_I R_I O_O_N_E
+ڈیزاسٹر D_B I_I1_I Z_I A_A_I S_I T_I A_I R_E
+ڈیزرٹ D_B A_E1_I Z_I A_I R_I T_E
+ڈیسک D_B A_E1_I S_I K_E
+ڈیش D_B A_E1_I S_H_E
+ڈیف D_B A_E1_I F_E
+ڈیفنس D_B I_I1_I F_I A_I N_I S_E
+ڈیل D_B A_E1_I L_E
+ڈیلروں D_B I_I1_I L_I A_I R_I O_O_N_E
+ڈیلی D_B A_Y_I L_I I_I1_E
+ڈیلیوری D_B I_I1_I L_I I_I1_I V_I R_I I_I1_E
+ڈیم D_B A_E1_I M_E
+ڈیمانڈ D_B I_I1_I M_I A_A_I N_I D_E
+ڈیمو D_B A_Y_I M_I O_O_E
+ڈینٹل D_B A_E1_I N_I T_I A_I L_E
+ڈیوڈ D_B I_I J_I U_U_I D_E
+ڈیوڑھی D_B I_I1_I O_O_I R_R_H_I I_I1_E
+ڈیویلپر D_B I_I1_I V_I A_E1_I L_I A_I P_I A_I R_E
+ڈیویلپمنٹ D_B I_I1_I V_I A_E1_I L_I P_I M_I A_I N_I T_E
+ڈیپریشن D_B I_I1_I P_I R_I A_E1_I S_H_I A_I N_E
+ڈیڈ D_B A_E1_I D_E
+ڈیڑھ D_B A_Y_I R_R_H_E
+ڈیکلریشن D_B A_E1_I K_I L_I A_I R_I A_Y_I S_H_I A_I N_E
+ڈے D_B A_Y_E
+ژنگ Z_Z_B A_I N_G_E
+کئی K_B A_I I_I1_E
+کئے K_B I_I A_Y_E
+کا K_B A_A_E
+کاؤنٹی K_B A_A_I U_I N_I T_I I_I1_E
+کاؤچ K_B A_A_I U_U_I T_S1_E
+کاجو K_B A_A_I D_Z_I U_U_E
+کار K_B A_A_I R_E
+کاربن K_B A_A_I R_I B_I A_I N_E
+کارخانے K_B A_A_I R_I X_I A_A_I N_I A_Y_E
+کارخیر K_B A_A_I R_I A_Y_I X_I A_E1_I R_E
+کاروائی K_B A_A_I R_I V_I A_A_I I_I1_E
+کاروائیوں K_B A_A_I R_I V_I A_A_I I_I1_I O_O_N_E
+کاروبار K_B A_A_I R_I O_O_I B_I A_A_I R_E
+کارپوریشن K_B A_A_I R_I P_I O_O_I R_I A_Y_I S_H_I A_I N_E
+کارکردگی K_B A_A_I R_I K_I A_I R_I D_D_I A_I G_I I_I1_E
+کاشف K_B A_A_I S_H_I I_I F_E
+کاشمیری K_B A_A_I S_H_I M_I I_I1_I R_I I_I1_E
+کاغذ K_B A_A_I G_G_I A_I Z_E
+کاغذات K_B A_A_I G_G_I Z_I A_A_I T_D_E
+کافور K_B A_A_I F_I U_U_I R_E
+کافی K_B A_A_I F_I I_I1_E
+کالج K_B A_A_I L_I I_I D_Z_E
+کالجز K_B A_A_I L_I I_I D_Z_I I_I Z_E
+کالجوں K_B A_A_I L_I I_I D_Z_I O_O_N_E
+کالز K_B A_A_I L_I Z_E
+کالونی K_B A_A_I L_I U_U_I N_I I_I1_E
+کام K_B A_A_I M_E
+کامیاب K_B A_A_I M_I J_I A_A_I B_E
+کامیابیوں K_B A_A_I M_I J_I A_A_I B_I I_I1_I O_O_N_E
+کامیڈی K_B A_A_I M_I A_Y_I D_I I_I1_E
+کانجو K_B A_A_I N_I D_Z_I U_U_E
+کانجی K_B A_A_I N_I D_Z_I I_I1_E
+کاندھلوی K_B A_A_I N_I D_D_H_I A_I L_I A_I V_I I_I1_E
+کانفرنس K_B A_A_I N_I F_I A_I R_I I_I N_I S_E
+کانفرنسوں K_B A_A_I N_I F_I A_I R_I I_I N_I S_I O_O_N_E
+کانووکیشن K_B A_A_I N_I V_I U_U_I K_I A_Y_I S_H_I A_I N_E
+کانگرس K_B A_A_I N_G_I R_I A_I S_E
+کانگریس K_B A_A_I N_G_I R_I A_Y_I S_E
+کاکلیں K_B A_A_I K_I U_I L_I A_Y_N_E
+کب K_B U_I B_E
+کبوتر K_B A_I B_I U_U_I T_D_I A_I R_E
+کبڈی K_B A_I B_I A_I D_I D_I I_I1_E
+کبھی K_B A_I B_H_I I_I1_E
+کبیر K_B A_I B_I I_I1_I R_E
+کتابچہ K_B I_I T_D_I A_A_I B_I T_S1_I A_A_E
+کتابچے K_B I_I T_D_I A_A_I B_I T_S1_I A_Y_E
+کتابیں K_B I_I T_D_I A_A_I B_I A_Y_N_E
+کتھا K_B A_I T_D_H_I A_A_E
+کثرت K_B A_I S_I R_I A_I T_D_E
+کثیرالقومی K_B A_I S_I I_I1_I R_I U_I L_I Q_I O_I M_I I_I1_E
+کر K_B A_I R_E
+کرا K_B A_I R_I A_A_E
+کراؤں K_B A_I R_I A_A_I U_U_N_E
+کرائی K_B A_I R_I A_A_I I_I1_E
+کرائیں K_B A_I R_I A_A_I I_I_N_E
+کرائے K_B I_I R_I A_A_I A_Y_E
+کرایا K_B A_I R_I A_A_I J_I A_A_E
+کرایوں K_B I_I R_I A_A_I J_I O_O_N_E
+کرتا K_B U_I R_I T_D_I A_A_E
+کرتی K_B U_I R_I T_D_I I_I1_E
+کرتے K_B U_I R_I T_D_I A_Y_E
+کردار K_B I_I R_I D_D_I A_A_I R_E
+کرشنگ K_B A_I R_I A_I S_H_I I_I N_G_E
+کرفیو K_B A_I R_I F_I I_I J_I U_U_E
+کرم K_B U_I R_I A_I M_E
+کرنا K_B A_I R_I N_I A_A_E
+کرنے K_B A_I R_I N_I A_Y_E
+کرو K_B A_I R_I O_O_E
+کروا K_B A_I R_I V_I A_A_E
+کرواؤ K_B A_I R_I V_I A_A_I O_O_E
+کروائیں K_B A_I R_I V_I A_A_I A_Y_N_E
+کروانے K_B A_I R_I V_I A_A_I N_I A_Y_E
+کروفر K_B A_I R_I R_I O_O_I F_I A_I R_E
+کروموسوم K_B O_O_I R_I O_O_I M_I O_O_I S_I O_O_I M_E
+کروڈ K_B U_I R_I U_U_I D_E
+کروڑ K_B A_I R_I O_O_I R_R_E
+کروڑوں K_B A_I R_I O_O_I R_R_I O_O_N_E
+کروں K_B U_I R_I R_I O_O_N_E
+کرکے K_B U_I R_I K_I A_Y_E
+کریش K_B A_I R_I A_E1_I S_H_E
+کریم K_B A_I R_I I_I1_I M_E
+کریو K_B A_I R_I J_I U_U_E
+کریں K_B A_I R_I A_Y_N_E
+کرے K_B A_I R_I R_I A_Y_E
+کس K_B I_I S_E
+کسوں K_B A_I S_I U_U_N_E
+کسی K_B A_I S_I S_I I_I1_E
+کسے K_B A_I S_I S_I A_Y_E
+کشف K_B A_I S_H_I F_E
+کشمیری K_B A_I S_H_I M_I I_I1_I R_I I_I1_E
+کفار K_B U_I F_I F_I A_A_I R_E
+کفالت K_B I_I F_I A_A_I L_I A_I T_D_E
+کفایت K_B I_I F_I A_A_I J_I A_I T_D_E
+کفر K_B U_I F_I R_E
+کلاسز K_B I_I L_I A_A_I S_I I_I Z_E
+کلاشنکوفیں K_B I_I L_I A_A_I S_H_I A_I N_I K_I O_O_I F_I A_Y_N_E
+کلاں K_B A_I L_I A_A_N_E
+کلثوم K_B U_I L_I S_I U_U_I M_E
+کلراٹھی K_B A_I L_I R_I A_A_I T_H_I I_I1_E
+کلو K_B I_I L_I O_O_E
+کلوز K_B A_I L_I O_O_I Z_E
+کلومیٹر K_B I_I L_I O_O_I M_I I_I1_I T_I A_I R_E
+کلونجی K_B A_I L_I O_I N_I D_Z_I I_I1_E
+کلوننگ K_B A_I L_I O_O_I N_I I_I N_G_E
+کلچر K_B A_I L_I T_S1_I A_I R_E
+کلی K_B U_I L_I L_I I_I1_E
+کلیئر K_B A_I L_I I_I1_I A_I R_E
+کلیجی K_B A_I L_I A_Y_I D_Z_I I_I1_E
+کلیدی K_B A_I L_I I_I1_I D_D_I I_I1_E
+کلیرنس K_B A_I L_I I_I1_I R_I A_I N_I S_E
+کلیرنگ K_B A_I L_I A_E1_I R_I I_I N_G_E
+کلیم K_B A_I L_I A_Y_I M_E
+کم K_B A_I M_E
+کماحقہ K_B A_I M_I A_A_I H_I A_I Q_I Q_I U_I H_I U_U_E
+کمروں K_B A_I M_I R_I O_O_N_E
+کمرے K_B A_I M_I R_I A_Y_E
+کمزور K_B A_I M_I Z_I O_O_I R_E
+کمسن K_B A_I M_I S_I I_I N_E
+کمشنر K_B A_I M_I I_I S_H_I N_I A_I R_E
+کموڈور K_B A_I M_I O_O_I D_I O_O_I R_E
+کمپنی K_B A_I M_I P_I A_I N_I I_I1_E
+کمپنیوں K_B A_I M_I P_I A_I N_I I_I1_I O_O_N_E
+کمپیرنگ K_B A_I M_I P_I I_I1_I R_I I_I N_G_E
+کمپیوٹرائزڈ K_B A_I M_I P_I I_I J_I U_U_I T_I A_I R_I A_A_I I_I Z_I D_E
+کمیشن K_B A_I M_I I_I1_I S_H_I A_I N_E
+کمینگی K_B A_I M_I I_I1_I N_G_I G_I I_I1_E
+کمیونسٹ K_B A_I M_I J_I O_O_I N_I I_I S_I T_E
+کمیونٹی K_B A_I M_I J_I U_U_I N_I I_I T_I I_I1_E
+کمیٹی K_B A_I M_I A_Y_I T_I I_I1_E
+کن K_B A_I N_E
+کندھوں K_B A_I N_I D_D_H_I O_O_N_E
+کنسورشیم K_B A_I N_I S_I O_O_I R_I S_H_I I_I J_I A_I M_E
+کنفیوژ K_B A_I N_I F_I I_I J_I U_U_I Z_Z_E
+کنفیوژن K_B A_I N_I F_I I_I J_I U_U_I Z_Z_I A_I N_E
+کنواں K_B U_I N_I V_I A_A_N_E
+کنونشن K_B A_I N_I V_I I_I N_I S_H_I A_I N_E
+کنوینس K_B A_I N_I V_I A_Y_I N_I S_E
+کنویں K_B U_I N_I V_I A_Y_N_E
+کنٹرول K_B A_I N_I T_I R_I O_O_I L_E
+کنٹریکٹ K_B A_I N_I T_I I_I R_I A_E1_I K_I T_E
+کنڑ K_B U_I N_I R_R_E
+کنگڈم K_B I_I N_G_I D_I A_I M_E
+کنگھی K_B A_I N_I G_H_I I_I1_E
+کنگھے K_B A_I N_I G_H_I A_Y_E
+کنیئرڈ K_B A_I N_I A_Y_I A_I R_I D_E
+کو K_B O_O_E
+کوآرڈینیٹر K_B O_O_I A_A_I R_I D_I I_I1_I N_I A_Y_I T_I A_I R_E
+کوئز K_B U_U_I I_I Z_E
+کوئل K_B O_O_I A_Y_I L_E
+کوئلے K_B O_O_I I_I L_I A_Y_E
+کوئی K_B O_O_I I_I1_E
+کوئین K_B U_U_I I_I1_I N_E
+کوارڈینیٹر K_B O_O_I A_I D_I I_I1_I N_I A_Y_I T_I A_I R_E
+کوتاہی K_B O_O_I T_D_I A_A_I H_I I_I1_E
+کود K_B U_U_I D_D_E
+کوریج K_B A_A_I V_I R_I A_Y_I D_Z_E
+کوریوگرافر K_B O_O_I R_I I_I1_I O_O_I G_I A_I R_I A_A_I F_I A_I R_E
+کوسموس K_B O_I S_I M_I O_O_I S_E
+کوسوں K_B O_O_I S_I O_O_N_E
+کوش K_B O_O_I S_H_E
+کوشاں K_B O_O_I S_H_I A_A_N_E
+کوشش K_B O_O_I S_H_I I_I S_H_E
+کوششوں K_B O_O_I S_H_I I_I S_H_I O_O_N_E
+کوششیں K_B O_O_I S_H_I I_I S_H_I A_Y_N_E
+کوفی K_B O_O_I F_I I_I1_E
+کولسری K_B O_O_I L_I S_I A_I R_I I_I1_E
+کولن K_B O_O_I L_I A_I N_E
+کولیسٹرول K_B O_O_I L_I A_E1_I S_I T_I A_I R_I O_O_I L_E
+کولیشن K_B U_U_I L_I A_E1_I S_H_I A_I N_E
+کونسل K_B O_I N_I S_I A_I L_E
+کونسلر K_B O_I N_I S_I L_I A_I R_E
+کونین K_B O_O_I N_I I_I1_I N_E
+کوٹھری K_B O_O_I T_H_I R_I I_I1_E
+کوٹھڑی K_B O_O_I T_H_I R_R_I I_I1_E
+کوٹھی K_B O_O_I T_H_I I_I1_E
+کوٹھیاں K_B O_O_I T_H_I I_I J_I A_A_N_E
+کوٹھیوں K_B O_O_I T_H_I I_I1_I O_O_N_E
+کوٹھے K_B O_O_I T_H_I A_Y_E
+کوچ K_B O_O_I T_S1_E
+کوچنگ K_B O_O_I T_S1_I I_I N_G_E
+کوچوان K_B O_O_I T_S1_I V_I A_A_I N_E
+کوچوں K_B U_U_I T_S1_I O_O_N_E
+کوچہ K_B U_U_I T_S1_I A_A_E
+کوچی K_B U_U_I T_S1_I I_I1_E
+کوچے K_B U_U_I T_S1_I A_Y_E
+کوڈ K_B O_O_I D_E
+کوڑھ K_B O_O_I R_R_H_E
+کوڑی K_B O_I R_R_I I_I1_E
+کوڑیاں K_B O_I R_R_I I_I J_I A_A_N_E
+کوکھ K_B O_O_I K_H_E
+کوہستان K_B O_O_I H_I I_I S_I T_D_I A_A_I N_E
+کٹھن K_B A_I T_H_I I_I N_E
+کچرا K_B A_I T_S1_I R_I A_A_E
+کچرے K_B A_I T_S1_I R_I A_Y_E
+کچل K_B U_I T_S1_I A_I L_E
+کچلا K_B U_I T_S1_I L_I A_A_E
+کچلے K_B U_I T_S1_I L_I A_Y_E
+کچوری K_B A_I T_S1_I U_U_I R_I I_I1_E
+کچوکے K_B A_I T_S1_I O_O_I K_I A_Y_E
+کچھ K_B U_I T_S_H_E
+کچھوؤں K_B A_I T_S_H_I T_S_H_I U_U_I O_O_N_E
+کچھوا K_B A_I T_S_H_I V_I A_A_E
+کچھوے K_B A_I T_S_H_I V_I A_Y_E
+کچھی K_B A_I T_S_H_I T_S_H_I I_I1_E
+کچھے K_B A_I T_S1_I T_S_H_I A_Y_E
+کچہری K_B A_I T_S1_I A_E_H_I H_I R_I I_I1_E
+کچیلے K_B U_I T_S1_I A_E1_I L_I A_Y_E
+کڑاہی K_B A_I R_R_I A_A_I H_I I_I1_E
+کڑوا K_B A_I R_R_I V_I A_A_E
+کڑوی K_B A_I R_R_I V_I I_I1_E
+کڑوے K_B A_I R_R_I V_I A_Y_E
+کڑھنے K_B U_I R_R_H_I N_I A_Y_E
+کھا K_H_B A_A_E
+کھاؤ K_H_B A_A_I O_O_E
+کھاؤں K_H_B A_A_I U_U_N_E
+کھائیں K_H_B A_A_I A_Y_N_E
+کھاتے K_H_B A_A_I T_D_I A_Y_E
+کھاد K_H_B A_A_I D_D_E
+کھال K_H_B A_A_I L_E
+کھانے K_H_B A_A_I N_I A_Y_E
+کھایا K_H_B A_A_I J_I A_A_E
+کھبے K_H_B U_I B_I A_Y_E
+کھجلی K_H_B U_I D_Z_I L_I I_I1_E
+کھجور K_H_B A_I D_Z_I U_U_I R_E
+کھجوریں K_H_B A_I D_Z_I U_U_I R_I A_Y_N_E
+کھدائی K_H_B U_I D_D_I A_A_I I_I1_E
+کھدر K_H_B A_I D_D_I D_D_I A_I R_E
+کھر K_H_B A_I R_E
+کھسوٹ K_H_B A_I S_I O_O_I T_E
+کھسک K_H_B I_I S_I A_I K_E
+کھسے K_H_B U_I S_I S_I A_Y_E
+کھل K_H_B A_I L_E
+کھلاڑی K_H_B I_I L_I A_A_I R_R_I I_I1_E
+کھلاڑیوں K_H_B I_I L_I A_A_I R_R_I I_I1_I O_O_N_E
+کھلنڈرا K_H_B A_I L_I A_I N_I D_I R_I A_A_E
+کھلنے K_H_B I_I L_I N_I A_Y_E
+کھلوائیں K_H_B I_I L_I V_I A_A_I A_Y_N_E
+کھلواڑ K_H_B A_I L_I V_I A_A_I R_R_E
+کھلکھلا K_H_B I_I L_I K_H_I I_I L_I A_A_E
+کھلیں K_H_B I_I L_I A_Y_N_E
+کھلے K_H_B I_I L_I A_Y_E
+کھمبیوں K_H_B U_I M_I B_I I_I1_I O_O_N_E
+کھمبے K_H_B A_I M_I B_I A_Y_E
+کھنچ K_H_B I_I N_I T_S1_E
+کھنگالنے K_H_B A_I N_G_I G_I A_A_I L_I N_I A_Y_E
+کھو K_H_B O_O_E
+کھوئی K_H_B O_O_I I_I1_E
+کھوئے K_H_B O_O_I A_Y_E
+کھوج K_H_B O_O_I D_Z_E
+کھود K_H_B O_O_I D_D_E
+کھوسٹ K_H_B U_U_I S_I A_I T_E
+کھول K_H_B O_O_I L_E
+کھولنے K_H_B O_O_I L_I N_I A_Y_E
+کھولو K_H_B O_O_I L_I O_O_E
+کھولیں K_H_B O_O_I L_I A_Y_N_E
+کھولے K_H_B O_O_I L_I A_Y_E
+کھونے K_H_B O_O_I N_I A_Y_E
+کھوکھلا K_H_B O_O_I K_H_I L_I A_A_E
+کھوکھلی K_H_B O_O_I K_H_I L_I I_I1_E
+کھوکھلے K_H_B O_O_I K_H_I L_I A_Y_E
+کھوہ K_H_B O_O_E
+کھویا K_H_B O_O_I J_I A_A_E
+کھچ K_H_B A_I T_S1_E
+کھچڑی K_H_B I_I T_S1_I R_R_I I_I1_E
+کھچی K_H_B I_I T_S1_I I_I1_E
+کھڈی K_H_B A_I D_I D_I I_I1_E
+کھڑا K_H_B A_I R_R_I A_A_E
+کھڑکی K_H_B I_I R_R_I K_I I_I1_E
+کھڑے K_H_B A_I R_R_I A_Y_E
+کھگہ K_H_B A_I G_I A_A_E
+کھیر K_H_B I_I1_I R_E
+کھیل K_H_B A_Y_I L_E
+کھیلتے K_H_B A_Y_I L_I T_D_I A_Y_E
+کھیلنی K_H_B A_E1_I L_I N_I I_I1_E
+کھیلنے K_H_B A_Y_I L_I N_I A_Y_E
+کھیلوں K_H_B A_Y_I L_I O_O_N_E
+کھیلیں K_H_B A_Y_I L_I A_Y_N_E
+کھیلے K_H_B A_Y_I L_I A_Y_E
+کھینچیں K_H_B A_E1_I N_I T_S1_I A_Y_N_E
+کہ K_B A_Y_E
+کہا K_B A_I H_I A_A_E
+کہانی K_B A_I H_I A_A_I N_I I_I1_E
+کہاں K_B A_I H_I A_A_N_E
+کہف K_B A_I H_I F_E
+کہلوا K_B A_I H_I A_I L_I V_I A_A_E
+کہنا K_B A_E_H_I H_I N_I A_A_E
+کہو K_B A_I H_I O_O_E
+کہکشاؤں K_B A_I H_I K_I A_I S_H_I A_A_I O_O_N_E
+کہکشاں K_B A_I H_I K_I A_I S_H_I A_A_N_E
+کی K_B I_I1_E
+کیا K_B A_Y_I J_I A_A_E
+کیجیے K_B I_I1_I D_Z_I I_I1_I A_Y_E
+کیریئر K_B A_E1_I R_I I_I1_I A_I R_E
+کیریو K_B A_E1_I R_I I_I1_I O_O_E
+کیس K_B A_Y_I S_E
+کیسز K_B A_Y_I S_I I_I Z_E
+کیسوں K_B A_Y_I S_I O_O_N_E
+کیسی K_B A_Y_I S_I I_I1_E
+کیفر K_B A_E1_I F_I A_I R_E
+کیفی K_B A_E1_I F_I I_I1_E
+کیفے K_B A_E1_I F_I A_Y_E
+کیلئے K_B A_Y_I L_I I_I A_Y_E
+کیلشم K_B A_E1_I L_I I_I S_H_I M_E
+کیموتھراپی K_B A_E1_I M_I O_O_I T_D_H_I I_I R_I A_A_I P_I I_I1_E
+کیمپ K_B A_E1_I M_I P_E
+کینولا K_B A_E1_I N_I O_O_I L_I A_A_E
+کینگرو K_B A_E1_I N_G_I R_I U_U_E
+کینیڈین K_B A_E1_I N_I A_Y_I D_I I_I J_I A_I N_E
+کیو K_B I_I J_I U_U_E
+کیولری K_B A_E1_I O_O_I L_I A_I R_I I_I1_E
+کیونکہ K_B I_I J_I U_U_I N_I K_I A_Y_E
+کیوڑہ K_B A_Y_I V_I R_R_I A_A_E
+کیوں K_B I_I1_I J_I O_O_N_E
+کیچ K_B I_I1_I T_S1_E
+کیچڑ K_B I_I1_I T_S1_I A_I R_R_E
+کیڑا K_B I_I1_I R_R_I A_A_E
+کیڑوں K_B I_I1_I R_R_I O_O_N_E
+کیڑے K_B I_I1_I R_R_I A_Y_E
+کیں K_B I_I_N_E
+کیے K_B I_I1_I A_Y_E
+کے K_B A_Y_E
+گئی G_B A_I I_I1_E
+گئیں G_B A_I A_Y_N_E
+گئے G_B A_I A_Y_E
+گا G_B A_A_E
+گاؤ G_B A_A_I O_O_E
+گاؤن G_B A_A_I U_U_I N_E
+گاؤں G_B A_A_I O_O_N_E
+گائنی G_B A_A_I I_I N_I I_I1_E
+گائیوں G_B A_A_I A_Y_I O_O_N_E
+گائیں G_B A_A_I A_Y_N_E
+گاجر G_B A_A_I D_Z_I A_I R_E
+گارلینڈ G_B A_A_I R_I L_I A_E1_I N_I D_E
+گالف G_B A_A_I L_I F_E
+گانٹھ G_B A_A_I N_I T_H_E
+گانٹھوں G_B A_A_I N_I T_H_I O_O_N_E
+گانٹھیں G_B A_A_I N_I T_H_I A_Y_N_E
+گاڑھا G_B A_A_I R_R_H_I A_A_E
+گاڑی G_B A_A_I R_R_I I_I1_E
+گاڑیاں G_B A_A_I R_R_I I_I J_I A_A_N_E
+گاہ G_B A_A_E
+گتھا G_B A_I T_D_H_I T_D_H_I A_A_E
+گتھی G_B U_I T_D_H_I T_D_H_I I_I1_E
+گتھیاں G_B U_I T_D_H_I T_D_H_I I_I J_I A_A_N_E
+گجر G_B A_I D_Z_I A_I R_E
+گجراتی G_B U_I D_Z_I R_I A_A_I T_D_I I_I1_E
+گدا G_B A_I D_D_I D_D_I A_A_E
+گداز G_B U_I D_D_I A_A_I Z_E
+گدڑی G_B U_I D_D_I R_R_I I_I1_E
+گدھ G_B I_I D_D_H_E
+گدھا G_B A_I D_D_H_I A_A_E
+گدھو G_B A_I D_D_H_I D_D_H_I U_U_E
+گدھوں G_B A_I D_D_H_I O_O_N_E
+گدھی G_B A_I D_D_H_I I_I1_E
+گدھے G_B A_I D_D_H_I A_Y_E
+گدے G_B A_I D_D_I D_D_I A_Y_E
+گذاروں G_B U_I Z_I A_I R_I U_U_N_E
+گذر G_B U_I Z_I A_I R_E
+گذریں G_B U_I Z_I R_I A_Y_N_E
+گذشتہ G_B U_I Z_I I_I S_H_I T_D_I A_A_E
+گراؤنڈ G_B I_I R_I A_A_I U_U_I N_I D_E
+گراموفون G_B I_I R_I A_A_I M_I O_O_I F_I O_O_I N_E
+گرانقدر G_B I_I R_I A_A_N_I Q_I A_I D_D_I R_E
+گراں G_B A_I R_I A_A_N_E
+گرج G_B A_I R_I A_I D_Z_E
+گرداں G_B A_I R_I D_D_I A_A_N_E
+گردش G_B A_I R_I D_D_I I_I S_H_E
+گردوغبار G_B A_I R_I D_D_I O_O_I G_G_I U_I B_I A_A_I R_E
+گردیزی G_B A_I R_I D_D_I A_Y_I Z_I I_I1_E
+گرفتار G_B I_I R_I I_I F_I T_D_I A_A_I R_E
+گرل G_B I_I R_I L_E
+گرلز G_B A_I R_I L_I Z_E
+گرما G_B A_I R_I M_I A_A_E
+گرمجوشی G_B A_I R_I A_I M_I D_Z_I O_O_I S_H_I I_I1_E
+گرنے G_B I_I R_I N_I A_Y_E
+گروتھ G_B A_I R_I O_O_I T_D_H_E
+گروپ G_B U_I R_I U_U_I P_E
+گروں G_B I_I R_I O_O_N_E
+گروہ G_B A_I R_I V_I A_A_E
+گروہوں G_B A_I R_I O_O_I H_I O_O_N_E
+گرویدہ G_B I_I R_I V_I I_I1_I D_D_I A_A_E
+گرہیں G_B I_I R_I H_I A_Y_N_E
+گریجویشن G_B I_I R_I A_E1_I D_Z_I U_U_I A_Y_I S_H_I A_I N_E
+گریز G_B U_I R_I A_Y_I Z_E
+گریڈ G_B I_I R_I A_Y_I D_E
+گریں G_B I_I R_I A_Y_N_E
+گز G_B A_I Z_E
+گزارنے G_B U_I Z_I A_A_I R_I N_I A_Y_E
+گزری G_B U_I Z_I R_I I_I1_E
+گزرے G_B U_I Z_I R_I A_Y_E
+گزشتہ G_B U_I Z_I A_I S_H_I T_D_I A_A_E
+گزیر G_B U_I Z_I I_I1_I R_E
+گستاخی G_B U_I S_I T_D_I A_A_I X_I I_I1_E
+گشت G_B A_I S_H_I T_D_E
+گفتگو G_B U_I F_I T_D_I G_I U_U_E
+گفٹ G_B I_I F_I T_E
+گل G_B A_I L_E
+گلدستہ G_B U_I L_I D_D_I A_I S_I T_D_I A_A_E
+گلریز G_B U_I L_I R_I A_Y_I Z_E
+گلستان G_B U_I L_I I_I S_I T_D_I A_A_I N_E
+گلسرین G_B I_I L_I S_I A_I R_I I_I1_I N_E
+گلشن G_B U_I L_I S_H_I A_I N_E
+گلوبل G_B U_I L_I O_O_I B_I A_I L_E
+گلوز G_B A_I L_I A_I V_I Z_E
+گلگشت G_B U_I L_I G_I A_I S_H_I T_D_E
+گلہری G_B U_I L_I A_E_H_I H_I R_I I_I1_E
+گلیشئر G_B A_I L_I A_Y_I S_H_I I_I A_I R_E
+گلیشئیر G_B A_I L_I A_E1_I S_H_I I_I J_I A_I R_E
+گلیوں G_B A_I L_I L_I I_I1_I O_O_N_E
+گلے G_B A_I L_I L_I A_Y_E
+گم G_B A_I M_E
+گمبھیر G_B A_I M_I B_H_I I_I1_I R_E
+گمشدہ G_B U_I M_I S_H_I U_I D_D_I A_A_E
+گنا G_B I_I N_I A_A_E
+گناہ G_B U_I N_I A_A_E
+گناہوں G_B U_I N_I A_A_I H_I O_O_N_E
+گنجلک G_B U_I N_I D_Z_I L_I A_I K_E
+گندم G_B A_I N_I D_D_I U_I M_E
+گنواتے G_B I_I N_I V_I A_A_I T_D_I A_Y_E
+گنگا G_B A_I N_G_I G_I A_A_E
+گنگولی G_B A_I N_G_I G_I U_U_I L_I I_I1_E
+گنہگار G_B U_I N_I A_I H_I G_I A_A_I R_E
+گو G_B O_O_E
+گوبر G_B O_O_I B_I A_I R_E
+گوبھی G_B O_O_I B_H_I I_I1_E
+گوجر G_B O_O_I D_Z_I A_I R_E
+گوجری G_B O_O_I D_Z_I R_I I_I1_E
+گود G_B O_O_I D_D_E
+گودام G_B U_U_I D_D_I A_A_I M_E
+گورنر G_B A_I V_I A_I R_I N_I A_I R_E
+گورنمنٹ G_B A_I V_I A_I R_I N_I M_I I_I N_I T_E
+گورنینس G_B U_I V_I A_I R_I N_I A_E1_I N_I S_E
+گوریلے G_B O_I R_I I_I1_I L_I A_Y_E
+گورے G_B O_O_I R_I A_Y_E
+گوشت G_B O_O_I S_H_I T_D_E
+گوشوارہ G_B O_O_I S_H_I V_I A_A_I R_I A_A_E
+گوشوں G_B O_O_I S_H_I O_O_N_E
+گوشہ G_B O_O_I S_H_I A_A_E
+گوشے G_B O_O_I S_H_I A_Y_E
+گول G_B O_O_I L_E
+گولائی G_B O_I L_I A_A_I I_I1_E
+گولوں G_B O_O_I L_I O_O_N_E
+گولڈ G_B O_O_I L_I D_E
+گولڑوی G_B O_O_I L_I R_R_I A_I V_I I_I1_E
+گومگو G_B O_O_I M_I A_I G_I O_O_E
+گونج G_B U_U_I N_I D_Z_E
+گوند G_B O_O_I N_I D_D_E
+گوندھیں G_B U_U_N_I D_D_H_I A_Y_N_E
+گونگے G_B U_U_I N_G_I G_I A_Y_E
+گوٹھ G_B O_O_I T_H_E
+گوٹھوں G_B O_O_I T_H_I O_O_N_E
+گوڈی G_B O_O_I D_I I_I1_E
+گوگل G_B U_U_I G_I A_I L_E
+گوہ G_B O_O_I H_E
+گوہر G_B O_O_I H_I A_I R_E
+گویا G_B O_O_I J_I A_A_E
+گٹھلی G_B U_I T_H_I L_I I_I1_E
+گٹھلیاں G_B U_I T_H_I L_I I_I J_I A_A_N_E
+گٹھڑی G_B A_I T_H_I R_R_I I_I1_E
+گچھوں G_B U_I T_S_H_I T_S_H_I O_O_N_E
+گچھے G_B U_I T_S1_I T_S_H_I A_Y_E
+گڈ G_B U_I D_E
+گڈا G_B U_I D_I D_I A_A_E
+گڈریے G_B U_I D_I A_I R_I J_I A_Y_E
+گڑبڑ G_B A_I R_R_I B_I A_I R_R_E
+گڑگڑا G_B I_I R_R_I G_I I_I R_R_I A_A_E
+گڑگڑاہٹ G_B U_I R_R_I G_I A_I R_R_I A_A_I H_I A_I T_E
+گڑھ G_B A_I R_R_H_E
+گڑھوں G_B A_I R_R_H_I O_O_N_E
+گڑیا G_B U_I R_R_I J_I A_A_E
+گگلی G_B U_I G_I L_I I_I1_E
+گگن G_B A_I G_I A_I N_E
+گھاؤ G_H_B A_A_I O_O_E
+گھائل G_H_B A_A_I I_I L_E
+گھاس G_H_B A_A_I S_E
+گھاگرا G_H_B A_A_I G_I R_I A_A_E
+گھر G_H_B A_I R_E
+گھروں G_H_B A_I R_I O_O_N_E
+گھریلو G_H_B A_I R_I A_Y_I L_I U_U_E
+گھرے G_H_B I_I R_I A_Y_E
+گھس G_H_B U_I S_E
+گھسنا G_H_B U_I S_I N_I A_A_E
+گھسنے G_H_B I_I S_I N_I A_Y_E
+گھسیٹ G_H_B A_I S_I I_I1_I T_E
+گھسے G_H_B U_I S_I S_I A_Y_E
+گھل G_H_B U_I L_E
+گھلیں G_H_B U_I L_I A_Y_N_E
+گھمبیر G_H_B A_I M_I B_I I_I1_I R_E
+گھمن G_H_B U_I M_I M_I A_I N_E
+گھن G_H_B A_I N_E
+گھناؤنا G_H_B I_I N_I A_A_I O_O_I N_I A_A_E
+گھناؤنے G_H_B I_I N_I A_A_I O_O_I N_I A_Y_E
+گھنٹہ G_H_B A_I N_I T_I A_A_E
+گھنٹے G_H_B A_I N_I T_I A_Y_E
+گھنگرو G_H_B U_I N_G_I R_I U_U_E
+گھنگریالے G_H_B U_I N_G_I R_I I_I J_I A_A_I L_I A_Y_E
+گھنگھور G_H_B A_I N_I G_H_I O_O_I R_E
+گھنیری G_H_B A_I N_I A_Y_I R_I I_I1_E
+گھور G_H_B O_O_I R_E
+گھورنے G_H_B U_U_I R_I N_I A_Y_E
+گھوسٹ G_H_B O_O_I S_I T_E
+گھول G_H_B O_O_I L_E
+گھوم G_H_B U_U_I M_E
+گھونٹ G_H_B O_O_I N_I T_E
+گھونگٹ G_H_B U_U_I N_G_I A_I T_E
+گھوڑے G_H_B O_O_I R_R_I A_Y_E
+گھٹا G_H_B A_I T_I A_A_E
+گھڑی G_H_B A_I R_R_I I_I1_E
+گھڑیاں G_H_B A_I R_R_I J_I A_A_N_E
+گھڑیوں G_H_B A_I R_R_I J_I O_O_N_E
+گھی G_H_B I_I1_E
+گھیا G_H_B I_I J_I A_A_E
+گھیراؤ G_H_B A_E1_I R_I A_A_I O_O_E
+گھیرے G_H_B A_Y_I R_I A_Y_E
+گہر G_B U_I H_I A_I R_E
+گہرا G_B A_I H_I R_I A_A_E
+گہرے G_B A_E_H_I H_I R_I A_Y_E
+گہماگہمی G_B A_E_H_I H_I M_I A_A_I G_I A_E_H_I H_I M_I I_I1_E
+گی G_B I_I1_E
+گیا G_B A_Y_I A_A_E
+گیارہ G_B I_I J_I A_A_I R_I A_A_E
+گیارہویں G_B I_I J_I A_A_I R_I A_I H_I V_I A_Y_N_E
+گیج G_B A_Y_I D_Z_E
+گیجٹ G_B A_E1_I D_Z_I A_I T_E
+گیدڑ G_B I_I1_I D_D_I A_I R_R_E
+گیر G_B A_Y_I R_E
+گیراج G_B A_E1_I R_I A_A_I D_Z_E
+گیس G_B A_E1_I S_E
+گیسو G_B A_E1_I S_I U_U_E
+گیسیں G_B A_E1_I S_I A_Y_N_E
+گیلری G_B A_E1_I L_I R_I I_I1_E
+گیمز G_B A_Y_I M_I Z_E
+گیند G_B A_Y_I N_I D_D_E
+گیندے G_B A_Y_I N_I D_D_I A_Y_E
+گینز G_B A_E1_I N_I Z_E
+گینگ G_B A_E1_I N_G_E
+گینگز G_B A_E1_I N_G_I Z_E
+گینگسٹر G_B A_E1_I N_G_I S_I T_I A_I R_E
+گیَر G_B A_Y_I R_E
+گیگا G_B I_I1_I G_I A_A_E
+گیہوں G_B A_Y_I H_I U_U_N_E
+گے G_B A_Y_E
+ھابھہ B_H_B A_A_I H_E
+ہاؤس H_B A_A_I U_U_I S_E
+ہاؤسز H_B A_A_I U_I S_I I_I Z_E
+ہاؤسنگ H_B A_A_I U_U_I S_I I_I N_G_E
+ہائیڈروجن H_B A_A_I I_I1_I D_I R_I O_O_I D_Z_I A_I N_E
+ہائے H_B A_A_I A_Y_E
+ہاتھوں H_B A_A_I T_D_H_I O_O_N_E
+ہارویسٹر H_B A_A_I R_I V_I A_E1_I S_I T_I A_I R_E
+ہارڈویر H_B A_A_I R_I D_I V_I A_Y_I A_I R_E
+ہاشمی H_B A_A_I S_H_I M_I I_I1_E
+ہاشوانی H_B A_A_I S_H_I V_I A_A_I N_I I_I1_E
+ہاں H_B A_A_N_E
+ہتھ H_B A_I T_D_H_E
+ہتھوڑے H_B A_I T_D_H_I O_O_I R_R_I A_Y_E
+ہتھیار H_B A_I T_D_H_I J_I A_A_I R_E
+ہتھیلی H_B A_I T_D_H_I A_Y_I L_I I_I1_E
+ہجر H_B I_I D_Z_I A_I R_E
+ہجران H_B I_I D_Z_I R_I A_A_I N_E
+ہجرت H_B I_I D_Z_I R_I A_I T_D_E
+ہجری H_B I_I D_Z_I R_I I_I1_E
+ہجو H_B A_I D_Z_I V_E
+ہجوم H_B U_I D_Z_I U_U_I M_E
+ہجوں H_B I_I D_Z_I D_Z_I O_O_N_E
+ہجویری H_B I_I D_Z_I V_I A_Y_I R_I I_I1_E
+ہجویہ H_B A_I D_Z_I V_I I_I J_I A_A_E
+ہجے H_B I_I D_Z_I D_Z_I A_Y_E
+ہدایت H_B I_I D_D_I A_A_I J_I A_I T_D_E
+ہدایتکار H_B A_I D_D_I A_A_I J_I I_I T_D_I K_I A_A_I R_E
+ہذیانی H_B A_I Z_I J_I A_A_I N_I I_I1_E
+ہر H_B A_I R_E
+ہرادھنیا H_B A_I R_I A_A_I D_D_H_I A_I N_I J_I A_A_E
+ہراساں H_B A_I R_I A_A_I S_I A_A_N_E
+ہرگز H_B A_I R_I G_I I_I Z_E
+ہزار H_B A_I Z_I A_A_I R_E
+ہزارویں H_B A_I Z_I A_A_I R_I V_I A_Y_N_E
+ہسپانوی H_B A_I S_I P_I A_A_I N_I I_I V_I I_I1_E
+ہفتے H_B A_I F_I T_D_I A_Y_E
+ہلاک H_B A_I L_I A_A_I K_E
+ہلکی H_B A_I L_I K_I I_I1_E
+ہم H_B A_I M_E
+ہما H_B U_I M_I A_A_E
+ہمارا H_B A_I M_I A_A_I R_I A_A_E
+ہمارے H_B A_I M_I A_A_I R_I A_Y_E
+ہمجولیوں H_B A_I M_I D_Z_I O_O_I L_I I_I1_I O_O_N_E
+ہمراہ H_B A_I M_I R_I A_A_E
+ہمزاد H_B A_I M_I Z_I A_A_I D_D_E
+ہمسفر H_B A_I M_I S_I A_I F_I A_I R_E
+ہمشیرہ H_B A_I M_I S_H_I I_I1_I R_I A_A_E
+ہموار H_B A_I M_I V_I A_A_I R_E
+ہمیشہ H_B A_I M_I A_Y_I S_H_I A_A_E
+ہمیں H_B A_I M_I A_Y_N_E
+ہندسوں H_B I_I N_I D_D_I S_I O_O_N_E
+ہندسے H_B I_I N_I D_D_I S_I A_Y_E
+ہندوؤں H_B I_I N_I D_D_I U_U_I O_O_N_E
+ہندوستانی H_B I_I N_I D_D_I U_U_I S_I T_D_I A_A_I N_I I_I1_E
+ہنسنے H_B A_I N_I S_I N_I A_Y_E
+ہنسیں H_B A_I N_I S_I A_Y_N_E
+ہنوز H_B U_I N_I U_U_I Z_E
+ہنگامہ H_B A_I N_G_I G_I A_A_I M_I A_A_E
+ہنگامی H_B A_I N_G_I G_I A_A_I M_I I_I1_E
+ہنگری H_B A_I N_G_I R_I I_I1_E
+ہو H_B O_O_E
+ہوئی H_B U_U_I I_I1_E
+ہوئیں H_B U_U_I I_I_N_E
+ہوئے H_B U_U_I A_Y_E
+ہوا H_B A_I V_I V_I A_A_E
+ہوتا H_B O_O_I T_D_I A_A_E
+ہوتی H_B O_O_I T_D_I I_I1_E
+ہوتے H_B O_O_I T_D_I A_Y_E
+ہودہ H_B O_I D_D_I A_A_E
+ہوزری H_B O_I Z_I A_I R_I I_I1_E
+ہوسٹس H_B O_O_I S_I T_I I_I S_E
+ہوش H_B O_O_I S_H_E
+ہوشربا H_B O_O_I S_H_I R_I U_I B_I A_A_E
+ہوشمندی H_B O_O_I S_H_I M_I A_I N_I D_D_I I_I1_E
+ہوشیار H_B O_O_I S_H_I I_I1_I A_A_I R_E
+ہوشیاری H_B O_O_I S_H_I J_I A_A_I R_I I_I1_E
+ہول H_B O_O_I L_E
+ہولناک H_B O_I L_I N_I A_A_I K_E
+ہولوں H_B O_O_I L_I O_O_N_E
+ہوم H_B O_O_I M_E
+ہومیوپیتھک H_B O_O_I M_I I_I1_I O_O_I P_I A_E1_I T_D_H_I I_I K_E
+ہومیوپیتھی H_B O_O_I M_I I_I1_I O_O_I P_I A_E1_I T_D_H_I I_I1_E
+ہونا H_B O_O_I N_I A_A_E
+ہونگی H_B O_O_I N_G_I I_I1_E
+ہونے H_B O_O_I N_I A_Y_E
+ہوں H_B U_U_N_E
+ہویدا H_B U_I V_I A_E1_I D_D_I A_A_E
+ہوے H_B U_U_I A_Y_E
+ہچکچاہٹ H_B I_I T_S1_I K_I I_I T_S1_I A_A_I H_I A_I T_E
+ہڈ H_B A_I D_E
+ہڈی H_B A_I D_I D_I I_I1_E
+ہڑتال H_B A_I R_R_I T_D_I A_A_I L_E
+ہی H_B I_I1_E
+ہیئت H_B A_E1_I A_I T_D_E
+ہیئر H_B A_Y_I A_I R_E
+ہیبت H_B A_E1_I B_I A_I T_D_E
+ہیجان H_B A_E1_I D_Z_I A_A_I N_E
+ہیجڑا H_B A_Y_I D_Z_I R_R_I A_A_E
+ہیجڑوں H_B I_I1_I D_Z_I R_R_I O_O_N_E
+ہیجڑے H_B I_I1_I D_Z_I R_R_I A_Y_E
+ہیرو H_B I_I1_I R_I O_O_E
+ہیروئن H_B A_Y_I R_I O_O_I I_I N_E
+ہیروئین H_B I_I1_I R_I O_O_I I_I1_I N_E
+ہیضہ H_B A_E1_I Z_I A_A_E
+ہیلتھ H_B A_Y_I L_I T_D_H_E
+ہیلمٹ H_B A_E1_I L_I M_I I_I T_E
+ہیلو H_B A_Y_I L_I O_O_E
+ہینڈ H_B A_E1_I N_I D_E
+ہینگ H_B A_Y_I N_G_E
+ہینگر H_B A_E1_I N_G_I G_I A_I R_E
+ہیوی H_B A_E1_I V_I I_I1_E
+ہیچ H_B A_Y_I T_S1_E
+ہیڈ H_B A_E1_I D_E
+ہیڈکوارٹر H_B A_E1_I D_I K_I U_I V_I A_A_I R_I T_I A_I R_E
+ہیں H_B A_E_N_E
+ہے H_B A_Y_E
+یا J_B A_A_E
+یاب J_B A_A_I B_E
+یادیں J_B A_A_I D_D_I A_Y_N_E
+یانگ J_B A_A_I N_G_E
+یاں J_B A_A_N_E
+یخنی J_B A_I X_I N_I I_I1_E
+یرغمال J_B A_I R_I G_G_I A_I M_I A_A_I L_E
+یزدانی J_B A_I Z_I D_D_I A_A_I N_I I_I1_E
+یعنی J_B A_I N_I I_I1_E
+یقین J_B A_I Q_I I_I1_I N_E
+یقیناً J_B A_I Q_I I_I1_I N_I A_I N_E
+یلغار J_B A_I L_I G_G_I A_A_I R_E
+ینگ J_B A_I N_G_E
+یوروپیئن J_B O_I R_I O_O_I P_I I_I1_I A_I N_E
+یورپی J_B O_O_I R_I P_I I_I1_E
+یوریا J_B U_U_I R_I I_I J_I A_A_E
+یورینیئم J_B U_U_I R_I I_I1_I N_I I_I1_I A_I M_E
+یوزر J_B U_U_I Z_I A_I R_E
+یوم J_B O_I M_E
+یونہی J_B U_U_I N_I H_I I_I1_E
+یونی J_B A_I V_I A_I N_I I_I1_E
+یونیورسٹی J_B U_U_I N_I I_I1_I V_I A_I R_I S_I I_I T_I I_I1_E
+یوگا J_B O_O_I G_I A_A_E
+یوں J_B U_U_N_E
+یکساں J_B A_I K_I S_I A_A_N_E
+یگانگت J_B A_I G_I A_A_I N_G_I G_I A_I T_D_E
+یہ J_B A_Y_E
+یہاں J_B A_I H_I A_A_N_E
+یہودی J_B U_I H_I U_U_I D_D_I I_I1_E
+یہی J_B A_Y_I H_I I_I1_E
+ییلو J_B A_Y_I L_I O_O_E
+<eps> SIL

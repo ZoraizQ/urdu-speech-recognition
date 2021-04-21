@@ -1,7 +1,8 @@
+<oov>
 A
 A_A
 A_A_N
-A_E
+A_E1
 A_E_H
 A_E_N
 A_Y
@@ -21,7 +22,7 @@ G_G
 G_H
 H
 I
-I_I
+I_I1
 I_I_N
 J
 K
@@ -32,6 +33,7 @@ N
 N_G
 N_H
 O
+O_N
 O_O
 O_O_H
 O_O_N
@@ -47,7 +49,7 @@ T
 T_D
 T_D_H
 T_H
-T_S
+T_S1
 T_S_H
 U
 U_U
