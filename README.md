@@ -12,7 +12,7 @@ Urdu Speech Recognition using the Kaldi ASR toolkit, by training Triphone Acoust
 - s5 (Main corpus training directory)
 - Experiments (Final .mdl, best_wer, corresponding wer stats and per_spk stats for each experiment)
 - Scripts (Helper scripts)
-- .wav folders for each of the 5 speakers by their speaker ID (21100XXX).
+- .wav folders for each of the 5 speakers by their speaker ID (21100XXX)
 - PRUS_21100XXX.txt generated corpus, speakerID wise for the PRUS dataset made using PronouncUR [1].
 
 
