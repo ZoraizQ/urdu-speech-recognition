@@ -1,4 +1,0 @@
-compute-wer --text --mode=present ark:exp/sgmm2_4_mmi_b0.1/decode_it1/scoring_kaldi/test_filt.txt ark,p:- 
-%WER 83.15 [ 1258 / 1513, 309 ins, 14 del, 935 sub ]
-%SER 100.00 [ 108 / 108 ]
-Scored 108 sentences, 0 not present in hyp.
