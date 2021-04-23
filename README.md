@@ -1,5 +1,5 @@
 # Urdu Speech Recognition
-Urdu Speec Recognition using the Kaldi ASR toolkit, by training Triphone Acoustic Gaussian Mixture Models using the PRUS dataset and lexicon in a team of 5 students for the course CS 433 Speech Processing at Lahore University of Management Sciences.
+Urdu Speech Recognition using the Kaldi ASR toolkit, by training Triphone Acoustic Gaussian Mixture Models using the PRUS dataset and lexicon in a team of 5 students for the course CS 433 Speech Processing at Lahore University of Management Sciences.
 - Zoraiz Qureshi 21100130
 - Ahmed Farhan 21100320
 - Ramez Salman 21100170
