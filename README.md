@@ -1,5 +1,5 @@
 # Urdu Speech Recognition
-Urdu Speech Recognition using the Kaldi ASR toolkit, by training Triphone Acoustic Gaussian Mixture Models using the PRUS dataset and lexicon in a team of 5 students for the course CS 433 Speech Processing at Lahore University of Management Sciences.
+Urdu Speech Recognition using the Kaldi ASR toolkit, by training Triphone Acoustic Gaussian Mixture Models using the PRUS dataset and lexicon in a team of 5 students for the course CS 433 Speech Processing taught by Dr. Agha Ali Raza at Lahore University of Management Sciences.
 - Zoraiz Qureshi 21100130
 - Ahmed Farhan 21100320
 - Ramez Salman 21100170
@@ -25,11 +25,11 @@ Urdu Speech Recognition using the Kaldi ASR toolkit, by training Triphone Acoust
 
 
 ## Experiments
-- **Experiments 1-5**: Trained a GMM based tri-phone acoustic model on the first 600 sentences of the corpus (PRUS.txt) and tested it on therestof108sentencesofthecorpusofeachspecificspeaker,so5differentmodels (SP1-SP5). Used LM1.gz while decoding.
+- **Experiments 1-5**: Trained a GMM based tri-phone acoustic model on the first 600 sentences of the corpus (PRUS.txt) and tested it on the rest of the 108 sentences of the corpus of each specific speaker, so 5 different models (SP1-SP5). Used LM1.gz while decoding.
 
-- **Experiment 6**: Trained a GMM based tri-phoneacoustic model on the first 600 sentences of eachspeakers’ corpus (combine first 600 sentences of each memberto form one large training corpus) and test it onthe rest of the 108 sentences of each speaker’s corpus (combine 108sentences of each member to form one testing corpus).Used LM1.gz while decoding. 108 sentences of the corpuswill still be unseen as before so WER scores willremain high.
+- **Experiment 6**: Trained a GMM based tri-phoneacoustic model on the first 600 sentences of each speakers’ corpus (combine first 600 sentences of each member to form one large training corpus) and test it onthe rest of the 108 sentences of each speaker’s corpus (combine 108 sentences of each member to form one testing corpus). Used LM1.gz while decoding. 108 sentences of the corpus will still be unseen as before so WER scores willremain high.
 
-- **Experiments 7-11**: Trained a GMMbased tri-phone acoustic model on the complete corpus(708 sentences) of n-1 speakers and tested it on the completecorpus of the remaining 1 speaker, so 5 differentmodels (leaving out SP1-SP5). Used LM2.gz while decoding.
+- **Experiments 7-11**: Trained a GMM based tri-phone acoustic model on the complete corpus(708 sentences) of n-1 speakers and tested it on the complete corpus of the remaining 1 speaker, so 5 different models (leaving out SP1-SP5). Used LM2.gz while decoding.
 
 
 ## References
