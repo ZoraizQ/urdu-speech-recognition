@@ -1,10 +1,10 @@
 # Urdu Speech Recognition
 Urdu Speech Recognition using the Kaldi ASR toolkit, by training Triphone Acoustic Gaussian Mixture Models using the PRUS dataset and lexicon in a team of 5 students for the course CS 433 Speech Processing taught by Dr. Agha Ali Raza at Lahore University of Management Sciences.
-- Zoraiz Qureshi 21100130
-- Ahmed Farhan 21100320
-- Ramez Salman 21100170
-- Farrukh Rasool 21100297
-- Hamza Farooq 21100197
+- [Zoraiz Qureshi](https://github.com/ZoraizQ)
+- [Ahmed Farhan](https://github.com/AhmedFarhan252)
+- [Ramez Salman](https://github.com/ramzyraz)
+- [Farrukh Rasool](https://github.com/farrukhras)
+- [Hamza Farooq](https://github.com/hamzafarooq009)
 
 
 ## Run
